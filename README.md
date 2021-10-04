@@ -10,6 +10,12 @@ these are usefull bots in telegram.
 - #### [@InstalnlineBot](https://t.me/InstalnlineBot)
 - #### [@InstaFetchBot](https://t.me/InstaFetchBot)
 - #### [@Regrambot](https://t.me/Regrambot)
+### Wikipedia
+- #### [@Wiki](https://t.me/Wiki)
+- #### [@](https://t.me/)
+- #### [@](https://t.me/)
+
+
 
 
 
