@@ -12,7 +12,7 @@ these are usefull bots in telegram.
 - #### [@Regrambot](https://t.me/Regrambot)
 ### Wikipedia
 - #### [@Wiki](https://t.me/Wiki)
-- #### [@](https://t.me/)
+- #### [@Wikishbot](https://t.me/Wikishbot)
 - #### [@](https://t.me/)
 
 
