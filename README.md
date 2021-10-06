@@ -13,7 +13,7 @@ these are usefull bots in telegram.
 ### Wikipedia
 - #### [@Wiki](https://t.me/Wiki)
 - #### [@Wikishbot](https://t.me/Wikishbot)
-- #### [@](https://t.me/)
+- #### [@WikiBotBot](https://t.me/WikiBotBot)
 
 
 
