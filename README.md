@@ -17,7 +17,7 @@ these are usefull bots in telegram.
 - ### Search image
   - #### [@Bing](https://t.me/Bing)
   - #### [@Pic](https://t.me/Pic)
-  - #### [@WikiBotBot](https://t.me/WikiBotBot)
+  - #### [@imagebot](https://t.me/imagebot)
   - #### [@Wikishbot](https://t.me/Wikishbot)
   - #### [@WikiBotBot](https://t.me/WikiBotBot)
 
