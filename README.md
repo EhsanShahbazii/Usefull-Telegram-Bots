@@ -29,7 +29,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@Guggybot](https://t.me/Guggybot)
 - ### Search in internet
   - #### [@GoogleDEBot](https://t.me/GoogleDEBot)
-  - #### [@Gif](https://t.me/Gif)
+  - #### [@GoogramBot](https://t.me/GoogramBot)
 
 
 
