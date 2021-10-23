@@ -30,7 +30,9 @@ these are usefull bots in telegram. (updating...)
 - ### Search in internet
   - #### [@GoogleDEBot](https://t.me/GoogleDEBot)
   - #### [@GoogramBot](https://t.me/GoogramBot)
-
+- ### twitter robot
+  - #### [@TweetltBot](https://t.me/TweetltBot)
+  - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
 
 
 
