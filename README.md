@@ -33,8 +33,10 @@ these are usefull bots in telegram. (updating...)
 - ### twitter robot
   - #### [@TweetltBot](https://t.me/TweetltBot)
   - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
-
-
+- ### create QRcode
+  - #### [@TheQRbot](https://t.me/TheQRbot)
+  - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
+  - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
 
 
 
