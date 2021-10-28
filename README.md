@@ -37,8 +37,15 @@ these are usefull bots in telegram. (updating...)
   - #### [@TheQRbot](https://t.me/TheQRbot)
   - #### [@MakeQrBot](https://t.me/MakeQrBot)
   - #### [@QRQRbot](https://t.me/QRQRbot)
-
-
+- ### Translator
+  - #### [@Translate_robot](https://t.me/Translate_robot)
+  - #### [@Bing](https://t.me/Bing)
+  - #### [@Pic](https://t.me/Pic)
+  - #### [@imagebot](https://t.me/imagebot)
+  - #### [@imagesearchbot](https://t.me/imagesearchbot)
+  - #### [@Googleimgbot](https://t.me/Googleimgbot)
+  - #### [@BingImageBot](https://t.me/BingImageBot)
+  - #### [@ImageFetcherBot](https://t.me/ImageFetcherBot)
 
 
 
