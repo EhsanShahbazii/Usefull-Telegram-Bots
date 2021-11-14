@@ -50,5 +50,13 @@ these are usefull bots in telegram. (updating...)
   - #### [@langbot](https://t.me/langbot)
 - ### Teach English language
   - #### [@AndyRobot](https://t.me/AndyRobot)
-
+- ### Download Music
+  - #### [@MyMusicBot](https://t.me/MyMusicBot)
+  - #### [@TransisBot](https://t.me/TransisBot)
+  - #### [@ABot](https://t.me/ABot)
+  - #### [@Interpretbot](https://t.me/Interpretbot)
+  - #### [@Insttraslatebot](https://t.me/Insttraslatebot)
+  - #### [@YTranslateBot](https://t.me/YTranslateBot)
+  - #### [@Perevodbot](https://t.me/Perevodbot)
+  - #### [@Novindictionarybot](https://t.me/Novindictionarybot)
 
