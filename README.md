@@ -52,7 +52,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@AndyRobot](https://t.me/AndyRobot)
 - ### Download Music
   - #### [@MyMusicBot](https://t.me/MyMusicBot)
-  - #### [@TransisBot](https://t.me/TransisBot)
+  - #### [@Moozikestan_bot](https://t.me/Moozikestan_bot)
   - #### [@ABot](https://t.me/ABot)
   - #### [@Interpretbot](https://t.me/Interpretbot)
   - #### [@Insttraslatebot](https://t.me/Insttraslatebot)
