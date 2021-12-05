@@ -65,4 +65,6 @@ these are usefull bots in telegram. (updating...)
   - #### [@TakeyourmusicBot](https://t.me/TakeyourmusicBot)
   - #### [@BingMusicBot](https://t.me/BingMusicBot)
   - #### [@vkm4bot](https://t.me/vkm4bot)
-  - #### [@](https://t.me/)
+- ### Found piece of Music
+  - #### [@Melobot](https://t.me/Melobot)
+  - #### [@Moozikestan_bot](https://t.me/Moozikestan_bot)
