@@ -73,7 +73,7 @@ these are usefull bots in telegram. (updating...)
 - ### Edit Music
   - #### [@id3bot](https://t.me/id3bot)
   - #### [@Mp3toolsbot](https://t.me/Mp3toolsbot)
-  - #### [@Scloud_bot](https://t.me/Scloud_bot)
+  - #### [@Mp3EditBot](https://t.me/Mp3EditBot)
   - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
   
   
