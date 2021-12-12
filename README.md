@@ -74,7 +74,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@id3bot](https://t.me/id3bot)
   - #### [@Mp3toolsbot](https://t.me/Mp3toolsbot)
   - #### [@Mp3EditBot](https://t.me/Mp3EditBot)
-  - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
+  - #### [@SetTagBot](https://t.me/SetTagBot)
   
   
   
