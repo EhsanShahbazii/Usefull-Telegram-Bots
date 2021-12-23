@@ -83,7 +83,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@Gpschatbot](https://t.me/Gpschatbot)
 - ### Search Books
   - #### [@eBukBot](https://t.me/eBukBot)
-  - #### [@Gpschatbot](https://t.me/Gpschatbot)
+  - #### [@Pdfobot](https://t.me/Pdfobot)
   
   
   
