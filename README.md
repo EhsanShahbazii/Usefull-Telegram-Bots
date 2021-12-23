@@ -84,7 +84,9 @@ these are usefull bots in telegram. (updating...)
 - ### Search Books
   - #### [@eBukBot](https://t.me/eBukBot)
   - #### [@Pdfobot](https://t.me/Pdfobot)
-  
+- ### Read Books in Telegram
+  - #### [@Bookinator_bot](https://t.me/Bookinator_bot)
+  - #### [@Pdfobot](https://t.me/Pdfobot)
   
   
   
