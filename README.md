@@ -87,7 +87,21 @@ these are usefull bots in telegram. (updating...)
 - ### Read Books in Telegram
   - #### [@Bookinator_bot](https://t.me/Bookinator_bot)
   - #### [@BuchBookBot](https://t.me/BuchBookBot)
-  
+- ### Shorten the Link
+  - #### [@ShortUrlBot](https://t.me/ShortUrlBot)
+  - #### [@Moozikestan_bot](https://t.me/Moozikestan_bot)
+  - #### [@Scloud_bot](https://t.me/Scloud_bot)
+  - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
+  - #### [@The_MusicBot](https://t.me/The_MusicBot)
+  - #### [@MP3sBot](https://t.me/MP3sBot)
+  - #### [@GetMusicBot](https://t.me/GetMusicBot)
+  - #### [@vkm_bot](https://t.me/vkm_bot)
+  - #### [@Mp3robot](https://t.me/Mp3robot)
+  - #### [@BeatSpotBot](https://t.me/BeatSpotBot)
+  - #### [@Spotifybot](https://t.me/Spotifybot)
+  - #### [@TakeyourmusicBot](https://t.me/TakeyourmusicBot)
+  - #### [@BingMusicBot](https://t.me/BingMusicBot)
+  - #### [@vkm4bot](https://t.me/vkm4bot)
   
   
   
