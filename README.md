@@ -89,7 +89,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@BuchBookBot](https://t.me/BuchBookBot)
 - ### Shorten the Link
   - #### [@ShortUrlBot](https://t.me/ShortUrlBot)
-  - #### [@Moozikestan_bot](https://t.me/Moozikestan_bot)
+  - #### [@Shorturl_googl_bot](https://t.me/Shorturl_googl_bot)
   - #### [@Scloud_bot](https://t.me/Scloud_bot)
   - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
   - #### [@The_MusicBot](https://t.me/The_MusicBot)
