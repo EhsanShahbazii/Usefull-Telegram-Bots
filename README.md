@@ -96,7 +96,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@TelgrmlBot](https://t.me/TelgrmlBot)
   - #### [@LinkGeneratorBot](https://t.me/LinkGeneratorBot)
   - #### [@MinyGa_Bot](https://t.me/MinyGa_Bot)
-  - #### [@Mp3robot](https://t.me/Mp3robot)
+  - #### [@Referbot](https://t.me/Referbot)
 
   
   
