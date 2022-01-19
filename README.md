@@ -99,7 +99,16 @@ these are usefull bots in telegram. (updating...)
   - #### [@Referbot](https://t.me/Referbot)
 - ### Correct the link
   - #### [@Resolvemebot](https://t.me/Resolvemebot)
-  
+- ### Channel & user informations
+  - #### [@Userinfobot](https://t.me/Userinfobot)
+  - #### [@Shorturl_googl_bot](https://t.me/Shorturl_googl_bot)
+  - #### [@Urlprobot](https://t.me/Urlprobot)
+  - #### [@ShorrtltBot](https://t.me/ShorrtltBot)
+  - #### [@ylinkpro_bot](https://t.me/ylinkpro_bot)
+  - #### [@TelgrmlBot](https://t.me/TelgrmlBot)
+  - #### [@LinkGeneratorBot](https://t.me/LinkGeneratorBot)
+  - #### [@MinyGa_Bot](https://t.me/MinyGa_Bot)
+  - #### [@Referbot](https://t.me/Referbot)
   
   
   
