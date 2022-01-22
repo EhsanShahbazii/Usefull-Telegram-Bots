@@ -101,7 +101,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@Resolvemebot](https://t.me/Resolvemebot)
 - ### Channel & user informations
   - #### [@Userinfobot](https://t.me/Userinfobot)
-  - #### [@Shorturl_googl_bot](https://t.me/Shorturl_googl_bot)
+  - #### [@Get_id_bot](https://t.me/Get_id_bot)
   - #### [@Urlprobot](https://t.me/Urlprobot)
   - #### [@ShorrtltBot](https://t.me/ShorrtltBot)
   - #### [@ylinkpro_bot](https://t.me/ylinkpro_bot)
