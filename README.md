@@ -107,7 +107,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@ChannelldBot](https://t.me/ChannelldBot)
   - #### [@GroupIDbot](https://t.me/GroupIDbot)
   - #### [@U3erbot](https://t.me/U3erbot)
-  - #### [@MinyGa_Bot](https://t.me/MinyGa_Bot)
+  - #### [@Usinfobot](https://t.me/Usinfobot)
   - #### [@Referbot](https://t.me/Referbot)
   
   
