@@ -116,7 +116,8 @@ these are usefull bots in telegram. (updating...)
   - #### [@Whois_Bot](https://t.me/Whois_Bot)
 - ### Links Information
   - #### [@DynahBot](https://t.me/DynahBot)
-  
+- ### IPs Information
+  - #### [@ipinfoioBot](https://t.me/ipinfoioBot)
   
   
   
