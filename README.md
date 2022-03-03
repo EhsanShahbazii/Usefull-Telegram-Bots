@@ -118,7 +118,8 @@ these are usefull bots in telegram. (updating...)
   - #### [@DynahBot](https://t.me/DynahBot)
 - ### IPs Information
   - #### [@ipinfoioBot](https://t.me/ipinfoioBot)
-  
+- ### Site values
+  - #### [@ReadmeBot](https://t.me/ReadmeBot)
   
   
   
