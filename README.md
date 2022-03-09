@@ -124,7 +124,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@IFTTT](https://t.me/IFTTT)
 - ### Telegram Payment Robot
   - #### [@ShopBot](https://t.me/ShopBot)
-  - #### [@Get_id_bot](https://t.me/Get_id_bot)
+  - #### [@TelegramDonate](https://t.me/TelegramDonate)
   - #### [@ShowIDBot](https://t.me/ShowIDBot)
   
   
