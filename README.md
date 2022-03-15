@@ -126,5 +126,6 @@ these are usefull bots in telegram. (updating...)
   - #### [@ShopBot](https://t.me/ShopBot)
   - #### [@TelegramDonate](https://t.me/TelegramDonate)
   - #### [@Octopocket_bot](https://t.me/Octopocket_bot)
-  
+- ### Wallet
+  - #### [@BTC_Change_Bot](https://t.me/BTC_Change_Bot)
   
