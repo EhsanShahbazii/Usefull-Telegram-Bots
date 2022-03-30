@@ -132,7 +132,7 @@ these are usefull bots in telegram. (updating...)
 - ### RSS robot
   - #### [@Telefeedbot](https://t.me/Telefeedbota)
   - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
-  - #### [@ShowIDBot](https://t.me/ShowIDBot)
+  - #### [@Treaderbot](https://t.me/Treaderbot)
   - #### [@Getidsbot](https://t.me/Getidsbot)
   - #### [@ChannelldBot](https://t.me/ChannelldBot)
   - #### [@GroupIDbot](https://t.me/GroupIDbot)
