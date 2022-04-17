@@ -139,3 +139,7 @@ these are usefull bots in telegram. (updating...)
 - ### RSS feed channel
   - #### [@Junction_bot](https://t.me/Junction_bot)
   - #### [@Channelrushbot](https://t.me/Channelrushbot)
+- ### Token tools
+  - #### [@Info_token_bot](https://t.me/Info_token_bot)
+- ### RSS feed channel
+  - #### [@Junction_bot](https://t.me/Junction_bot)
