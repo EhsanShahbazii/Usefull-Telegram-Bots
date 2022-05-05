@@ -145,8 +145,10 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Rextester_bot](https://t.me/Rextester_bot)
 - ### Upload source text
   - #### [@YogurLBot](https://t.me/YogurLBot)
-
-
+- ### Photo service
+  - #### [@SyntaxHighlightBot](https://t.me/SyntaxHighlightBot)
+- ### Upload source text
+  - #### [@YogurLBot](https://t.me/YogurLBot)
 
 
 
