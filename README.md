@@ -147,8 +147,8 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@YogurLBot](https://t.me/YogurLBot)
 - ### Photo service
   - #### [@SyntaxHighlightBot](https://t.me/SyntaxHighlightBot)
-- ### Upload source text
-  - #### [@YogurLBot](https://t.me/YogurLBot)
+- ### Programming Language Libraries
+  - #### [@LibrariesBot](https://t.me/LibrariesBot)
 
 
 
