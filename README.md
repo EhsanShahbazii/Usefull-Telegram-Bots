@@ -151,7 +151,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@LibrariesBot](https://t.me/LibrariesBot)
 - ### Android App Download
   - #### [@Apkdl_bot](https://t.me/Apkdl_bot)
-  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+  - #### [@UptodownBot](https://t.me/UptodownBot)
   - #### [@Treaderbot](https://t.me/Treaderbot)
 
 
