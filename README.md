@@ -153,5 +153,9 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Apkdl_bot](https://t.me/Apkdl_bot)
   - #### [@UptodownBot](https://t.me/UptodownBot)
   - #### [@AppFollowBot](https://t.me/AppFollowBot)
-
+- ### Search in Google play
+  - #### [@G0Bot](https://t.me/G0Bot)
+- ### Android App Download
+  - #### [@Apkdl_bot](https://t.me/Apkdl_bot)
+  - #### [@UptodownBot](https://t.me/UptodownBot)
 
