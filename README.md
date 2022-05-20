@@ -155,7 +155,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@AppFollowBot](https://t.me/AppFollowBot)
 - ### Search in Google play
   - #### [@G0Bot](https://t.me/G0Bot)
-- ### Android App Download
-  - #### [@Apkdl_bot](https://t.me/Apkdl_bot)
+- ### Sport news
+  - #### [@LiveRobot](https://t.me/LiveRobot)
   - #### [@UptodownBot](https://t.me/UptodownBot)
 
