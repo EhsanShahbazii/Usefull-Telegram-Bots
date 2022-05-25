@@ -158,4 +158,6 @@ these are usefull bots in telegram. (updating...)  :>
 - ### Sport news
   - #### [@LiveRobot](https://t.me/LiveRobot)
   - #### [@pouyanbot](https://t.me/pouyanbot)
-
+- ### News
+  - #### [@GoogleNews_bot](https://t.me/GoogleNews_bot)
+  - #### [@pouyanbot](https://t.me/pouyanbot)
