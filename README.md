@@ -160,4 +160,4 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@pouyanbot](https://t.me/pouyanbot)
 - ### News
   - #### [@GoogleNews_bot](https://t.me/GoogleNews_bot)
-  - #### [@pouyanbot](https://t.me/pouyanbot)
+  - #### [@BingNewsBot](https://t.me/BingNewsBot)
