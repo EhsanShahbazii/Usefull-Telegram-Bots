@@ -165,7 +165,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@EveryoneTheBot](https://t.me/EveryoneTheBot)
 - ### Group Warnings
   - #### [@Hash_tag_bot](https://t.me/Hash_tag_bot)
-  - #### [@UptodownBot](https://t.me/UptodownBot)
+  - #### [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)
   - #### [@AppFollowBot](https://t.me/AppFollowBot)
 
 
