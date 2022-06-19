@@ -173,7 +173,12 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Web_cam_bot](https://t.me/Web_cam_bot)
 - ### Radio
   - #### [@RadioArchiveBot](https://t.me/RadioArchiveBot)
-
+- ### Word Searcher
+  - #### [@Vajehyabbot](https://t.me/Vajehyabbot)
+  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+  - #### [@Treaderbot](https://t.me/Treaderbot)
+  - #### [@AximoBot](https://t.me/AximoBot)
+  - #### [@pstrbot](https://t.me/pstrbot)
 
 
 
