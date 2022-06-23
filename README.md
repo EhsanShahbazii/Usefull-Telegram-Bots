@@ -175,7 +175,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@RadioArchiveBot](https://t.me/RadioArchiveBot)
 - ### Word Searcher
   - #### [@Vajehyabbot](https://t.me/Vajehyabbot)
-  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+  - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
   - #### [@Treaderbot](https://t.me/Treaderbot)
   - #### [@AximoBot](https://t.me/AximoBot)
   - #### [@pstrbot](https://t.me/pstrbot)
