@@ -177,7 +177,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Vajehyabbot](https://t.me/Vajehyabbot)
   - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
   - #### [@Dictrobot](https://t.me/Dictrobot)
-  - #### [@AximoBot](https://t.me/AximoBot)
+  - #### [@Multitran_bot](https://t.me/Multitran_bot)
   - #### [@pstrbot](https://t.me/pstrbot)
 
 
