@@ -181,7 +181,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@JapanDicBot](https://t.me/JapanDicBot)
 - ### Calculator
   - #### [@CalcuBot](https://t.me/CalcuBot)
-  - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
+  - #### [@kalkulbot](https://t.me/kalkulbot)
   - #### [@Dictrobot](https://t.me/Dictrobot)
 
 
