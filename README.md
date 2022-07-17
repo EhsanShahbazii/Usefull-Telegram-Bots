@@ -185,7 +185,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@MACLBot](https://t.me/MACLBot)
 - ### JSON Message
   - #### [@JsonDumpBot](https://t.me/JsonDumpBot)
-  - #### [@kalkulbot](https://t.me/kalkulbot)
+  - #### [@Returnjsonbot](https://t.me/Returnjsonbot)
   - #### [@MACLBot](https://t.me/MACLBot)
 
 
