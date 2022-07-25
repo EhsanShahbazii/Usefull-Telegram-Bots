@@ -189,7 +189,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@ShowJsonBot](https://t.me/ShowJsonBot)
 - ### Note
   - #### [@BNoteBot](https://t.me/BNoteBot)
-  - #### [@Returnjsonbot](https://t.me/Returnjsonbot)
+  - #### [@Notepadbot](https://t.me/Notepadbot)
   - #### [@ShowJsonBot](https://t.me/ShowJsonBot)
 
 
