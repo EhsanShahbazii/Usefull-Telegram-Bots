@@ -196,6 +196,10 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@OrganizerRobot](https://t.me/OrganizerRobot)
 - ### Google Bookmarks
   - #### [@GoogleBookmarkBot](https://t.me/GoogleBookmarkBot)
-
+- ### Search Movie & Serials
+  - #### [@imdb](https://t.me/imdb)
+  - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
+  - #### [@Dictrobot](https://t.me/Dictrobot)
+  - #### [@Multitran_bot](https://t.me/Multitran_bot)
 
 
