@@ -201,5 +201,9 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
   - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
-
-
+- ### Search and Download Movie & Serials
+  - #### [@Amdbbot](https://t.me/Amdbbot)
+  - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
+  - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
+  - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
+  - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
