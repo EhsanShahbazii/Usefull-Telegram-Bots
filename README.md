@@ -203,7 +203,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
 - ### Search and Download Movie & Serials
   - #### [@Amdbbot](https://t.me/Amdbbot)
-  - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
+  - #### [@intermediabot](https://t.me/intermediabot)
   - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
