@@ -204,6 +204,6 @@ these are usefull bots in telegram. (updating...)  :>
 - ### Search and Download Movie & Serials
   - #### [@Amdbbot](https://t.me/Amdbbot)
   - #### [@intermediabot](https://t.me/intermediabot)
-  - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
+  - #### [@Vidusbot](https://t.me/Vidusbot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
