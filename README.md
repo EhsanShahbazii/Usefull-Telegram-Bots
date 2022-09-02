@@ -205,5 +205,5 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Amdbbot](https://t.me/Amdbbot)
   - #### [@intermediabot](https://t.me/intermediabot)
   - #### [@Vidusbot](https://t.me/Vidusbot)
-  - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
+  - #### [@KinonetBot](https://t.me/KinonetBot)
   - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
