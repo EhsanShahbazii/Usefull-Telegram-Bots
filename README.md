@@ -209,7 +209,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@TVSeriesRoBot](https://t.me/TVSeriesRoBot)
 - ### Search in YouTube
   - #### [@Vid](https://t.me/Vid)
-  - #### [@intermediabot](https://t.me/intermediabot)
+  - #### [@Youtube](https://t.me/Youtube)
   - #### [@Vidusbot](https://t.me/Vidusbot)
 
 
