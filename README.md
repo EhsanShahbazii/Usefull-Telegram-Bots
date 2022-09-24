@@ -1,7 +1,7 @@
 # Usefull-Telegram-Bots
 eey it sooo much
 
-these are usefull bots in telegram. (is it enough?)
+these are usefull bots in telegram.
 - ### Download from instagram
   - #### [@Instasave_bot](https://t.me/Instasave_bot)
   - #### [@AnySaveBot](https://t.me/AnySaveBot)
