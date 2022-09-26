@@ -1,5 +1,4 @@
 # Usefull-Telegram-Bots
-eey it sooo much
 
 these are usefull bots in telegram.
 - ### Download from instagram
