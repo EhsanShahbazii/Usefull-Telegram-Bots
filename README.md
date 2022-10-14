@@ -21,7 +21,7 @@ these are usefull bots in telegram.
   - #### [@imagesearchbot](https://t.me/imagesearchbot)
   - #### [@Googleimgbot](https://t.me/Googleimgbot)
   - #### [@BingImageBot](https://t.me/BingImageBot)
-  - #### [@WikiBotBot](https://t.me/WikiBotBot)
+  - #### [@ImageFetcherBot](https://t.me/ImageFetcherBot)
 
 
 
