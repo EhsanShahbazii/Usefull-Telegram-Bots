@@ -20,7 +20,7 @@ these are usefull bots in telegram.
   - #### [@imagebot](https://t.me/imagebot)
   - #### [@imagesearchbot](https://t.me/imagesearchbot)
   - #### [@Googleimgbot](https://t.me/Googleimgbot)
-  - #### [@Wikishbot](https://t.me/Wikishbot)
+  - #### [@BingImageBot](https://t.me/BingImageBot)
   - #### [@WikiBotBot](https://t.me/WikiBotBot)
 
 
