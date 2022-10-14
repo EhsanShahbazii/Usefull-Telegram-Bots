@@ -4,7 +4,7 @@ these are usefull bots in telegram.
 - ### [@Instasave_bot](https://t.me/Instasave_bot)
 - ### [@AnySaveBot](https://t.me/AnySaveBot)
 - ### [@InstagramRobot](https://t.me/InstagramRobot)
-
+- ### [@InstaBot](https://t.me/InstaBot)
 
 
 
