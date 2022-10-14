@@ -8,7 +8,7 @@ these are usefull bots in telegram.
 - ### [@inst8bot](https://t.me/inst8bot)
 ## See instagram posts
 - ### [@InstalnlineBot](https://t.me/InstalnlineBot)
-- ### [@](https://t.me/)
+- ### [@InstaFetchBot](https://t.me/InstaFetchBot)
 - ### [@](https://t.me/)
 
 
