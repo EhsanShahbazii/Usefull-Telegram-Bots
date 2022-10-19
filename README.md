@@ -43,7 +43,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@ABot](https://t.me/ABot)
   - #### [@Interpretbot](https://t.me/Interpretbot)
   - #### [@Insttraslatebot](https://t.me/Insttraslatebot)
-  - #### [@Googleimgbot](https://t.me/Googleimgbot)
+  - #### [@YTranslateBot](https://t.me/YTranslateBot)
   - #### [@BingImageBot](https://t.me/BingImageBot)
   - #### [@ImageFetcherBot](https://t.me/ImageFetcherBot)
 
