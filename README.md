@@ -35,7 +35,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
 - ### create QRcode
   - #### [@TheQRbot](https://t.me/TheQRbot)
-  - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
+  - #### [@MakeQrBot](https://t.me/MakeQrBot)
   - #### [@PostOnMyFeedBot](https://t.me/PostOnMyFeedBot)
 
 
