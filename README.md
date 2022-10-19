@@ -27,7 +27,9 @@ these are usefull bots in telegram. (updating...)
   - #### [@Gif](https://t.me/Gif)
   - #### [@Tenorbot](https://t.me/Tenorbot)
   - #### [@Guggybot](https://t.me/Guggybot)
-
+- ### Search in internet
+  - #### [@GoogleDEBot](https://t.me/GoogleDEBot)
+  - #### [@Gif](https://t.me/Gif)
 
 
 
