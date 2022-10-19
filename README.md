@@ -26,7 +26,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@GIFsearchRobot](https://t.me/GIFsearchRobot)
   - #### [@Gif](https://t.me/Gif)
   - #### [@Tenorbot](https://t.me/Tenorbot)
-  - #### [@imagesearchbot](https://t.me/imagesearchbot)
+  - #### [@Guggybot](https://t.me/Guggybot)
 
 
 
