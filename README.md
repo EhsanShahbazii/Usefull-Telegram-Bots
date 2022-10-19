@@ -46,7 +46,8 @@ these are usefull bots in telegram. (updating...)
   - #### [@YTranslateBot](https://t.me/YTranslateBot)
   - #### [@Perevodbot](https://t.me/Perevodbot)
   - #### [@Novindictionarybot](https://t.me/Novindictionarybot)
-
+- ### Telegram Language
+  - #### [@langbot](https://t.me/langbot)
 
 
 
