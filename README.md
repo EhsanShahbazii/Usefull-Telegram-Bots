@@ -40,7 +40,7 @@ these are usefull bots in telegram. (updating...)
 - ### Translator
   - #### [@Translate_robot](https://t.me/Translate_robot)
   - #### [@TransisBot](https://t.me/TransisBot)
-  - #### [@Pic](https://t.me/Pic)
+  - #### [@ABot](https://t.me/ABot)
   - #### [@imagebot](https://t.me/imagebot)
   - #### [@imagesearchbot](https://t.me/imagesearchbot)
   - #### [@Googleimgbot](https://t.me/Googleimgbot)
