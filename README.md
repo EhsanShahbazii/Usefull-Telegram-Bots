@@ -39,7 +39,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@QRQRbot](https://t.me/QRQRbot)
 - ### Translator
   - #### [@Translate_robot](https://t.me/Translate_robot)
-  - #### [@Bing](https://t.me/Bing)
+  - #### [@TransisBot](https://t.me/TransisBot)
   - #### [@Pic](https://t.me/Pic)
   - #### [@imagebot](https://t.me/imagebot)
   - #### [@imagesearchbot](https://t.me/imagesearchbot)
