@@ -45,7 +45,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@Insttraslatebot](https://t.me/Insttraslatebot)
   - #### [@YTranslateBot](https://t.me/YTranslateBot)
   - #### [@Perevodbot](https://t.me/Perevodbot)
-  - #### [@ImageFetcherBot](https://t.me/ImageFetcherBot)
+  - #### [@Novindictionarybot](https://t.me/Novindictionarybot)
 
 
 
