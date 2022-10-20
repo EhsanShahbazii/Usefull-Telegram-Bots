@@ -56,7 +56,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@Scloud_bot](https://t.me/Scloud_bot)
   - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
   - #### [@The_MusicBot](https://t.me/The_MusicBot)
-  - #### [@YTranslateBot](https://t.me/YTranslateBot)
+  - #### [@MP3sBot](https://t.me/MP3sBot)
   - #### [@Perevodbot](https://t.me/Perevodbot)
   - #### [@Novindictionarybot](https://t.me/Novindictionarybot)
 
