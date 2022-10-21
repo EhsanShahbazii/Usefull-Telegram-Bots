@@ -70,7 +70,11 @@ these are usefull bots in telegram. (updating...)
   - #### [@Acknobot](https://t.me/Acknobot)
 - ### Search Music
   - #### [@Music](https://t.me/Music)  
-  
+- ### Edit Music
+  - #### [@id3bot](https://t.me/id3bot)
+  - #### [@Moozikestan_bot](https://t.me/Moozikestan_bot)
+  - #### [@Scloud_bot](https://t.me/Scloud_bot)
+  - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
   
   
   
