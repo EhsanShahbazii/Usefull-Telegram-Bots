@@ -77,7 +77,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@SetTagBot](https://t.me/SetTagBot)
 - ### Lyrics Music
   - #### [@iLyricsBot](https://t.me/iLyricsBot)
-  - #### [@Mp3toolsbot](https://t.me/Mp3toolsbot)
+  - #### [@LyricsGramBot](https://t.me/LyricsGramBot)
   
   
   
