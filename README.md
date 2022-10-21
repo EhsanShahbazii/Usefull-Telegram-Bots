@@ -80,7 +80,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@LyricsGramBot](https://t.me/LyricsGramBot)
 - ### Chat Incognito
   - #### [@ChatIncognito](https://t.me/ChatIncognito)
-  - #### [@LyricsGramBot](https://t.me/LyricsGramBot)
+  - #### [@Gpschatbot](https://t.me/Gpschatbot)
   
   
   
