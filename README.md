@@ -91,17 +91,13 @@ these are usefull bots in telegram. (updating...)
   - #### [@ShortUrlBot](https://t.me/ShortUrlBot)
   - #### [@Shorturl_googl_bot](https://t.me/Shorturl_googl_bot)
   - #### [@Urlprobot](https://t.me/Urlprobot)
-  - #### [@MusicLinkBot](https://t.me/MusicLinkBot)
+  - #### [@ShorrtltBot](https://t.me/ShorrtltBot)
   - #### [@The_MusicBot](https://t.me/The_MusicBot)
   - #### [@MP3sBot](https://t.me/MP3sBot)
   - #### [@GetMusicBot](https://t.me/GetMusicBot)
   - #### [@vkm_bot](https://t.me/vkm_bot)
   - #### [@Mp3robot](https://t.me/Mp3robot)
-  - #### [@BeatSpotBot](https://t.me/BeatSpotBot)
-  - #### [@Spotifybot](https://t.me/Spotifybot)
-  - #### [@TakeyourmusicBot](https://t.me/TakeyourmusicBot)
-  - #### [@BingMusicBot](https://t.me/BingMusicBot)
-  - #### [@vkm4bot](https://t.me/vkm4bot)
+
   
   
   
