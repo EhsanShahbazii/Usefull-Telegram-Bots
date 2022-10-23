@@ -113,7 +113,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@MyAddressBookBot](https://t.me/MyAddressBookBot)
 - ### Site Informations
   - #### [@Whooisbot](https://t.me/Whooisbot)
-  - #### [@MyAddressBookBot](https://t.me/MyAddressBookBot)
+  - #### [@Whois_Bot](https://t.me/Whois_Bot)
   
   
   
