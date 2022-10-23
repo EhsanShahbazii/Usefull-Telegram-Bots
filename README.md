@@ -102,7 +102,7 @@ these are usefull bots in telegram. (updating...)
 - ### Channel & user informations
   - #### [@Userinfobot](https://t.me/Userinfobot)
   - #### [@Get_id_bot](https://t.me/Get_id_bot)
-  - #### [@Urlprobot](https://t.me/Urlprobot)
+  - #### [@ShowIDBot](https://t.me/ShowIDBot)
   - #### [@ShorrtltBot](https://t.me/ShorrtltBot)
   - #### [@ylinkpro_bot](https://t.me/ylinkpro_bot)
   - #### [@TelgrmlBot](https://t.me/TelgrmlBot)
