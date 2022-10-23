@@ -111,10 +111,11 @@ these are usefull bots in telegram. (updating...)
   - #### [@UserStoreBot](https://t.me/UserStoreBot)
 - ### Save, Manage Username
   - #### [@MyAddressBookBot](https://t.me/MyAddressBookBot)
-- ### Site Informations
+- ### Sites Information
   - #### [@Whooisbot](https://t.me/Whooisbot)
   - #### [@Whois_Bot](https://t.me/Whois_Bot)
-  
+- ### Links Information
+  - #### [@DynahBot](https://t.me/DynahBot)
   
   
   
