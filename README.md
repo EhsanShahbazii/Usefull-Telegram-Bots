@@ -122,7 +122,9 @@ these are usefull bots in telegram. (updating...)
   - #### [@ReadmeBot](https://t.me/ReadmeBot)
 - ### Telegram Services
   - #### [@IFTTT](https://t.me/IFTTT)
-  
-  
+- ### Telegram Payment Robot
+  - #### [@ShopBot](https://t.me/ShopBot)
+  - #### [@Get_id_bot](https://t.me/Get_id_bot)
+  - #### [@ShowIDBot](https://t.me/ShowIDBot)
   
   
