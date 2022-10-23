@@ -120,8 +120,8 @@ these are usefull bots in telegram. (updating...)
   - #### [@ipinfoioBot](https://t.me/ipinfoioBot)
 - ### Site values
   - #### [@ReadmeBot](https://t.me/ReadmeBot)
-  
-  
+- ### Telegram Services
+  - #### [@IFTTT](https://t.me/IFTTT)
   
   
   
