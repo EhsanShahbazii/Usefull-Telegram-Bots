@@ -136,3 +136,6 @@ these are usefull bots in telegram. (updating...)
   - #### [@AximoBot](https://t.me/AximoBot)
   - #### [@pstrbot](https://t.me/pstrbot)
   - #### [@Feedler_bot](https://t.me/Feedler_bot)
+- ### RSS feed channel
+  - #### [@Junction_bot](https://t.me/Junction_bot)
+  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
