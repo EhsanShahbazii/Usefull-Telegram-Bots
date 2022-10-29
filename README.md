@@ -2,7 +2,7 @@
 
 these are usefull bots in telegram.
 
-**last update 2022 Dec 13** 
+**last update 2022 Dec 26** 
 
 - ### Download from instagram
   - #### [@Instasave_bot](https://t.me/Instasave_bot)
@@ -229,6 +229,20 @@ these are usefull bots in telegram.
 - ### Make Gif
   - #### [@Gifcreator_bot](https://t.me/Gifcreator_bot)
   - #### [@Vgifibot](https://t.me/Vgifibot)
-
+- ### Search - make telegram theme
+  - #### [@Tthemebot](https://t.me/Tthemebot)
+- ### Search and make stickers
+  - #### [@Stickers](https://t.me/Stickers)
+  - #### [@Demybot](https://t.me/Demybot)
+  - #### [@Sticker](https://t.me/Sticker)
+  - #### [@FStikBot](https://t.me/FStikBot)
+  - #### [@EzStickerBot](https://t.me/EzStickerBot)
+- ### convert sticker to image
+  - #### [@Stickerdownloadbot](https://t.me/Stickerdownloadbot)
+  - #### [@StickerToPhoto_Bot](https://t.me/StickerToPhoto_Bot)
+  - #### [@St2imgbot](https://t.me/St2imgbot)
+- ### convert image to sticker
+  - #### [@Pic2stcbot](https://t.me/Pic2stcbot)
+  - #### [@BuildStickerBot](https://t.me/BuildStickerBot)
 
 
