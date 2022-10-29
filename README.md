@@ -129,4 +129,10 @@ these are usefull bots in telegram. (updating...)
   - #### [@Octopocket_bot](https://t.me/Octopocket_bot)
 - ### Wallet
   - #### [@BTC_Change_Bot](https://t.me/BTC_Change_Bot)
-
+- ### RSS robot
+  - #### [@Telefeedbot](https://t.me/Telefeedbota)
+  - #### [@Get_id_bot](https://t.me/Get_id_bot)
+  - #### [@ShowIDBot](https://t.me/ShowIDBot)
+  - #### [@Getidsbot](https://t.me/Getidsbot)
+  - #### [@ChannelldBot](https://t.me/ChannelldBot)
+  - #### [@GroupIDbot](https://t.me/GroupIDbot)
