@@ -138,4 +138,4 @@ these are usefull bots in telegram. (updating...)
   - #### [@Feedler_bot](https://t.me/Feedler_bot)
 - ### RSS feed channel
   - #### [@Junction_bot](https://t.me/Junction_bot)
-  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+  - #### [@Channelrushbot](https://t.me/Channelrushbot)
