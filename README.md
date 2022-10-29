@@ -131,7 +131,7 @@ these are usefull bots in telegram. (updating...)
   - #### [@BTC_Change_Bot](https://t.me/BTC_Change_Bot)
 - ### RSS robot
   - #### [@Telefeedbot](https://t.me/Telefeedbota)
-  - #### [@Get_id_bot](https://t.me/Get_id_bot)
+  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
   - #### [@ShowIDBot](https://t.me/ShowIDBot)
   - #### [@Getidsbot](https://t.me/Getidsbot)
   - #### [@ChannelldBot](https://t.me/ChannelldBot)
