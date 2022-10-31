@@ -244,5 +244,11 @@ these are usefull bots in telegram.
 - ### convert image to sticker
   - #### [@Pic2stcbot](https://t.me/Pic2stcbot)
   - #### [@BuildStickerBot](https://t.me/BuildStickerBot)
-
-
+- ### convert text to sticker-image
+  - #### [@FonthaBot](https://t.me/FonthaBot)
+  - #### [@LatexBot](https://t.me/LatexBot)
+  - #### [@Segoeuibot](https://t.me/Segoeuibot)
+- ### make logo
+  - #### [@VideoTMBot](https://t.me/VideoTMBot)
+  - #### [@LogogramBot](https://t.me/LogogramBot)
+  - #### [@atxBot](https://t.me/atxBot)
