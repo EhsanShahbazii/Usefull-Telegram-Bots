@@ -161,3 +161,19 @@ these are usefull bots in telegram. (updating...)  :>
 - ### News
   - #### [@GoogleNews_bot](https://t.me/GoogleNews_bot)
   - #### [@BingNewsBot](https://t.me/BingNewsBot)
+- ### Mention people in the group
+  - #### [@EveryoneTheBot](https://t.me/EveryoneTheBot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
