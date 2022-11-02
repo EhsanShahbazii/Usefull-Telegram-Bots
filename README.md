@@ -149,6 +149,9 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@SyntaxHighlightBot](https://t.me/SyntaxHighlightBot)
 - ### Programming Language Libraries
   - #### [@LibrariesBot](https://t.me/LibrariesBot)
-
+- ### Android App Download
+  - #### [@Apkdl_bot](https://t.me/Apkdl_bot)
+  - #### [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+  - #### [@Treaderbot](https://t.me/Treaderbot)
 
 
