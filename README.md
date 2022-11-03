@@ -166,7 +166,7 @@ these are usefull bots in telegram. (updating...)  :>
 - ### Group Warnings
   - #### [@Hash_tag_bot](https://t.me/Hash_tag_bot)
   - #### [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)
-  - #### [@AppFollowBot](https://t.me/AppFollowBot)
+  - #### [@TagAlertBot](https://t.me/TagAlertBot)
 
 
 
