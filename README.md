@@ -163,7 +163,10 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@BingNewsBot](https://t.me/BingNewsBot)
 - ### Mention people in the group
   - #### [@EveryoneTheBot](https://t.me/EveryoneTheBot)
-
+- ### Group Warnings
+  - #### [@Hash_tag_bot](https://t.me/Hash_tag_bot)
+  - #### [@UptodownBot](https://t.me/UptodownBot)
+  - #### [@AppFollowBot](https://t.me/AppFollowBot)
 
 
 
