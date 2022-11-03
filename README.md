@@ -167,7 +167,8 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Hash_tag_bot](https://t.me/Hash_tag_bot)
   - #### [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)
   - #### [@TagAlertBot](https://t.me/TagAlertBot)
-
+- ### Road traffic conditions
+  - #### [@TrafficImage_bot](https://t.me/TrafficImage_bot)
 
 
 
