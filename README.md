@@ -183,8 +183,10 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@CalcuBot](https://t.me/CalcuBot)
   - #### [@kalkulbot](https://t.me/kalkulbot)
   - #### [@MACLBot](https://t.me/MACLBot)
-
-
+- ### JSON Message
+  - #### [@JsonDumpBot](https://t.me/JsonDumpBot)
+  - #### [@kalkulbot](https://t.me/kalkulbot)
+  - #### [@MACLBot](https://t.me/MACLBot)
 
 
 
