@@ -179,7 +179,10 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@Dictrobot](https://t.me/Dictrobot)
   - #### [@Multitran_bot](https://t.me/Multitran_bot)
   - #### [@JapanDicBot](https://t.me/JapanDicBot)
-
+- ### Calculator
+  - #### [@CalcuBot](https://t.me/CalcuBot)
+  - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
+  - #### [@Dictrobot](https://t.me/Dictrobot)
 
 
 
