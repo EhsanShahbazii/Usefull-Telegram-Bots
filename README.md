@@ -198,7 +198,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@GoogleBookmarkBot](https://t.me/GoogleBookmarkBot)
 - ### Search Movie & Serials
   - #### [@imdb](https://t.me/imdb)
-  - #### [@Oxf_dict_bot](https://t.me/Oxf_dict_bot)
+  - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
   - #### [@Dictrobot](https://t.me/Dictrobot)
   - #### [@Multitran_bot](https://t.me/Multitran_bot)
 
