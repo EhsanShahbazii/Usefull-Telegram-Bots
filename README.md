@@ -200,6 +200,6 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@imdb](https://t.me/imdb)
   - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
   - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
-  - #### [@Multitran_bot](https://t.me/Multitran_bot)
+  - #### [@Filmsearchbot](https://t.me/Filmsearchbot)
 
 
