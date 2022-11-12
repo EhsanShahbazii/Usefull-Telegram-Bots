@@ -199,7 +199,7 @@ these are usefull bots in telegram. (updating...)  :>
 - ### Search Movie & Serials
   - #### [@imdb](https://t.me/imdb)
   - #### [@MovieReleaseBot](https://t.me/MovieReleaseBot)
-  - #### [@Dictrobot](https://t.me/Dictrobot)
+  - #### [@MovieS4Bot](https://t.me/MovieS4Bot)
   - #### [@Multitran_bot](https://t.me/Multitran_bot)
 
 
