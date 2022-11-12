@@ -194,7 +194,8 @@ these are usefull bots in telegram. (updating...)  :>
 - ### Saving Link
   - #### [@Bookmarchbot](https://t.me/Bookmarchbot)
   - #### [@OrganizerRobot](https://t.me/OrganizerRobot)
-
+- ### Google Bookmarks
+  - #### [@GoogleBookmarkBot](https://t.me/GoogleBookmarkBot)
 
 
 
