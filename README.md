@@ -193,7 +193,7 @@ these are usefull bots in telegram. (updating...)  :>
   - #### [@DoToBot](https://t.me/DoToBot)
 - ### Saving Link
   - #### [@Bookmarchbot](https://t.me/Bookmarchbot)
-  - #### [@Notepadbot](https://t.me/Notepadbot)
+  - #### [@OrganizerRobot](https://t.me/OrganizerRobot)
 
 
 
