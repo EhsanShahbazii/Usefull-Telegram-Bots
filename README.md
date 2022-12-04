@@ -11,11 +11,12 @@ these are usefull bots in telegram.
    - #### [@Dl_CheetahBot](https://t.me/Dl_CheetahBot)
    - #### [@download_it_bot](https://t.me/download_it_bot)
    - #### [@RegaSpotify_Bot](https://t.me/RegaSpotify_Bot)
-   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
-   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
-   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
-   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
-   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@RegaSoundCloud_Bot](https://t.me/RegaSoundCloud_Bot)
+   - #### [@Regainstagram_Bot](https://t.me/Regainstagram_Bot)
+   - #### [@RegaTwitter_Bot](https://t.me/RegaTwitter_Bot)
+   - #### [@RegaPinterest_Bot](https://t.me/RegaPinterest_Bot)
+   - #### [@RegaCastbot_Bot](https://t.me/RegaCastbot_Bot)
+   - #### [@RegaTikTok_Bot](https://t.me/RegaTikTok_Bot)
 
 - ### Download from instagram
   - #### [@Instasave_bot](https://t.me/Instasave_bot)
