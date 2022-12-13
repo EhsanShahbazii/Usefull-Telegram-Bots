@@ -221,8 +221,11 @@ these are usefull bots in telegram.
   - #### [@iVideoBot](https://t.me/iVideoBot)
   - #### [@uVidBot](https://t.me/uVidBot)
   - #### [@YotBot](https://t.me/YotBot)
-
-
+- ### Request link previews
+  - #### [@Previews](https://t.me/Previews)
+- ### Make Gif
+  - #### [@Gifcreator_bot](https://t.me/Gifcreator_bot)
+  - #### [@Vgifibot](https://t.me/Vgifibot)
 
 
 
