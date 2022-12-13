@@ -211,7 +211,8 @@ these are usefull bots in telegram.
   - #### [@Vid](https://t.me/Vid)
   - #### [@Youtube](https://t.me/Youtube)
   - #### [@YtWatchBot](https://t.me/YtWatchBot)
-
+- ### Download from FaceBook
+  - #### [@FBvidzBot](https://t.me/FBvidzBot)
 
 
 
