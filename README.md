@@ -213,9 +213,14 @@ these are usefull bots in telegram.
   - #### [@YtWatchBot](https://t.me/YtWatchBot)
 - ### Download from FaceBook
   - #### [@FBvidzBot](https://t.me/FBvidzBot)
-
-
-
+- ### Download from YouTube
+  - #### [@Utubebot](https://t.me/Utubebot)
+  - #### [@SaveVideoBot](https://t.me/SaveVideoBot)
+  - #### [@YoutubeConvertBot](https://t.me/YoutubeConvertBot)
+  - #### [@MeTubeBot](https://t.me/MeTubeBot)
+  - #### [@iVideoBot](https://t.me/iVideoBot)
+  - #### [@uVidBot](https://t.me/uVidBot)
+  - #### [@YotBot](https://t.me/YotBot)
 
 
 
