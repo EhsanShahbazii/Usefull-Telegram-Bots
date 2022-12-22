@@ -18,6 +18,7 @@ these are usefull bots in telegram.
    - #### [@RegaPinterest_Bot](https://t.me/RegaPinterest_Bot)
    - #### [@RegaCastbot_Bot](https://t.me/RegaCastbot_Bot)
    - #### [@RegaTikTok_Bot](https://t.me/RegaTikTok_Bot)
+   - #### [@cybercollectorbot](https://t.me/cybercollectorbot)
 
 - ### Download from instagram
   - #### [@Instasave_bot](https://t.me/Instasave_bot)
