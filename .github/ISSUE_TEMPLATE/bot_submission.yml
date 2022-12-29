@@ -1,0 +1,61 @@
+name: 🤖 Suggest a New Bot
+description: Suggest an active and useful Telegram bot for the catalog.
+title: "[Bot Suggestion]: "
+labels: ["bot-suggestion", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the directory! Please verify that the bot is responsive before submitting.
+  - type: input
+    id: bot_handle
+    attributes:
+      label: Bot Handle
+      description: The Telegram handle starting with @ (e.g. @ChatGPT_Telegram_Bot)
+      placeholder: "@MyAwesomeBot"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Recommended Category
+      description: Which category does this bot belong to?
+      options:
+        - 🤖 AI, LLMs & Speech-to-Text
+        - 🔄 File, Document & PDF Converters
+        - 📥 Media, Video & Social Downloaders
+        - 🎵 Music, Audio & Podcasts
+        - 🍿 Movies, TV Shows & Streaming
+        - 📖 Books, Readers & Document Libraries
+        - 🧲 Cloud Storage, Torrent & Web Uploader
+        - 🛡️ Privacy, Security & Disposable Email
+        - 👥 Group Moderation & Administration
+        - 💻 Developers & DevOps Tools
+        - 📚 Productivity, Reminders & Everyday Tools
+        - 🔍 Search, Dictionaries & Reference
+        - 🌐 Translation & Language Learning
+        - 🎨 Stickers, Themes & Visual Design
+        - 📊 Telegram User & Channel Utilities
+        - 💰 Crypto, Finance & Payments
+        - ⚽ Sports & Live Event Alerts
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Bot Description
+      description: What are the main features and use cases of this bot?
+      placeholder: Describe the bot's features, commands, or unique advantages...
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Verification Checklist
+      options:
+        - label: I have tested this bot in Telegram and it responds to /start.
+          required: true
+        - label: The bot is free or has a functioning free tier.
+          required: true
+        - label: The bot does not promote phishing, scams, or malicious content.
+          required: true

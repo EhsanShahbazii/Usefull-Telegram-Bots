@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🤖 Useful Telegram Bots Directory | Curated & Verified</title>
+  <meta name="description" content="Discover 200+ curated and verified Telegram bots across 17 categories. Instant search, tested liveness, and direct links." />
+  <link rel="icon" href="https://telegram.org/img/favicon.ico" type="image/x-icon" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0e1621;
+      --bg-secondary: #17212b;
+      --bg-card: #202b36;
+      --bg-card-hover: #263442;
+      --accent: #2481cc;
+      --accent-glow: rgba(36, 129, 204, 0.35);
+      --accent-light: #52a9ea;
+      --text-main: #f5f5f5;
+      --text-muted: #8e9ca8;
+      --border-color: rgba(255, 255, 255, 0.08);
+      --badge-bg: rgba(36, 129, 204, 0.15);
+      --badge-text: #64b5f6;
+      --tag-bg: rgba(255, 255, 255, 0.06);
+      --tag-text: #b0bec5;
+      --green: #2ecc71;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: linear-gradient(180deg, #17212b 0%, #0e1621 100%);
+      padding: 3rem 1.5rem 2rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border-color);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .header-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--badge-bg);
+      color: var(--badge-text);
+      padding: 0.35rem 0.9rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
+      border: 1px solid rgba(82, 169, 234, 0.3);
+    }
+
+    .header-badge .dot {
+      width: 8px;
+      height: 8px;
+      background-color: var(--green);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--green);
+    }
+
+    h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.75rem;
+      background: linear-gradient(135deg, #ffffff 40%, var(--accent-light) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .tagline {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      max-width: 680px;
+      margin: 0 auto 1.5rem;
+    }
+
+    .header-stats {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .stat-num {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      flex: 1;
+      width: 100%;
+    }
+
+    /* Controls: Search and Filters */
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+      margin-bottom: 2rem;
+    }
+
+    .search-wrapper {
+      position: relative;
+      max-width: 720px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 1rem 1.25rem 1rem 3.25rem;
+      font-size: 1.05rem;
+      background-color: var(--bg-secondary);
+      border: 2px solid var(--border-color);
+      border-radius: 14px;
+      color: var(--text-main);
+      outline: none;
+      transition: all 0.25s ease;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px var(--accent-glow);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 1.15rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+      font-size: 1.2rem;
+    }
+
+    .filter-scroll {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding: 0.5rem 0;
+      scrollbar-width: thin;
+    }
+
+    .filter-scroll::-webkit-scrollbar {
+      height: 6px;
+    }
+
+    .filter-scroll::-webkit-scrollbar-thumb {
+      background: var(--border-color);
+      border-radius: 3px;
+    }
+
+    .filter-btn {
+      white-space: nowrap;
+      background: var(--bg-secondary);
+      color: var(--text-muted);
+      border: 1px solid var(--border-color);
+      padding: 0.5rem 1rem;
+      border-radius: 9999px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      user-select: none;
+    }
+
+    .filter-btn:hover {
+      background: var(--bg-card);
+      color: var(--text-main);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      box-shadow: 0 2px 10px var(--accent-glow);
+    }
+
+    /* Grid of Cards */
+    .bot-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .bot-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+      position: relative;
+    }
+
+    .bot-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+      border-color: rgba(36, 129, 204, 0.4);
+      background: var(--bg-card-hover);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .bot-identity {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .bot-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .bot-handle {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--accent-light);
+      margin-top: 0.2rem;
+    }
+
+    .category-chip {
+      background: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.25rem 0.6rem;
+      border-radius: 6px;
+      white-space: nowrap;
+    }
+
+    .bot-desc {
+      font-size: 0.92rem;
+      color: #cfd8dc;
+      margin-bottom: 1.25rem;
+      flex-grow: 1;
+    }
+
+    .bot-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .tag {
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      font-size: 0.75rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 0.5rem;
+      margin-top: auto;
+    }
+
+    .btn {
+      padding: 0.55rem 0.9rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4rem;
+      border: none;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #ffffff;
+      flex: 1;
+    }
+
+    .btn-primary:hover {
+      background: #1c6ba8;
+    }
+
+    .btn-secondary {
+      background: var(--tag-bg);
+      color: var(--text-main);
+      border: 1px solid var(--border-color);
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.12);
+    }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-muted);
+    }
+
+    .empty-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      background-color: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 2rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    footer a {
+      color: var(--accent-light);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.75rem 1.25rem;
+      border-radius: 10px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      z-index: 1000;
+      pointer-events: none;
+      font-weight: 500;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-badge">
+      <span class="dot"></span>
+      100% Active & Verified Liveness
+    </div>
+    <h1>🤖 Useful Telegram Bots Directory</h1>
+    <p class="tagline">Explore a curated directory of high-performance Telegram bots for AI, media downloading, file conversion, dev tools, and daily productivity.</p>
+    
+    <div class="header-stats">
+      <div class="stat-item">
+        <span class="stat-num" id="totalBotsCount">200+</span>
+        <span class="stat-label">Bots</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num" id="totalCatsCount">17</span>
+        <span class="stat-label">Categories</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">100%</span>
+        <span class="stat-label">Tested Active</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-num">Open Source</span>
+        <span class="stat-label">MIT License</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="controls">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          class="search-input" 
+          placeholder="Search 200+ bots by name, @handle, keyword, or features..."
+          autocomplete="off"
+        />
+      </div>
+
+      <div class="filter-scroll" id="categoryFilters">
+        <button class="filter-btn active" data-category="all">✨ All Categories</button>
+      </div>
+    </div>
+
+    <div class="bot-grid" id="botGrid"></div>
+  </main>
+
+  <div class="toast" id="toast">Copied @handle to clipboard!</div>
+
+  <footer>
+    <p>Curated with ❤️ by <a href="https://github.com/EhsanShahbazii" target="_blank" rel="noopener">Ehsan Shahbazi</a> and open-source contributors.</p>
+    <p style="margin-top: 0.5rem;">
+      <a href="https://github.com/EhsanShahbazii/Usefull-Telegram-Bots" target="_blank" rel="noopener">GitHub Repository</a> • 
+      <a href="https://github.com/EhsanShahbazii/Usefull-Telegram-Bots/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Submit a Bot</a> • 
+      <a href="https://github.com/EhsanShahbazii/Usefull-Telegram-Bots/blob/main/BOT_HEALTH.md" target="_blank" rel="noopener">Health Report</a>
+    </p>
+  </footer>
+
+  <script>
+    let catalogData = [];
+    let currentCategory = 'all';
+
+    async function initCatalog() {
+      try {
+        const res = await fetch('data/bots.json');
+        const data = await res.json();
+        catalogData = data.categories;
+        
+        let allBots = [];
+        catalogData.forEach(cat => {
+          cat.bots.forEach(b => {
+            allBots.push({
+              ...b,
+              categoryId: cat.category_id,
+              categoryTitle: cat.category_title,
+              categoryEmoji: cat.emoji
+            });
+          });
+        });
+        
+        document.getElementById('totalBotsCount').textContent = allBots.length;
+        document.getElementById('totalCatsCount').textContent = catalogData.length;
+
+        renderCategoryPills(catalogData);
+        window.allFlattenedBots = allBots;
+        renderBots(allBots);
+      } catch (err) {
+        console.error('Failed to load data/bots.json:', err);
+      }
+    }
+
+    function renderCategoryPills(categories) {
+      const container = document.getElementById('categoryFilters');
+      categories.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-btn';
+        btn.dataset.category = cat.category_id;
+        btn.textContent = `${cat.emoji} ${cat.category_title.replace(/^[^\w\s]+\s*/, '')} (${cat.bots.length})`;
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentCategory = cat.category_id;
+          filterAndRender();
+        });
+        container.appendChild(btn);
+      });
+
+      document.querySelector('.filter-btn[data-category="all"]').addEventListener('click', (e) => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        e.target.classList.add('active');
+        currentCategory = 'all';
+        filterAndRender();
+      });
+    }
+
+    function renderBots(bots) {
+      const grid = document.getElementById('botGrid');
+      grid.innerHTML = '';
+
+      if (bots.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🔎</div>
+            <h3>No bots found matching your search</h3>
+            <p>Try searching with different terms or select "All Categories".</p>
+          </div>
+        `;
+        return;
+      }
+
+      bots.forEach(bot => {
+        const card = document.createElement('div');
+        card.className = 'bot-card';
+        
+        const tagsHtml = (bot.tags || []).map(t => `<span class="tag">#${t}</span>`).join('');
+
+        card.innerHTML = `
+          <div>
+            <div class="card-header">
+              <div class="bot-identity">
+                <div class="bot-name">${escapeHtml(bot.name)}</div>
+                <div class="bot-handle">@${escapeHtml(bot.handle)}</div>
+              </div>
+              <span class="category-chip">${bot.categoryEmoji} ${escapeHtml(bot.categoryId)}</span>
+            </div>
+            <div class="bot-desc">${escapeHtml(bot.desc)}</div>
+          </div>
+          <div>
+            <div class="bot-tags">${tagsHtml}</div>
+            <div class="card-actions">
+              <a href="https://t.me/${encodeURIComponent(bot.handle)}" target="_blank" rel="noopener" class="btn btn-primary">
+                🚀 Open in Telegram
+              </a>
+              <button class="btn btn-secondary" onclick="copyHandle('@${escapeHtml(bot.handle)}')">
+                📋 Copy
+              </button>
+            </div>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function filterAndRender() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      let filtered = window.allFlattenedBots || [];
+
+      if (currentCategory !== 'all') {
+        filtered = filtered.filter(b => b.categoryId === currentCategory);
+      }
+
+      if (query) {
+        filtered = filtered.filter(b => 
+          b.name.toLowerCase().includes(query) ||
+          b.handle.toLowerCase().includes(query) ||
+          b.desc.toLowerCase().includes(query) ||
+          (b.tags && b.tags.some(t => t.toLowerCase().includes(query)))
+        );
+      }
+
+      renderBots(filtered);
+    }
+
+    document.getElementById('searchInput').addEventListener('input', filterAndRender);
+
+    function copyHandle(handle) {
+      navigator.clipboard.writeText(handle).then(() => {
+        showToast(`Copied ${handle} to clipboard!`);
+      }).catch(() => {
+        showToast(`Selected ${handle}`);
+      });
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(() => {
+        toast.classList.remove('show');
+      }, 2200);
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/[&<>'"]/g, 
+        tag => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[tag] || tag)
+      );
+    }
+
+    window.addEventListener('DOMContentLoaded', initCatalog);
+  </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+name: 🔴 Report Inactive or Broken Bot
+description: Report a bot that no longer functions, was deleted, or changed ownership.
+title: "[Broken Bot]: "
+labels: ["broken-bot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep the directory 100% active and reliable.
+  - type: input
+    id: bot_handle
+    attributes:
+      label: Bot Handle
+      description: The handle of the non-functioning bot (e.g. @OldBrokenBot)
+      placeholder: "@OldBrokenBot"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      description: What is wrong with this bot?
+      options:
+        - "Deleted / Account Not Found"
+        - "Converted to Personal Account or Channel"
+        - "Bot does not respond to /start"
+        - "Paid paywall / Scam / Suspicious Activity"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional Details
+      description: Provide any extra context or error messages.
+      placeholder: E.g., Bot displays 'Internal server error' or has been offline for weeks...
+    validations:
+      required: false

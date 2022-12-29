@@ -1,0 +1,39 @@
+name: 🤖 Telegram Bots Liveness Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run every Sunday at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify-bots:
+    name: Verify Bots Health
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🚀 Run Bot Liveness Checker
+        run: |
+          python3 scripts/check_bots.py --json data/bots.json --report BOT_HEALTH.md
+
+      - name: 📊 Upload Health Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: bot-health-report
+          path: BOT_HEALTH.md
