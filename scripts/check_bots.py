@@ -49,9 +49,14 @@ class BotChecker:
             with urllib.request.urlopen(req, timeout=self.timeout) as resp:
                 html = resp.read().decode("utf-8", errors="ignore")
 
-                # Check if page has title container
-                has_title_container = '<div class="tgme_page_title"' in html
-                if not has_title_container:
+                # Check if page exists: either full preview or contact page with resolve link
+                has_full_preview = '<div class="tgme_page_title"' in html
+                page_title_match = re.search(r"<title>(.*?)</title>", html)
+                page_title_text = page_title_match.group(1) if page_title_match else ""
+                has_contact_page = f"Contact @{handle}" in page_title_text or "Telegram: Contact @" in page_title_text
+                has_resolve_link = f"tg://resolve?domain={handle}" in html or "tg://resolve?domain=" in html
+
+                if not (has_full_preview or (has_contact_page and has_resolve_link)):
                     result["status"] = "dead"
                     return result
 
@@ -68,6 +73,11 @@ class BotChecker:
                 if desc_match:
                     raw_desc = re.sub(r"<[^<]+?>", "", desc_match.group(1)).strip()
                     result["description"] = raw_desc
+                else:
+                    og_desc = re.search(r'<meta property="og:description" content="([^"]+)">', html)
+                    if og_desc:
+                        import html as html_module
+                        result["description"] = html_module.unescape(og_desc.group(1).strip())
 
                 # Check action button
                 action_match = re.search(r'<div class="tgme_page_action"[^>]*>(.*?)</div>', html, re.DOTALL)

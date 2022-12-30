@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 200,
+    "total_bots": 210,
     "total_categories": 17,
-    "updated_at": "October 2026",
+    "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
   },
   "categories": [
@@ -697,6 +697,15 @@
             "Archive",
             "Audio"
           ]
+        },
+        {
+          "name": "Netd Music Bot",
+          "handle": "netdmusicbot",
+          "desc": "👾 SESLİ SOHBET MÜZİK ROBOTU 👾\n\nDestek Grubumuz : @Netddestek\nGerçek Asistan : @NetdMusicAsistan 🎶",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1187,6 +1196,15 @@
             "OpenGraph",
             "Links"
           ]
+        },
+        {
+          "name": "Upload Books",
+          "handle": "uploadbooksbot",
+          "desc": "Search Any Books Via Inline and get it as Document Form. Bot By @FutureCodes",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1451,6 +1469,51 @@
             "Bookmarks",
             "Sync"
           ]
+        },
+        {
+          "name": "Unlock2Link",
+          "handle": "unlock2link_bot",
+          "desc": "You can contact @unlock2link_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "pipy_stats",
+          "handle": "pypistatsbot",
+          "desc": "You can contact @pypistatsbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "svgo",
+          "handle": "svgo_bot",
+          "desc": "You can contact @svgo_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Recally",
+          "handle": "recally_bot",
+          "desc": "Memorization by repetitive sending back your text",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Kozalo39s Randomizer",
+          "handle": "kozrandbot",
+          "desc": "A randomizer bot made by @kozalo (@kozaloru, http://kozalo.ru).",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1661,6 +1724,15 @@
             "Dictionary",
             "Persian",
             "Vocabulary"
+          ]
+        },
+        {
+          "name": "MyCookBot",
+          "handle": "mycookbot",
+          "desc": "Bot to search for recipes by name or ingredients. Developed by - dynbot.ru",
+          "tags": [
+            "Search",
+            "Verified"
           ]
         }
       ]
@@ -2035,6 +2107,24 @@
             "Webcam",
             "Live Feed",
             "Cameras"
+          ]
+        },
+        {
+          "name": "Group Attendance Bot",
+          "handle": "groupattendancebot",
+          "desc": "Attendance checker bot from @KeralagramChannel.\n\nSubscribe to @GroupAttendanceUpdates for updates",
+          "tags": [
+            "Telegram",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Thank You Members",
+          "handle": "thankstickerbot",
+          "desc": "Auto send Thank you \"x\" members to your group",
+          "tags": [
+            "Telegram",
+            "Verified"
           ]
         }
       ]
