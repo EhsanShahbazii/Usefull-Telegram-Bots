@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 210,
+    "total_bots": 220,
     "total_categories": 17,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -440,6 +440,24 @@
             "App Store",
             "Analytics",
             "Reviews"
+          ]
+        },
+        {
+          "name": "YoutubeDL",
+          "handle": "remoteyoutubedl_bot",
+          "desc": "Youtube does not work anymore. Other sites may work. Good luck.\t\tSee here for more information: @remoteyoutubedl_botinfo",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Video Downloader  TikTok Instagram Twitter",
+          "handle": "tiktapsavebot",
+          "desc": "Send a link, get the video back in seconds.",
+          "tags": [
+            "Media",
+            "Verified"
           ]
         }
       ]
@@ -1053,6 +1071,33 @@
             "Auto-Response",
             "Admin"
           ]
+        },
+        {
+          "name": "AntiInlineBot",
+          "handle": "antiinlinebot",
+          "desc": "I remove messages with inline content in groups and supergroups.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "SkittBot",
+          "handle": "skittles9823bot",
+          "desc": "Fork of @BanhammerMarie_bot with extra features and memes. Join @SkittBotAnnouncements for news on new features.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "DeleteEvents Bot",
+          "handle": "deleteeventsbot",
+          "desc": "I delete event messages (aka action messages) on supergroups :P",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1510,6 +1555,51 @@
           "name": "Kozalo39s Randomizer",
           "handle": "kozrandbot",
           "desc": "A randomizer bot made by @kozalo (@kozaloru, http://kozalo.ru).",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "httpcat_s_bot",
+          "handle": "httpcat_s_bot",
+          "desc": "If you have Telegram, you can contact @httpcat_s_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "RouteCabBot",
+          "handle": "routecabbot",
+          "desc": "Web client web.route.cab\tUpdates @routecab\t\tMiniapp soon!",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Travel Advisor",
+          "handle": "besttravelbot",
+          "desc": "You can contact @besttravelbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Comedores UGR",
+          "handle": "comedoresugrbot",
+          "desc": "Con este bot puedes consultar el menú de los comedores universitarios de la UGR.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Mail bot",
+          "handle": "mailablebot",
+          "desc": "Send and receive mails in telegram.",
           "tags": [
             "Productivity",
             "Verified"

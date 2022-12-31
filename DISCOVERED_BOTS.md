@@ -4,18 +4,13 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **Unlock2Link** | [@unlock2link_bot](https://t.me/unlock2link_bot) | `productivity-utilities` | You can contact @unlock2link_bot right away. |
-| **MyCookBot** | [@mycookbot](https://t.me/mycookbot) | `search-reference` | Bot to search for recipes by name or ingredients. Developed by - dynbot.ru |
-| **pipy_stats** | [@pypistatsbot](https://t.me/pypistatsbot) | `productivity-utilities` | You can contact @pypistatsbot right away. |
-| **Upload Books** | [@uploadbooksbot](https://t.me/uploadbooksbot) | `developers-devops` | Search Any Books Via Inline and get it as Document Form. Bot By @FutureCodes |
-| **svgo** | [@svgo_bot](https://t.me/svgo_bot) | `productivity-utilities` | You can contact @svgo_bot right away. |
-| **Recally** | [@recally_bot](https://t.me/recally_bot) | `productivity-utilities` | Memorization by repetitive sending back your text |
-| **Kozalo39s Randomizer** | [@kozrandbot](https://t.me/kozrandbot) | `productivity-utilities` | A randomizer bot made by @kozalo (@kozaloru, http://kozalo.ru). |
-| **Group Attendance Bot** | [@groupattendancebot](https://t.me/groupattendancebot) | `telegram-utils` | Attendance checker bot from @KeralagramChannel.
-
-Subscribe to @GroupAttendanceUpdates for updates |
-| **Netd Music Bot** | [@netdmusicbot](https://t.me/netdmusicbot) | `music-audio` | 👾 SESLİ SOHBET MÜZİK ROBOTU 👾
-
-Destek Grubumuz : @Netddestek
-Gerçek Asistan : @NetdMusicAsistan 🎶 |
-| **Thank You Members** | [@thankstickerbot](https://t.me/thankstickerbot) | `telegram-utils` | Auto send Thank you "x" members to your group |
+| **httpcat_s_bot** | [@httpcat_s_bot](https://t.me/httpcat_s_bot) | `productivity-utilities` | If you have Telegram, you can contact @httpcat_s_bot right away. |
+| **RouteCabBot** | [@routecabbot](https://t.me/routecabbot) | `productivity-utilities` | Web client web.route.cab	Updates @routecab		Miniapp soon! |
+| **Travel Advisor** | [@besttravelbot](https://t.me/besttravelbot) | `productivity-utilities` | You can contact @besttravelbot right away. |
+| **AntiInlineBot** | [@antiinlinebot](https://t.me/antiinlinebot) | `group-moderation` | I remove messages with inline content in groups and supergroups. |
+| **SkittBot** | [@skittles9823bot](https://t.me/skittles9823bot) | `group-moderation` | Fork of @BanhammerMarie_bot with extra features and memes. Join @SkittBotAnnouncements for news on new features. |
+| **YoutubeDL** | [@remoteyoutubedl_bot](https://t.me/remoteyoutubedl_bot) | `media-downloaders` | Youtube does not work anymore. Other sites may work. Good luck.		See here for more information: @remoteyoutubedl_botinfo |
+| **Video Downloader  TikTok Instagram Twitter** | [@tiktapsavebot](https://t.me/tiktapsavebot) | `media-downloaders` | Send a link, get the video back in seconds. |
+| **DeleteEvents Bot** | [@deleteeventsbot](https://t.me/deleteeventsbot) | `group-moderation` | I delete event messages (aka action messages) on supergroups :P |
+| **Comedores UGR** | [@comedoresugrbot](https://t.me/comedoresugrbot) | `productivity-utilities` | Con este bot puedes consultar el menú de los comedores universitarios de la UGR. |
+| **Mail bot** | [@mailablebot](https://t.me/mailablebot) | `productivity-utilities` | Send and receive mails in telegram. |
