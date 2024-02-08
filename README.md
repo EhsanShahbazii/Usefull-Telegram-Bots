@@ -7,6 +7,15 @@ these are usefull bots in telegram.
 
 - ### Personal Choice
    - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@youtubejavanbot](https://t.me/youtubejavanbot)
+   - #### [@Dl_CheetahBot](https://t.me/Dl_CheetahBot)
+   - #### [@download_it_bot](https://t.me/download_it_bot)
+   - #### [@RegaSpotify_Bot](https://t.me/RegaSpotify_Bot)
+   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
+   - #### [@RegaYoutube_Bot](https://t.me/RegaYoutube_Bot)
 
 - ### Download from instagram
   - #### [@Instasave_bot](https://t.me/Instasave_bot)
