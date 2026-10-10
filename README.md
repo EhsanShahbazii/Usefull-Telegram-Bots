@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-220%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-230%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)

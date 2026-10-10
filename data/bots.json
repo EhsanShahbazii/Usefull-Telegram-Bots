@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 220,
+    "total_bots": 230,
     "total_categories": 17,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -724,6 +724,15 @@
             "Music",
             "Verified"
           ]
+        },
+        {
+          "name": "audiofromvk_bot",
+          "handle": "audiofromvk_bot",
+          "desc": "If you have Telegram, you can contact @audiofromvk_bot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1250,6 +1259,15 @@
             "Developers",
             "Verified"
           ]
+        },
+        {
+          "name": "RGBrobot",
+          "handle": "rgbrobot",
+          "desc": "[Inline Bot] Simply open any of your chants and type \"@RGBrobot <hex code>\" into the message field",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1604,6 +1622,60 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "linuxmonitorbot",
+          "handle": "linuxmonitorbot",
+          "desc": "If you have Telegram, you can contact @linuxmonitorbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "programming_resources_bot",
+          "handle": "programming_resources_bot",
+          "desc": "If you have Telegram, you can contact @programming_resources_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "simplemusxbot",
+          "handle": "simplemusxbot",
+          "desc": "If you have Telegram, you can contact @simplemusxbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Tarchive",
+          "handle": "tarchivebot",
+          "desc": "You can contact @tarchivebot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "gplinkbot",
+          "handle": "gplinksbot",
+          "desc": "You can contact @gplinksbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Mitup  Plan Events with Friends",
+          "handle": "mitupbot",
+          "desc": "Plan trips, dinners and game nights with friends. Share one message to your group and everyone joins with a tap.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1820,6 +1892,24 @@
           "name": "MyCookBot",
           "handle": "mycookbot",
           "desc": "Bot to search for recipes by name or ingredients. Developed by - dynbot.ru",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "google search",
+          "handle": "lmgtfy_bot",
+          "desc": "Google search bot",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Emojinate - GBoard Emoji Kitchen stickers",
+          "handle": "emojinatebot",
+          "desc": "The idea and images are taken from GBoard Emoji Kitchen.\n\n😎🤙 @kolyambiapictures",
           "tags": [
             "Search",
             "Verified"
