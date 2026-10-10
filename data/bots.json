@@ -1604,6 +1604,17 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "Tiny Telegram Tools",
+          "handle": "TinyTelegramToolsBot",
+          "desc": "Hub for Mini App tools: anonymous inbox, reminders, group expenses, habits, and events. Free tier; Pro is a one-time 150 Stars unlock.",
+          "tags": [
+            "Mini Apps",
+            "Reminders",
+            "Privacy",
+            "Group Tools"
+          ]
         }
       ]
     },
@@ -2285,6 +2296,24 @@
             "Payments",
             "Demo",
             "Official"
+          ]
+        },
+        {
+          "name": "Tick My Price",
+          "handle": "TickMyPriceBot",
+          "desc": "Price alerts for crypto pairs and tokens — get pinged in Telegram when your target price is hit.",
+          "tags": [
+            "Crypto",
+            "Price Alerts"
+          ]
+        },
+        {
+          "name": "My Hold Folio",
+          "handle": "MyHoldFolioBot",
+          "desc": "Track your crypto portfolio balances and valuation directly in Telegram.",
+          "tags": [
+            "Crypto",
+            "Portfolio Tracker"
           ]
         }
       ]
