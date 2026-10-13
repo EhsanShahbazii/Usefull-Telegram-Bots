@@ -454,7 +454,7 @@
         {
           "name": "YoutubeDL",
           "handle": "remoteyoutubedl_bot",
-          "desc": "Youtube does not work anymore. Other sites may work. Good luck.\t\tSee here for more information: @remoteyoutubedl_botinfo",
+          "desc": "Youtube does not work anymore. Other sites may work. Good luck.\\t\\tSee here for more information: @remoteyoutubedl_botinfo",
           "tags": [
             "Media",
             "Verified"
@@ -1635,7 +1635,7 @@
         {
           "name": "RouteCabBot",
           "handle": "routecabbot",
-          "desc": "Web client web.route.cab\tUpdates @routecab\t\tMiniapp soon!",
+          "desc": "Web client web.route.cab\\tUpdates @routecab\\t\\tMiniapp soon!",
           "tags": [
             "Productivity",
             "Verified"
