@@ -4,15 +4,18 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **google search** | [@lmgtfy_bot](https://t.me/lmgtfy_bot) | `search-reference` | Google search bot |
-| **RGBrobot** | [@rgbrobot](https://t.me/rgbrobot) | `developers-devops` | [Inline Bot] Simply open any of your chants and type "@RGBrobot <hex code>" into the message field |
-| **audiofromvk_bot** | [@audiofromvk_bot](https://t.me/audiofromvk_bot) | `music-audio` | If you have Telegram, you can contact @audiofromvk_bot right away. |
-| **linuxmonitorbot** | [@linuxmonitorbot](https://t.me/linuxmonitorbot) | `productivity-utilities` | If you have Telegram, you can contact @linuxmonitorbot right away. |
-| **programming_resources_bot** | [@programming_resources_bot](https://t.me/programming_resources_bot) | `productivity-utilities` | If you have Telegram, you can contact @programming_resources_bot right away. |
-| **simplemusxbot** | [@simplemusxbot](https://t.me/simplemusxbot) | `productivity-utilities` | If you have Telegram, you can contact @simplemusxbot right away. |
-| **Tarchive** | [@tarchivebot](https://t.me/tarchivebot) | `productivity-utilities` | You can contact @tarchivebot right away. |
-| **gplinkbot** | [@gplinksbot](https://t.me/gplinksbot) | `productivity-utilities` | You can contact @gplinksbot right away. |
-| **Emojinate - GBoard Emoji Kitchen stickers** | [@emojinatebot](https://t.me/emojinatebot) | `search-reference` | The idea and images are taken from GBoard Emoji Kitchen.
+| **antimalayalambot** | [@antimalayalambot](https://t.me/antimalayalambot) | `productivity-utilities` | If you have Telegram, you can contact @antimalayalambot right away. |
+| **Mention All Members** | [@mentionallmembers_bot](https://t.me/mentionallmembers_bot) | `group-moderation` | You can contact @mentionallmembers_bot right away. |
+| **AS URL Magic  Url Shorten  Unshorten Bot** | [@asurlbot](https://t.me/asurlbot) | `productivity-utilities` | You can contact @asurlbot right away. |
+| **gdriveit_bot** | [@gdriveit_bot](https://t.me/gdriveit_bot) | `cloud-torrent` | If you have Telegram, you can contact @gdriveit_bot right away. |
+| **Fine OCR Bot** | [@fineocrbot](https://t.me/fineocrbot) | `file-converters` | OCR photo or pdf |
+| **Text to Speech Bot** | [@texttsbot](https://t.me/texttsbot) | `productivity-utilities` | TTS Telegram Bot. Problems? <bugs(at)fearnode(dot)net>
 
-😎🤙 @kolyambiapictures |
-| **Mitup  Plan Events with Friends** | [@mitupbot](https://t.me/mitupbot) | `productivity-utilities` | Plan trips, dinners and game nights with friends. Share one message to your group and everyone joins with a tap. |
+Donations? A coffee? BTC: 1A88BbD2DQxoEraGoECdNhqpKbyPc6iB2i |
+| **Urban** | [@urbanbot](https://t.me/urbanbot) | `group-moderation` | You can contact @urbanbot right away. |
+| **Degoo Uploader Bot** | [@degoouploaderbot](https://t.me/degoouploaderbot) | `media-downloaders` | Degoo Uploader Bot 
+Created by @I_A_M_S_D_R |
+| **Axenia** | [@axenia_bot](https://t.me/axenia_bot) | `productivity-utilities` | You can contact @axenia_bot right away. |
+| **MY Waktu Solat** | [@mywaktusolatbot](https://t.me/mywaktusolatbot) | `productivity-utilities` | Bot rujukan waktu solat di Malaysia 🇲🇾
+
+Sertai @BeritaMYWaktuSolat untuk maklumat terkini mengenai bot. |

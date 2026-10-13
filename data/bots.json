@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 230,
+    "total_bots": 240,
     "total_categories": 17,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -148,6 +148,15 @@
             "Converter",
             "PNG",
             "WEBP"
+          ]
+        },
+        {
+          "name": "Fine OCR Bot",
+          "handle": "fineocrbot",
+          "desc": "OCR photo or pdf",
+          "tags": [
+            "File",
+            "Verified"
           ]
         }
       ]
@@ -455,6 +464,15 @@
           "name": "Video Downloader  TikTok Instagram Twitter",
           "handle": "tiktapsavebot",
           "desc": "Send a link, get the video back in seconds.",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Degoo Uploader Bot",
+          "handle": "degoouploaderbot",
+          "desc": "Degoo Uploader Bot \nCreated by @I_A_M_S_D_R",
           "tags": [
             "Media",
             "Verified"
@@ -900,6 +918,15 @@
             "Web Links",
             "Files"
           ]
+        },
+        {
+          "name": "gdriveit_bot",
+          "handle": "gdriveit_bot",
+          "desc": "If you have Telegram, you can contact @gdriveit_bot right away.",
+          "tags": [
+            "Cloud",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1103,6 +1130,24 @@
           "name": "DeleteEvents Bot",
           "handle": "deleteeventsbot",
           "desc": "I delete event messages (aka action messages) on supergroups :P",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Mention All Members",
+          "handle": "mentionallmembers_bot",
+          "desc": "You can contact @mentionallmembers_bot right away.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Urban",
+          "handle": "urbanbot",
+          "desc": "You can contact @urbanbot right away.",
           "tags": [
             "Group",
             "Verified"
@@ -1672,6 +1717,51 @@
           "name": "Mitup  Plan Events with Friends",
           "handle": "mitupbot",
           "desc": "Plan trips, dinners and game nights with friends. Share one message to your group and everyone joins with a tap.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "antimalayalambot",
+          "handle": "antimalayalambot",
+          "desc": "If you have Telegram, you can contact @antimalayalambot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "AS URL Magic  Url Shorten  Unshorten Bot",
+          "handle": "asurlbot",
+          "desc": "You can contact @asurlbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Text to Speech Bot",
+          "handle": "texttsbot",
+          "desc": "TTS Telegram Bot. Problems? <bugs(at)fearnode(dot)net>\n\nDonations? A coffee? BTC: 1A88BbD2DQxoEraGoECdNhqpKbyPc6iB2i",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Axenia",
+          "handle": "axenia_bot",
+          "desc": "You can contact @axenia_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "MY Waktu Solat",
+          "handle": "mywaktusolatbot",
+          "desc": "Bot rujukan waktu solat di Malaysia 🇲🇾\n\nSertai @BeritaMYWaktuSolat untuk maklumat terkini mengenai bot.",
           "tags": [
             "Productivity",
             "Verified"
