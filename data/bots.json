@@ -472,7 +472,7 @@
         {
           "name": "Degoo Uploader Bot",
           "handle": "degoouploaderbot",
-          "desc": "Degoo Uploader Bot \nCreated by @I_A_M_S_D_R",
+          "desc": "Degoo Uploader Bot\nCreated by @I_A_M_S_D_R",
           "tags": [
             "Media",
             "Verified"
@@ -1553,7 +1553,7 @@
         {
           "name": "Inline Memo",
           "handle": "BNoteBot",
-          "desc": "Fast notepad for creating quick inline memos.",
+          "desc": "Fast notepad for practical quick inline memos.",
           "tags": [
             "Notes",
             "Memo"
