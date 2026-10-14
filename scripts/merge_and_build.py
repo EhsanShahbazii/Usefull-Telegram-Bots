@@ -591,6 +591,12 @@ CATALOG = [
                 "tags": ["Temp Mail", "Privacy", "Inbox"]
             },
             {
+                "name": "TempMail Hub",
+                "handle": "tempmail_hub_bot",
+                "desc": "Free disposable email inbox inside Telegram with selectable lifetime (10 min to 7 days) for OTPs and sign-up confirmations, no account needed.",
+                "tags": ["Temp Mail", "Privacy", "Disposable", "OTP"]
+            },
+            {
                 "name": "Truecaller",
                 "handle": "TrueCaller_Bot",
                 "desc": "Look up unknown phone numbers to identify caller identity, carrier details, and spam ratings.",
