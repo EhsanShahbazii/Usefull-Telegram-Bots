@@ -1731,6 +1731,9 @@
             "Reminders",
             "Privacy",
             "Group Tools"
+          ]
+        },
+        {
           "name": "antimalayalambot",
           "handle": "antimalayalambot",
           "desc": "If you have Telegram, you can contact @antimalayalambot right away.",
