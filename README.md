@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-240%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-253%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -27,7 +27,7 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🍿 Movies, TV Shows & Streaming](#movies-tv-shows-streaming) `(11)`
 - [🧲 Cloud Storage, Torrent & Web Uploader](#cloud-storage-torrent-web-uploader) `(4)`
 - [📖 Books, Readers & Document Libraries](#books-readers-document-libraries) `(2)`
-- [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(4)`
+- [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
 - [👥 Group Moderation & Administration](#group-moderation-administration) `(9)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
 - [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(26)`
@@ -277,6 +277,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Disposable temporary email generator. Receive verification emails and OTP codes directly inside Telegram without revealing your personal email.
 - **[@fakemailbot](https://t.me/fakemailbot)** — **Fake Mail** &nbsp; `Temp Mail` `Privacy` `Inbox`  
   Instant disposable email inbox generator for fast website registrations and privacy preservation.
+- **[@tempmail_hub_bot](https://t.me/tempmail_hub_bot)** — **TempMail Hub** &nbsp; `Temp Mail` `Privacy` `Disposable` `OTP`  
+  Free disposable email inbox inside Telegram with selectable lifetime (10 min to 7 days) for OTPs and sign-up confirmations, no account needed.
 - **[@TrueCaller_Bot](https://t.me/TrueCaller_Bot)** — **Truecaller** &nbsp; `Caller ID` `Spam Protection` `Lookup`  
   Look up unknown phone numbers to identify caller identity, carrier details, and spam ratings.
 
@@ -291,8 +293,6 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Comprehensive community management suite featuring CAS (Combot Anti-Spam), chat analytics, levels/XP, and anti-raid defenses.
 - **[@shieldy_bot](https://t.me/shieldy_bot)** — **Shieldy** &nbsp; `Captcha` `Anti-Bot` `Security`  
   Anti-bot captcha guardian: restricts newcomers until they click a button or solve a simple math problem to block spam userbots.
-- **[@JoinApproveProBot](https://t.me/JoinApproveProBot)** — **JoinApprovePro** &nbsp; `Join Requests` `Approval` `Moderation`  
-  Join-request manager for closed groups: reviews pending join requests and approves or declines them, with welcome-message options.
 - **[@GroupHelpBot](https://t.me/GroupHelpBot)** — **Group Help** &nbsp; `Admin` `Anti-Link` `Scheduler` `Custom Roles`  
   Feature-packed group manager with anti-link filters, custom staff roles, penalty ladders, and scheduled messages.
 - **[@WatchDog_Robot](https://t.me/WatchDog_Robot)** — **WatchDog Robot** &nbsp; `Anti-Spam` `Moderation` `Guard`  

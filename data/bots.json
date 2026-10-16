@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 240,
+    "total_bots": 253,
     "total_categories": 17,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -154,6 +154,24 @@
           "name": "Fine OCR Bot",
           "handle": "fineocrbot",
           "desc": "OCR photo or pdf",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Rgb To Hex",
+          "handle": "rgbtohexbot",
+          "desc": "I'm a bot that converts rgb values to hex.",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Convert text to file",
+          "handle": "texttofilebot",
+          "desc": "You can contact @texttofilebot right away.",
           "tags": [
             "File",
             "Verified"
@@ -1152,6 +1170,24 @@
             "Group",
             "Verified"
           ]
+        },
+        {
+          "name": "AutoKick",
+          "handle": "autowelcomekickbot",
+          "desc": "You can contact @autowelcomekickbot right away.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "ChatKeeperBot",
+          "handle": "chatkeeperbot",
+          "desc": "Just do my work ✅\tMore than 500,000 Admins trust me with their groups",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1773,6 +1809,42 @@
           "name": "MY Waktu Solat",
           "handle": "mywaktusolatbot",
           "desc": "Bot rujukan waktu solat di Malaysia 🇲🇾\n\nSertai @BeritaMYWaktuSolat untuk maklumat terkini mengenai bot.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Custom Twig Bot",
+          "handle": "customtwigbot",
+          "desc": "You can contact @customtwigbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Inline Pixiv Bot",
+          "handle": "inlinepixivbot",
+          "desc": "A quick and easy inline bot to get images from Pixiv.net",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Simple Translator",
+          "handle": "simptransbot",
+          "desc": "You can contact @simptransbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "o3o",
+          "handle": "o3o_bot",
+          "desc": "You can contact @o3o_bot right away.",
           "tags": [
             "Productivity",
             "Verified"
@@ -2407,6 +2479,15 @@
             "Telegram",
             "Verified"
           ]
+        },
+        {
+          "name": "Post Appender 20",
+          "handle": "postappender_bot",
+          "desc": "Bot will add a certain predefined text to all posts or certain post types in the channel",
+          "tags": [
+            "Telegram",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2494,6 +2575,15 @@
           "tags": [
             "Crypto",
             "Portfolio Tracker"
+          ]
+        },
+        {
+          "name": "Kick The Deleted",
+          "handle": "kickthedeletedbot",
+          "desc": "Donate to keep this bot alive! bitcoin: bc1qn3ag0qff0axfpmqmtjpe098em5r64y6d4dqs6l",
+          "tags": [
+            "Crypto",
+            "Verified"
           ]
         }
       ]
