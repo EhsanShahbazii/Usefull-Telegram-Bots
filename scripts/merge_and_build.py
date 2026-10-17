@@ -931,6 +931,30 @@ CATALOG = [
                 "handle": "CountdownDaysBot",
                 "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
                 "tags": ["Countdown", "Reminders", "Groups"]
+            },
+            {
+                "name": "Word Race",
+                "handle": "WordRaceGroupBot",
+                "desc": "Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.",
+                "tags": ["Word Game", "Daily", "Groups"]
+            },
+            {
+                "name": "Most Likely To",
+                "handle": "MostLikelyToProBot",
+                "desc": "Party game for 3 to 20 friends in a group. Each round asks who is most likely to do something, votes are sent in private and the results are anonymous. Free, Pro optional.",
+                "tags": ["Party Game", "Groups", "Voting"]
+            },
+            {
+                "name": "Crush Check",
+                "handle": "CrushCheckProBot",
+                "desc": "Share your link and friends secretly choose Like, Just friends or Skip. Names are shown only when two people like each other. Free, Pro optional.",
+                "tags": ["Mutual Like", "Friends", "Private"]
+            },
+            {
+                "name": "Spy Party",
+                "handle": "SpyPartyProBot",
+                "desc": "Find-the-spy party game for group chats with 3 to 12 players. Secret roles arrive by private message, then the group votes out the spy. Free, Pro optional.",
+                "tags": ["Party Game", "Groups", "Social Deduction"]
             }
         ]
     },
@@ -1311,6 +1335,12 @@ CATALOG = [
                 "handle": "GroupPulseProBot",
                 "desc": "Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.",
                 "tags": ["Group Stats", "Analytics", "Groups"]
+            },
+            {
+                "name": "AnonSay",
+                "handle": "AnonSayProBot",
+                "desc": "Anonymous messages in a group: send /anon with your text and the bot reposts it without your name. Admins can ban abusers and can privately look up a sender's first name. Free for 20 posts a day per group, Pro optional.",
+                "tags": ["Anonymous", "Groups", "Messages"]
             }
         ]
     },

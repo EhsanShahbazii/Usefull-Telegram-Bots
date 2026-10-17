@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-257%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-262%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -30,11 +30,11 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
 - [👥 Group Moderation & Administration](#group-moderation-administration) `(11)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
-- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
+- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(31)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
 - [🎨 Stickers, Themes & Visual Design](#stickers-themes-visual-design) `(15)`
-- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(13)`
+- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(14)`
 - [💰 Crypto, Finance & Payments](#crypto-finance-payments) `(6)`
 - [⚽ Sports & Live Event Alerts](#sports-live-event-alerts) `(2)`
 - [⭐ Featured Daily-Drivers](#featured-daily-drivers)
@@ -401,6 +401,14 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Save and synchronize bookmarks with Google services.
 - **[@CountdownDaysBot](https://t.me/CountdownDaysBot)** — **Countdown Days** &nbsp; `Countdown` `Reminders` `Groups`  
   Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.
+- **[@WordRaceGroupBot](https://t.me/WordRaceGroupBot)** — **Word Race** &nbsp; `Word Game` `Daily` `Groups`  
+  Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.
+- **[@MostLikelyToProBot](https://t.me/MostLikelyToProBot)** — **Most Likely To** &nbsp; `Party Game` `Groups` `Voting`  
+  Party game for 3 to 20 friends in a group. Each round asks who is most likely to do something, votes are sent in private and the results are anonymous. Free, Pro optional.
+- **[@CrushCheckProBot](https://t.me/CrushCheckProBot)** — **Crush Check** &nbsp; `Mutual Like` `Friends` `Private`  
+  Share your link and friends secretly choose Like, Just friends or Skip. Names are shown only when two people like each other. Free, Pro optional.
+- **[@SpyPartyProBot](https://t.me/SpyPartyProBot)** — **Spy Party** &nbsp; `Party Game` `Groups` `Social Deduction`  
+  Find-the-spy party game for group chats with 3 to 12 players. Secret roles arrive by private message, then the group votes out the spy. Free, Pro optional.
 
 ---
 
@@ -541,6 +549,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Explore live views from public city webcams worldwide.
 - **[@GroupPulseProBot](https://t.me/GroupPulseProBot)** — **Group Pulse** &nbsp; `Group Stats` `Analytics` `Groups`  
   Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.
+- **[@AnonSayProBot](https://t.me/AnonSayProBot)** — **AnonSay** &nbsp; `Anonymous` `Groups` `Messages`  
+  Anonymous messages in a group: send /anon with your text and the bot reposts it without your name. Admins can ban abusers and can privately look up a sender's first name. Free for 20 posts a day per group, Pro optional.
 
 ---
 
