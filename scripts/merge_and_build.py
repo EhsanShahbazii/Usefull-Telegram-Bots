@@ -663,6 +663,18 @@ CATALOG = [
                 "handle": "Hash_tag_bot",
                 "desc": "Set automated responses, rules, and warnings for specific hashtags in group chats.",
                 "tags": ["Hashtags", "Auto-Response", "Admin"]
+            },
+            {
+                "name": "Join Approve Pro",
+                "handle": "JoinApproveProBot",
+                "desc": "Approves join requests to your channel or group automatically and sends one welcome message to each new member. Free, Pro optional.",
+                "tags": ["Join Requests", "Approval", "Moderation"]
+            },
+            {
+                "name": "Welcome Gate",
+                "handle": "GroupGateProBot",
+                "desc": "Captcha for groups: new members get a welcome card with one button to tap before they can write, and are removed after 5 minutes without a tap. Free, Pro optional.",
+                "tags": ["Captcha", "Welcome", "Anti-Bot"]
             }
         ]
     },
@@ -913,6 +925,12 @@ CATALOG = [
                 "handle": "GoogleBookmarkBot",
                 "desc": "Save and synchronize bookmarks with Google services.",
                 "tags": ["Google", "Bookmarks", "Sync"]
+            },
+            {
+                "name": "Countdown Days",
+                "handle": "CountdownDaysBot",
+                "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
+                "tags": ["Countdown", "Reminders", "Groups"]
             }
         ]
     },
@@ -1287,6 +1305,12 @@ CATALOG = [
                 "handle": "Web_cam_bot",
                 "desc": "Explore live views from public city webcams worldwide.",
                 "tags": ["Webcam", "Live Feed", "Cameras"]
+            },
+            {
+                "name": "Group Pulse",
+                "handle": "GroupPulseProBot",
+                "desc": "Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.",
+                "tags": ["Group Stats", "Analytics", "Groups"]
             }
         ]
     },

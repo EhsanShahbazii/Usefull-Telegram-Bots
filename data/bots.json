@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 253,
+    "total_bots": 257,
     "total_categories": 17,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1188,6 +1188,26 @@
             "Group",
             "Verified"
           ]
+        },
+        {
+          "name": "Join Approve Pro",
+          "handle": "JoinApproveProBot",
+          "desc": "Approves join requests to your channel or group automatically and sends one welcome message to each new member. Free, Pro optional.",
+          "tags": [
+            "Join Requests",
+            "Approval",
+            "Moderation"
+          ]
+        },
+        {
+          "name": "Welcome Gate",
+          "handle": "GroupGateProBot",
+          "desc": "Captcha for groups: new members get a welcome card with one button to tap before they can write, and are removed after 5 minutes without a tap. Free, Pro optional.",
+          "tags": [
+            "Captcha",
+            "Welcome",
+            "Anti-Bot"
+          ]
         }
       ]
     },
@@ -1849,6 +1869,16 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "Countdown Days",
+          "handle": "CountdownDaysBot",
+          "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
+          "tags": [
+            "Countdown",
+            "Reminders",
+            "Groups"
+          ]
         }
       ]
     },
@@ -2487,6 +2517,16 @@
           "tags": [
             "Telegram",
             "Verified"
+          ]
+        },
+        {
+          "name": "Group Pulse",
+          "handle": "GroupPulseProBot",
+          "desc": "Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.",
+          "tags": [
+            "Group Stats",
+            "Analytics",
+            "Groups"
           ]
         }
       ]
