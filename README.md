@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-253%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-257%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -28,13 +28,13 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🧲 Cloud Storage, Torrent & Web Uploader](#cloud-storage-torrent-web-uploader) `(4)`
 - [📖 Books, Readers & Document Libraries](#books-readers-document-libraries) `(2)`
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
-- [👥 Group Moderation & Administration](#group-moderation-administration) `(9)`
+- [👥 Group Moderation & Administration](#group-moderation-administration) `(11)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
-- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(26)`
+- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
 - [🎨 Stickers, Themes & Visual Design](#stickers-themes-visual-design) `(15)`
-- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(12)`
+- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(13)`
 - [💰 Crypto, Finance & Payments](#crypto-finance-payments) `(6)`
 - [⚽ Sports & Live Event Alerts](#sports-live-event-alerts) `(2)`
 - [⭐ Featured Daily-Drivers](#featured-daily-drivers)
@@ -305,6 +305,10 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Simple alert manager for mentions, keywords, and hashtags in groups.
 - **[@Hash_tag_bot](https://t.me/Hash_tag_bot)** — **Hash Tag Bot** &nbsp; `Hashtags` `Auto-Response` `Admin`  
   Set automated responses, rules, and warnings for specific hashtags in group chats.
+- **[@JoinApproveProBot](https://t.me/JoinApproveProBot)** — **Join Approve Pro** &nbsp; `Join Requests` `Approval` `Moderation`  
+  Approves join requests to your channel or group automatically and sends one welcome message to each new member. Free, Pro optional.
+- **[@GroupGateProBot](https://t.me/GroupGateProBot)** — **Welcome Gate** &nbsp; `Captcha` `Welcome` `Anti-Bot`  
+  Captcha for groups: new members get a welcome card with one button to tap before they can write, and are removed after 5 minutes without a tap. Free, Pro optional.
 
 ---
 
@@ -395,6 +399,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Bookmark and categorize links, photos, and messages inside Telegram.
 - **[@GoogleBookmarkBot](https://t.me/GoogleBookmarkBot)** — **Google Bookmark** &nbsp; `Google` `Bookmarks` `Sync`  
   Save and synchronize bookmarks with Google services.
+- **[@CountdownDaysBot](https://t.me/CountdownDaysBot)** — **Countdown Days** &nbsp; `Countdown` `Reminders` `Groups`  
+  Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.
 
 ---
 
@@ -533,6 +539,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   View real-time public road and traffic camera feeds.
 - **[@Web_cam_bot](https://t.me/Web_cam_bot)** — **Webcam Bot** &nbsp; `Webcam` `Live Feed` `Cameras`  
   Explore live views from public city webcams worldwide.
+- **[@GroupPulseProBot](https://t.me/GroupPulseProBot)** — **Group Pulse** &nbsp; `Group Stats` `Analytics` `Groups`  
+  Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.
 
 ---
 
