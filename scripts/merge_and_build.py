@@ -931,7 +931,15 @@ CATALOG = [
                 "handle": "CountdownDaysBot",
                 "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
                 "tags": ["Countdown", "Reminders", "Groups"]
-            },
+            }
+        ]
+    },
+    {
+        "category_id": "games",
+        "category_title": "🎮 Games & Party Games",
+        "emoji": "🎮",
+        "description": "Party games, word games and social games you can play with friends right inside a Telegram chat.",
+        "bots": [
             {
                 "name": "Word Race",
                 "handle": "WordRaceGroupBot",
