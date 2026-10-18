@@ -935,10 +935,10 @@ CATALOG = [
         ]
     },
     {
-        "category_id": "games",
-        "category_title": "🎮 Games & Party Games",
+        "category_id": "games-party",
+        "category_title": "🎮 Games & Party",
         "emoji": "🎮",
-        "description": "Party games, word games and social games you can play with friends right inside a Telegram chat.",
+        "description": "Word games, party games and social games to play with friends in group chats.",
         "bots": [
             {
                 "name": "Word Race",
