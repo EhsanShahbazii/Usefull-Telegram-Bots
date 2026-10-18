@@ -931,7 +931,15 @@ CATALOG = [
                 "handle": "CountdownDaysBot",
                 "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
                 "tags": ["Countdown", "Reminders", "Groups"]
-            },
+            }
+        ]
+    },
+    {
+        "category_id": "games-party",
+        "category_title": "🎮 Games & Party",
+        "emoji": "🎮",
+        "description": "Word games, party games and social games to play with friends in group chats.",
+        "bots": [
             {
                 "name": "Word Race",
                 "handle": "WordRaceGroupBot",

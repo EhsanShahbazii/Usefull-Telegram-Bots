@@ -3,7 +3,7 @@
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
     "total_bots": 262,
-    "total_categories": 17,
+    "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
   },
@@ -1879,7 +1879,15 @@
             "Reminders",
             "Groups"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "category_id": "games-party",
+      "category_title": "🎮 Games & Party",
+      "emoji": "🎮",
+      "description": "Word games, party games and social games to play with friends in group chats.",
+      "bots": [
         {
           "name": "Word Race",
           "handle": "WordRaceGroupBot",
