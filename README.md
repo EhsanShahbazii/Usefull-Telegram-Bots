@@ -30,7 +30,8 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
 - [👥 Group Moderation & Administration](#group-moderation-administration) `(11)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
-- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(31)`
+- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
+- [🎮 Games & Party Games](#games-party-games) `(4)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
 - [🎨 Stickers, Themes & Visual Design](#stickers-themes-visual-design) `(15)`
@@ -401,6 +402,12 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Save and synchronize bookmarks with Google services.
 - **[@CountdownDaysBot](https://t.me/CountdownDaysBot)** — **Countdown Days** &nbsp; `Countdown` `Reminders` `Groups`  
   Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.
+
+---
+
+## 🎮 Games & Party Games
+*Party games, word games and social games you can play with friends right inside a Telegram chat.*
+
 - **[@WordRaceGroupBot](https://t.me/WordRaceGroupBot)** — **Word Race** &nbsp; `Word Game` `Daily` `Groups`  
   Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.
 - **[@MostLikelyToProBot](https://t.me/MostLikelyToProBot)** — **Most Likely To** &nbsp; `Party Game` `Groups` `Voting`  
