@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 262,
+    "total_bots": 272,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1369,6 +1369,24 @@
             "Developers",
             "Verified"
           ]
+        },
+        {
+          "name": "Telegram Bot API Help",
+          "handle": "tgbotapibot",
+          "desc": "Access Telegram Bot API Documentation right here from Telegram. Developer: @suhasa010. Part of @ssjprojects.",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
+        },
+        {
+          "name": "FeedinboxBot",
+          "handle": "feedinboxbot",
+          "desc": "Star new project : https://github.com/saeidb/insta_create\n \n\n@Feedinbox : Contact us\n@FeedinboxChannel : Channel",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1878,6 +1896,69 @@
             "Countdown",
             "Reminders",
             "Groups"
+          ]
+        },
+        {
+          "name": "MemrooBot UNDER CONSTRUCTION",
+          "handle": "memroobot",
+          "desc": "UNDER CONSTRUCTION ATM. I'm here to remind you of the beautiful things happening in your life.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "notcoin",
+          "handle": "textcanvas_bot",
+          "desc": "You can view and join @textcanvas_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "getmydatebot",
+          "handle": "getmydatebot",
+          "desc": "If you have Telegram, you can contact @getmydatebot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "betsinplaybot",
+          "handle": "betsinplaybot",
+          "desc": "If you have Telegram, you can contact @betsinplaybot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Hash ID",
+          "handle": "hashidentity_bot",
+          "desc": "You can contact @hashidentity_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "tgscanrobot",
+          "handle": "tgscanrobot",
+          "desc": "If you have Telegram, you can contact @tgscanrobot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Noticias24H",
+          "handle": "noticias24hbot",
+          "desc": "You can contact @noticias24hbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
           ]
         }
       ]
@@ -2414,6 +2495,15 @@
           "tags": [
             "Video to GIF",
             "Animation"
+          ]
+        },
+        {
+          "name": "Create attheme",
+          "handle": "createatthemebot",
+          "desc": "Create themes for telegram Android from a picture",
+          "tags": [
+            "Stickers",
+            "Verified"
           ]
         }
       ]

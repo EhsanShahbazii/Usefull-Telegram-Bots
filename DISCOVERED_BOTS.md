@@ -4,13 +4,17 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **AutoKick** | [@autowelcomekickbot](https://t.me/autowelcomekickbot) | `group-moderation` | You can contact @autowelcomekickbot right away. |
-| **Kick The Deleted** | [@kickthedeletedbot](https://t.me/kickthedeletedbot) | `crypto-finance` | Donate to keep this bot alive! bitcoin: bc1qn3ag0qff0axfpmqmtjpe098em5r64y6d4dqs6l |
-| **ChatKeeperBot** | [@chatkeeperbot](https://t.me/chatkeeperbot) | `group-moderation` | Just do my work ✅	More than 500,000 Admins trust me with their groups |
-| **Post Appender 20** | [@postappender_bot](https://t.me/postappender_bot) | `telegram-utils` | Bot will add a certain predefined text to all posts or certain post types in the channel |
-| **Rgb To Hex** | [@rgbtohexbot](https://t.me/rgbtohexbot) | `file-converters` | I'm a bot that converts rgb values to hex. |
-| **Custom Twig Bot** | [@customtwigbot](https://t.me/customtwigbot) | `productivity-utilities` | You can contact @customtwigbot right away. |
-| **Convert text to file** | [@texttofilebot](https://t.me/texttofilebot) | `file-converters` | You can contact @texttofilebot right away. |
-| **Inline Pixiv Bot** | [@inlinepixivbot](https://t.me/inlinepixivbot) | `productivity-utilities` | A quick and easy inline bot to get images from Pixiv.net |
-| **Simple Translator** | [@simptransbot](https://t.me/simptransbot) | `productivity-utilities` | You can contact @simptransbot right away. |
-| **o3o** | [@o3o_bot](https://t.me/o3o_bot) | `productivity-utilities` | You can contact @o3o_bot right away. |
+| **MemrooBot UNDER CONSTRUCTION** | [@memroobot](https://t.me/memroobot) | `productivity-utilities` | UNDER CONSTRUCTION ATM. I'm here to remind you of the beautiful things happening in your life. |
+| **notcoin** | [@textcanvas_bot](https://t.me/textcanvas_bot) | `productivity-utilities` | You can view and join @textcanvas_bot right away. |
+| **getmydatebot** | [@getmydatebot](https://t.me/getmydatebot) | `productivity-utilities` | If you have Telegram, you can contact @getmydatebot right away. |
+| **Create attheme** | [@createatthemebot](https://t.me/createatthemebot) | `stickers-themes` | Create themes for telegram Android from a picture |
+| **betsinplaybot** | [@betsinplaybot](https://t.me/betsinplaybot) | `productivity-utilities` | If you have Telegram, you can contact @betsinplaybot right away. |
+| **Telegram Bot API Help** | [@tgbotapibot](https://t.me/tgbotapibot) | `developers-devops` | Access Telegram Bot API Documentation right here from Telegram. Developer: @suhasa010. Part of @ssjprojects. |
+| **Hash ID** | [@hashidentity_bot](https://t.me/hashidentity_bot) | `productivity-utilities` | You can contact @hashidentity_bot right away. |
+| **FeedinboxBot** | [@feedinboxbot](https://t.me/feedinboxbot) | `developers-devops` | Star new project : https://github.com/saeidb/insta_create
+ 
+
+@Feedinbox : Contact us
+@FeedinboxChannel : Channel |
+| **tgscanrobot** | [@tgscanrobot](https://t.me/tgscanrobot) | `productivity-utilities` | If you have Telegram, you can contact @tgscanrobot right away. |
+| **Noticias24H** | [@noticias24hbot](https://t.me/noticias24hbot) | `productivity-utilities` | You can contact @noticias24hbot right away. |
