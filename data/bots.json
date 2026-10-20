@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 272,
+    "total_bots": 273,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -74,6 +74,17 @@
             "AI Art",
             "Midjourney",
             "Image Generation"
+          ]
+        },
+        {
+          "name": "CoAuthor | Product Launch",
+          "handle": "coauthor_launch_bot",
+          "desc": "AI assistant for experts and creators launching consulting offers and courses: channel analysis, product positioning, landing pages, content, and promotion plans.",
+          "tags": [
+            "AI",
+            "Product Launch",
+            "Marketing",
+            "Creators"
           ]
         }
       ]

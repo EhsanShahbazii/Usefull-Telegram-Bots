@@ -53,6 +53,12 @@ CATALOG = [
                 "handle": "Dalle3_bot",
                 "desc": "Generate realistic artwork and photos using advanced generative diffusion models directly inside Telegram.",
                 "tags": ["AI Art", "Midjourney", "Image Generation"]
+            },
+            {
+                "name": "CoAuthor | Product Launch",
+                "handle": "coauthor_launch_bot",
+                "desc": "AI assistant for experts and creators launching consulting offers and courses: channel analysis, product positioning, landing pages, content, and promotion plans.",
+                "tags": ["AI", "Product Launch", "Marketing", "Creators"]
             }
         ]
     },
