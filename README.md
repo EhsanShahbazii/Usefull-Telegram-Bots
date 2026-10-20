@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-272%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-273%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -20,7 +20,7 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 
 ## 🧭 Table of Contents
 
-- [🤖 AI, LLMs & Speech-to-Text](#ai-llms-speech-to-text) `(6)`
+- [🤖 AI, LLMs & Speech-to-Text](#ai-llms-speech-to-text) `(7)`
 - [🔄 File, Document & PDF Converters](#file-document-pdf-converters) `(6)`
 - [📥 Media, Video & Social Downloaders](#media-video-social-downloaders) `(29)`
 - [🎵 Music, Audio & Podcasts](#music-audio-podcasts) `(25)`
@@ -76,6 +76,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   AI image generation bot powered by DALL-E 3 / Microsoft Designer. Generates 4 HD image variants per prompt.
 - **[@Dalle3_bot](https://t.me/Dalle3_bot)** — **DALL-E 3 & Midjourney** &nbsp; `AI Art` `Midjourney` `Image Generation`  
   Generate realistic artwork and photos using advanced generative diffusion models directly inside Telegram.
+- **[@coauthor_launch_bot](https://t.me/coauthor_launch_bot)** — **CoAuthor | Product Launch** &nbsp; `AI` `Product Launch` `Marketing` `Creators`
+  AI assistant for experts and creators launching consulting offers and courses: channel analysis, product positioning, landing pages, content, and promotion plans.
 
 ---
 
