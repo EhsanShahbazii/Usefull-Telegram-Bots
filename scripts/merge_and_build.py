@@ -681,6 +681,18 @@ CATALOG = [
                 "handle": "GroupGateProBot",
                 "desc": "Captcha for groups: new members get a welcome card with one button to tap before they can write, and are removed after 5 minutes without a tap. Free, Pro optional.",
                 "tags": ["Captcha", "Welcome", "Anti-Bot"]
+            },
+            {
+                "name": "Subgate",
+                "handle": "MostLikelyToProBot",
+                "desc": "Members must subscribe to the group's channel before they can write. Admins, bots and the channel itself are never checked. Free for one channel, Pro optional.",
+                "tags": ["Subscription Check", "Channel", "Moderation"]
+            },
+            {
+                "name": "Birthday Reminder",
+                "handle": "BirthdayReminderProBot",
+                "desc": "Remembers the birthdays of group members and posts a greeting in the group on the day. Free, Pro optional.",
+                "tags": ["Birthdays", "Reminders", "Groups"]
             }
         ]
     },
@@ -951,12 +963,6 @@ CATALOG = [
                 "handle": "WordRaceGroupBot",
                 "desc": "Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.",
                 "tags": ["Word Game", "Daily", "Groups"]
-            },
-            {
-                "name": "Most Likely To",
-                "handle": "MostLikelyToProBot",
-                "desc": "Party game for 3 to 20 friends in a group. Each round asks who is most likely to do something, votes are sent in private and the results are anonymous. Free, Pro optional.",
-                "tags": ["Party Game", "Groups", "Voting"]
             },
             {
                 "name": "Crush Check",
