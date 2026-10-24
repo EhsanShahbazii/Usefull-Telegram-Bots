@@ -28,10 +28,10 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🧲 Cloud Storage, Torrent & Web Uploader](#cloud-storage-torrent-web-uploader) `(4)`
 - [📖 Books, Readers & Document Libraries](#books-readers-document-libraries) `(2)`
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
-- [👥 Group Moderation & Administration](#group-moderation-administration) `(13)`
+- [👥 Group Moderation & Administration](#group-moderation-administration) `(14)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
 - [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
-- [🎮 Games & Party](#games-party) `(3)`
+- [🎮 Games & Party](#games-party) `(2)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
 - [🎨 Stickers, Themes & Visual Design](#stickers-themes-visual-design) `(15)`
@@ -316,6 +316,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Members must subscribe to the group's channel before they can write. Admins, bots and the channel itself are never checked. Free for one channel, Pro optional.
 - **[@BirthdayReminderProBot](https://t.me/BirthdayReminderProBot)** — **Birthday Reminder** &nbsp; `Birthdays` `Reminders` `Groups`  
   Remembers the birthdays of group members and posts a greeting in the group on the day. Free, Pro optional.
+- **[@WordRaceGroupBot](https://t.me/WordRaceGroupBot)** — **Group Shield** &nbsp; `Anti-Spam` `Link Filter` `Moderation`  
+  Deletes messages with links, removes join and leave messages and mutes members who flood the chat. Every switch is off until an admin turns it on. Free, Pro optional.
 
 ---
 
@@ -414,8 +416,6 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
 ## 🎮 Games & Party
 *Word games, party games and social games to play with friends in group chats.*
 
-- **[@WordRaceGroupBot](https://t.me/WordRaceGroupBot)** — **Word Race** &nbsp; `Word Game` `Daily` `Groups`  
-  Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.
 - **[@CrushCheckProBot](https://t.me/CrushCheckProBot)** — **Crush Check** &nbsp; `Mutual Like` `Friends` `Private`  
   Share your link and friends secretly choose Like, Just friends or Skip. Names are shown only when two people like each other. Free, Pro optional.
 - **[@SpyPartyProBot](https://t.me/SpyPartyProBot)** — **Spy Party** &nbsp; `Party Game` `Groups` `Social Deduction`  

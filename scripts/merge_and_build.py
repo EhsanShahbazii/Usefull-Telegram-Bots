@@ -693,6 +693,12 @@ CATALOG = [
                 "handle": "BirthdayReminderProBot",
                 "desc": "Remembers the birthdays of group members and posts a greeting in the group on the day. Free, Pro optional.",
                 "tags": ["Birthdays", "Reminders", "Groups"]
+            },
+            {
+                "name": "Group Shield",
+                "handle": "WordRaceGroupBot",
+                "desc": "Deletes messages with links, removes join and leave messages and mutes members who flood the chat. Every switch is off until an admin turns it on. Free, Pro optional.",
+                "tags": ["Anti-Spam", "Link Filter", "Moderation"]
             }
         ]
     },
@@ -958,12 +964,6 @@ CATALOG = [
         "emoji": "🎮",
         "description": "Word games, party games and social games to play with friends in group chats.",
         "bots": [
-            {
-                "name": "Word Race",
-                "handle": "WordRaceGroupBot",
-                "desc": "Daily 5-letter word game for groups. Everyone guesses the same word in a private chat with six tries, and the group gets the results in the evening. It also works solo. Free, Pro optional.",
-                "tags": ["Word Game", "Daily", "Groups"]
-            },
             {
                 "name": "Crush Check",
                 "handle": "CrushCheckProBot",
