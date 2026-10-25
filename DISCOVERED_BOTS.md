@@ -4,20 +4,20 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **GitHub Repo Uploader amp GitHub Repo Downloader Bot** | [@githubmnager_bot](https://t.me/githubmnager_bot) | `media-downloaders` | A Github Uploader And Downloader Bot To DL The Public & Private Repo File Or Folder. I Can UP Puplic & Private Repo Too |
-| **Apk-DL** | [@apkfiledownloaderbot](https://t.me/apkfiledownloaderbot) | `media-downloaders` | App Downloader v9.3.1 (beta)
-- Compatible with Android versions.
-- Minor Bug Fixes. |
-| **Dwindle** | [@dwindle_bot](https://t.me/dwindle_bot) | `productivity-utilities` | You can contact @dwindle_bot right away. |
-| **goodquotebot** | [@goodquotebot](https://t.me/goodquotebot) | `productivity-utilities` | If you have Telegram, you can contact @goodquotebot right away. |
-| **El Tiempo AEMET** | [@aemetbot](https://t.me/aemetbot) | `productivity-utilities` | Consulta el tiempo de tu localidad. Sólo España. |
-| **SplitTabs  Split Bills** | [@splittabsbot](https://t.me/splittabsbot) | `productivity-utilities` | Group bill splitter: /add 20 dinner @anna, /balance, /settle. Free 20 expenses per group. |
-| **Lock Bot** | [@lockbot](https://t.me/lockbot) | `productivity-utilities` | This bot will help you to lock and unlock files that only one person should handle at one time. |
-| **Video Trimmer Bot** | [@video_trimmer_cbot](https://t.me/video_trimmer_cbot) | `file-converters` | If not working then Try
-@AudioConverter2Bot
-@VideoConverter2Bot
+| **Моя музыка** | [@fbmusic_bot](https://t.me/fbmusic_bot) | `productivity-utilities` | Слушаем музыку в узком кругу |
+| **VK Music Bot** | [@vkmsaverbot](https://t.me/vkmsaverbot) | `music-audio` | Реклама/Advertisement — @TTMediaAdsBot
+Admin — @ttmediagrupi
 
-For Help join @TheNiceBots
-Group @Helps_Group |
-| **How Well Do You Know Me  Friend Quiz  Who Knows Me Best** | [@whoknowsmebestbot](https://t.me/whoknowsmebestbot) | `productivity-utilities` | Make a 10-question quiz. Share your link and see who knows you best. Free, Pro optional. |
-| **sкyℓєє** | [@skylee_bot](https://t.me/skylee_bot) | `productivity-utilities` | </DED> |
+Bot channel — t.me/ttsaveboti |
+| **PixelatorBot** | [@pixelatorbot](https://t.me/pixelatorbot) | `stickers-themes` | Pixelate any photo, sticker, or picture! Learn more at http://pixelatorapp.com/ |
+| **Hide It Bot** | [@hideitbot](https://t.me/hideitbot) | `productivity-utilities` | Type @hideItBot and write a message. It’s contents will be hidden in plain sight and visible after pressing a button. |
+| **Stella** | [@missstella_bot](https://t.me/missstella_bot) | `group-moderation` | Hey there!? I'm Stella, I can help you manage your groups. 😉
+GitHub repo link: https://github.com/SpookyGang/Stella |
+| **yeageristmusic_bot** | [@yeageristmusic_bot](https://t.me/yeageristmusic_bot) | `music-audio` | If you have Telegram, you can contact @yeageristmusic_bot right away. |
+| **Money Bot** | [@usdrub_bot](https://t.me/usdrub_bot) | `productivity-utilities` | Переводит ₽ в $, остальное — в ₽. Это удобно в международных чатах
+Ничего не собирает
+@usdrubBotSupport
+© Марат Сайтаков |
+| **Export To Telegraph** | [@export_telegraph_bot](https://t.me/export_telegraph_bot) | `productivity-utilities` | Send link to the bot, and bot will reply a telegraph link with extracted article. |
+| **alinadcruzbot** | [@alinadcruzbot](https://t.me/alinadcruzbot) | `productivity-utilities` | If you have Telegram, you can contact @alinadcruzbot right away. |
+| **Convert** | [@amortmbot](https://t.me/amortmbot) | `file-converters` | @Hama_Refaat |

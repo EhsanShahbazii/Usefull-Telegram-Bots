@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 283,
+    "total_bots": 294,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -192,6 +192,15 @@
           "name": "Video Trimmer Bot",
           "handle": "video_trimmer_cbot",
           "desc": "If not working then Try\n@AudioConverter2Bot\n@VideoConverter2Bot\n\nFor Help join @TheNiceBots\nGroup @Helps_Group",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Convert",
+          "handle": "amortmbot",
+          "desc": "@Hama_Refaat",
           "tags": [
             "File",
             "Verified"
@@ -807,6 +816,24 @@
             "Music",
             "Verified"
           ]
+        },
+        {
+          "name": "VK Music Bot",
+          "handle": "vkmsaverbot",
+          "desc": "Реклама/Advertisement — @TTMediaAdsBot\nAdmin — @ttmediagrupi\n\nBot channel — t.me/ttsaveboti",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
+        },
+        {
+          "name": "yeageristmusic_bot",
+          "handle": "yeageristmusic_bot",
+          "desc": "If you have Telegram, you can contact @yeageristmusic_bot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1275,6 +1302,15 @@
             "Anti-Spam",
             "Link Filter",
             "Moderation"
+          ]
+        },
+        {
+          "name": "Stella",
+          "handle": "missstella_bot",
+          "desc": "Hey there!? I'm Stella, I can help you manage your groups. 😉\nGitHub repo link: https://github.com/SpookyGang/Stella",
+          "tags": [
+            "Group",
+            "Verified"
           ]
         }
       ]
@@ -2091,6 +2127,51 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "Моя музыка",
+          "handle": "fbmusic_bot",
+          "desc": "Слушаем музыку в узком кругу",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Hide It Bot",
+          "handle": "hideitbot",
+          "desc": "Type @hideItBot and write a message. It’s contents will be hidden in plain sight and visible after pressing a button.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Money Bot",
+          "handle": "usdrub_bot",
+          "desc": "Переводит ₽ в $, остальное — в ₽. Это удобно в международных чатах\nНичего не собирает\n@usdrubBotSupport\n© Марат Сайтаков",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Export To Telegraph",
+          "handle": "export_telegraph_bot",
+          "desc": "Send link to the bot, and bot will reply a telegraph link with extracted article.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "alinadcruzbot",
+          "handle": "alinadcruzbot",
+          "desc": "If you have Telegram, you can contact @alinadcruzbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2612,6 +2693,15 @@
           "name": "Create attheme",
           "handle": "createatthemebot",
           "desc": "Create themes for telegram Android from a picture",
+          "tags": [
+            "Stickers",
+            "Verified"
+          ]
+        },
+        {
+          "name": "PixelatorBot",
+          "handle": "pixelatorbot",
+          "desc": "Pixelate any photo, sticker, or picture! Learn more at http://pixelatorapp.com/",
           "tags": [
             "Stickers",
             "Verified"
