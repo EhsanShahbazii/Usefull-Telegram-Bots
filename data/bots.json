@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 294,
+    "total_bots": 304,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -201,6 +201,24 @@
           "name": "Convert",
           "handle": "amortmbot",
           "desc": "@Hama_Refaat",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "dp_watermarkbot",
+          "handle": "dp_watermarkbot",
+          "desc": "If you have Telegram, you can contact @dp_watermarkbot right away.",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Image Converter",
+          "handle": "imageconverterrobot",
+          "desc": "You can contact @imageconverterrobot right away.",
           "tags": [
             "File",
             "Verified"
@@ -538,6 +556,15 @@
           "name": "Apk-DL",
           "handle": "apkfiledownloaderbot",
           "desc": "App Downloader v9.3.1 (beta)\n- Compatible with Android versions.\n- Minor Bug Fixes.",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Mega Uploader X",
+          "handle": "mega_uploaderxbot",
+          "desc": "This Bot Can Upload Mega Files & Video To Telegram \nPlease! Join Our Channel & Watch Anime 👇\n@AnimeListUp",
           "tags": [
             "Media",
             "Verified"
@@ -2168,6 +2195,69 @@
           "name": "alinadcruzbot",
           "handle": "alinadcruzbot",
           "desc": "If you have Telegram, you can contact @alinadcruzbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "RFiles Bot",
+          "handle": "rfilesbot",
+          "desc": "Bot-based file hosting.\nCreated by @error_log",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Unofficial Anilist bot",
+          "handle": "theanimebot",
+          "desc": "This bot helps you find anime in inline mode",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Markdown Dev Bot",
+          "handle": "markdowndevbot",
+          "desc": "Markdown tester for bot developers",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Make Collage",
+          "handle": "makecollage_bot",
+          "desc": "Bot doesn't work anymore.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "HK RENAME BOT",
+          "handle": "hk_rename_bot",
+          "desc": "You can contact @hk_rename_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "genpwdbot",
+          "handle": "genpwdbot",
+          "desc": "If you have Telegram, you can contact @genpwdbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "𝔾𝕠𝕠𝕘𝕝𝕖 𝔻𝕣𝕚𝕧𝕖",
+          "handle": "gdriveup_1bot",
+          "desc": "𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗿𝗶𝘃𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿\n\n𝗕𝗼𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 :  @ImSafone 🔥",
           "tags": [
             "Productivity",
             "Verified"
