@@ -4,18 +4,23 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **dp_watermarkbot** | [@dp_watermarkbot](https://t.me/dp_watermarkbot) | `file-converters` | If you have Telegram, you can contact @dp_watermarkbot right away. |
-| **RFiles Bot** | [@rfilesbot](https://t.me/rfilesbot) | `productivity-utilities` | Bot-based file hosting.
-Created by @error_log |
-| **Unofficial Anilist bot** | [@theanimebot](https://t.me/theanimebot) | `productivity-utilities` | This bot helps you find anime in inline mode |
-| **Markdown Dev Bot** | [@markdowndevbot](https://t.me/markdowndevbot) | `productivity-utilities` | Markdown tester for bot developers |
-| **Make Collage** | [@makecollage_bot](https://t.me/makecollage_bot) | `productivity-utilities` | Bot doesn't work anymore. |
-| **HK RENAME BOT** | [@hk_rename_bot](https://t.me/hk_rename_bot) | `productivity-utilities` | You can contact @hk_rename_bot right away. |
-| **genpwdbot** | [@genpwdbot](https://t.me/genpwdbot) | `productivity-utilities` | If you have Telegram, you can contact @genpwdbot right away. |
-| **Image Converter** | [@imageconverterrobot](https://t.me/imageconverterrobot) | `file-converters` | You can contact @imageconverterrobot right away. |
-| **𝔾𝕠𝕠𝕘𝕝𝕖 𝔻𝕣𝕚𝕧𝕖** | [@gdriveup_1bot](https://t.me/gdriveup_1bot) | `productivity-utilities` | 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗿𝗶𝘃𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+| **firstlibrarybot** | [@firstlibrarybot](https://t.me/firstlibrarybot) | `productivity-utilities` | If you have Telegram, you can contact @firstlibrarybot right away. |
+| **Corona Tōkei β** | [@tokeibot](https://t.me/tokeibot) | `productivity-utilities` | Corona Updater Chat bot
+Stay home stay safe
+ 
+Developed by NerdsLab |
+| **ChooChooBot** | [@choochoobot](https://t.me/choochoobot) | `productivity-utilities` | Current schedule of planes, trains and buses all over the world.
 
-𝗕𝗼𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 :  @ImSafone 🔥 |
-| **Mega Uploader X** | [@mega_uploaderxbot](https://t.me/mega_uploaderxbot) | `media-downloaders` | This Bot Can Upload Mega Files & Video To Telegram 
-Please! Join Our Channel & Watch Anime 👇
-@AnimeListUp |
+Вопросы/предложения @aszemcov |
+| **KioskBot** | [@gerkioskbot](https://t.me/gerkioskbot) | `productivity-utilities` | The magazines get frequently updated! 😁
+
+If you like to contact me, please use the feedback function... |
+| **wikipediainlinebot** | [@wikipediainlinebot](https://t.me/wikipediainlinebot) | `search-reference` | If you have Telegram, you can contact @wikipediainlinebot right away. |
+| **TG Info Taker** | [@tg_infoxbot](https://t.me/tg_infoxbot) | `developers-devops` | Bot will help you to take Message Details and User Details
+
+○ Support : @CodeXBotzSupport
+○ Channel : @CodeXBotz |
+| **Pomodoro Bot** | [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) | `productivity-utilities` | Pomodoro timer. Feedback: @CaddisFly. Also, try @platon_platon_bot - text & video summarizer bot from my creator. |
+| **freelibrarianbot** | [@freelibrarianbot](https://t.me/freelibrarianbot) | `productivity-utilities` | If you have Telegram, you can contact @freelibrarianbot right away. |
+| **The Job Bot** | [@jobobot](https://t.me/jobobot) | `productivity-utilities` | The job hunter bot. Helps humans to find job offers worldwide and apply for the positions directly from the messenger. |
+| **cnc_muzik_bot** | [@cnc_muzik_bot](https://t.me/cnc_muzik_bot) | `productivity-utilities` | If you have Telegram, you can contact @cnc_muzik_bot right away. |

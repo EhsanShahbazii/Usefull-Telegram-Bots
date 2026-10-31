@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 304,
+    "total_bots": 314,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1518,6 +1518,15 @@
             "Developers",
             "Verified"
           ]
+        },
+        {
+          "name": "TG Info Taker",
+          "handle": "tg_infoxbot",
+          "desc": "Bot will help you to take Message Details and User Details\n\n○ Support : @CodeXBotzSupport\n○ Channel : @CodeXBotz",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2262,6 +2271,78 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "firstlibrarybot",
+          "handle": "firstlibrarybot",
+          "desc": "If you have Telegram, you can contact @firstlibrarybot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Corona Tōkei β",
+          "handle": "tokeibot",
+          "desc": "Corona Updater Chat bot\nStay home stay safe\n \nDeveloped by NerdsLab",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "ChooChooBot",
+          "handle": "choochoobot",
+          "desc": "Current schedule of planes, trains and buses all over the world.\n\nВопросы/предложения @aszemcov",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "KioskBot",
+          "handle": "gerkioskbot",
+          "desc": "The magazines get frequently updated! 😁\n\nIf you like to contact me, please use the feedback function...",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Pomodoro Bot",
+          "handle": "pomodoro_timer_bot",
+          "desc": "Pomodoro timer. Feedback: @CaddisFly. Also, try @platon_platon_bot - text & video summarizer bot from my creator.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "freelibrarianbot",
+          "handle": "freelibrarianbot",
+          "desc": "If you have Telegram, you can contact @freelibrarianbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "The Job Bot",
+          "handle": "jobobot",
+          "desc": "The job hunter bot. Helps humans to find job offers worldwide and apply for the positions directly from the messenger.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "cnc_muzik_bot",
+          "handle": "cnc_muzik_bot",
+          "desc": "If you have Telegram, you can contact @cnc_muzik_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2524,6 +2605,15 @@
           "name": "Emojinate - GBoard Emoji Kitchen stickers",
           "handle": "emojinatebot",
           "desc": "The idea and images are taken from GBoard Emoji Kitchen.\n\n😎🤙 @kolyambiapictures",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "wikipediainlinebot",
+          "handle": "wikipediainlinebot",
+          "desc": "If you have Telegram, you can contact @wikipediainlinebot right away.",
           "tags": [
             "Search",
             "Verified"
