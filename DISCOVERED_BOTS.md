@@ -4,23 +4,14 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **firstlibrarybot** | [@firstlibrarybot](https://t.me/firstlibrarybot) | `productivity-utilities` | If you have Telegram, you can contact @firstlibrarybot right away. |
-| **Corona Tōkei β** | [@tokeibot](https://t.me/tokeibot) | `productivity-utilities` | Corona Updater Chat bot
-Stay home stay safe
- 
-Developed by NerdsLab |
-| **ChooChooBot** | [@choochoobot](https://t.me/choochoobot) | `productivity-utilities` | Current schedule of planes, trains and buses all over the world.
-
-Вопросы/предложения @aszemcov |
-| **KioskBot** | [@gerkioskbot](https://t.me/gerkioskbot) | `productivity-utilities` | The magazines get frequently updated! 😁
-
-If you like to contact me, please use the feedback function... |
-| **wikipediainlinebot** | [@wikipediainlinebot](https://t.me/wikipediainlinebot) | `search-reference` | If you have Telegram, you can contact @wikipediainlinebot right away. |
-| **TG Info Taker** | [@tg_infoxbot](https://t.me/tg_infoxbot) | `developers-devops` | Bot will help you to take Message Details and User Details
-
-○ Support : @CodeXBotzSupport
-○ Channel : @CodeXBotz |
-| **Pomodoro Bot** | [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) | `productivity-utilities` | Pomodoro timer. Feedback: @CaddisFly. Also, try @platon_platon_bot - text & video summarizer bot from my creator. |
-| **freelibrarianbot** | [@freelibrarianbot](https://t.me/freelibrarianbot) | `productivity-utilities` | If you have Telegram, you can contact @freelibrarianbot right away. |
-| **The Job Bot** | [@jobobot](https://t.me/jobobot) | `productivity-utilities` | The job hunter bot. Helps humans to find job offers worldwide and apply for the positions directly from the messenger. |
-| **cnc_muzik_bot** | [@cnc_muzik_bot](https://t.me/cnc_muzik_bot) | `productivity-utilities` | If you have Telegram, you can contact @cnc_muzik_bot right away. |
+| **Google Drive Uploader** | [@gdriveup_cbot](https://t.me/gdriveup_cbot) | `media-downloaders` | You can contact @gdriveup_cbot right away. |
+| **entabot** | [@entabot](https://t.me/entabot) | `productivity-utilities` | If you have Telegram, you can contact @entabot right away. |
+| **AntiUserbotsBot** | [@antiuserbotsbot](https://t.me/antiuserbotsbot) | `group-moderation` | Bot para impedir la entrada de userbots en grupos // Bot to avoid userbots in groups. By @GoRhY |
+| **pastethisbot** | [@pastethisbot](https://t.me/pastethisbot) | `productivity-utilities` | If you have Telegram, you can contact @pastethisbot right away. |
+| **Event RSVP  Group Events** | [@eventrsvpprobot](https://t.me/eventrsvpprobot) | `group-moderation` | Event cards for groups: /event fri 19:00 dinner, members tap Going, Maybe or Can't. More bots: addthisbot.com |
+| **Reddit Bot** | [@hotredditbot](https://t.me/hotredditbot) | `media-downloaders` | You can contact @hotredditbot right away. |
+| **coronavirusinforobot** | [@coronavirusinforobot](https://t.me/coronavirusinforobot) | `privacy-security` | If you have Telegram, you can contact @coronavirusinforobot right away. |
+| **Quran Bot** | [@islamicquranbot](https://t.me/islamicquranbot) | `productivity-utilities` | منصة القران على التليقرام ( اشمل مكتبة قرانية صوتية )
+Quran Bot on Telegram (  The Most Comprehensive Quranic Libs ) |
+| **heydocbot** | [@heydocbot](https://t.me/heydocbot) | `productivity-utilities` | If you have Telegram, you can contact @heydocbot right away. |
+| **Verbot** | [@vbotvbot](https://t.me/vbotvbot) | `productivity-utilities` | Get to know a project new version release! |

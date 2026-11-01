@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 314,
+    "total_bots": 324,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -569,6 +569,24 @@
             "Media",
             "Verified"
           ]
+        },
+        {
+          "name": "Google Drive Uploader",
+          "handle": "gdriveup_cbot",
+          "desc": "You can contact @gdriveup_cbot right away.",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Reddit Bot",
+          "handle": "hotredditbot",
+          "desc": "You can contact @hotredditbot right away.",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1115,6 +1133,15 @@
             "Spam Protection",
             "Lookup"
           ]
+        },
+        {
+          "name": "coronavirusinforobot",
+          "handle": "coronavirusinforobot",
+          "desc": "If you have Telegram, you can contact @coronavirusinforobot right away.",
+          "tags": [
+            "Privacy",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1335,6 +1362,24 @@
           "name": "Stella",
           "handle": "missstella_bot",
           "desc": "Hey there!? I'm Stella, I can help you manage your groups. 😉\nGitHub repo link: https://github.com/SpookyGang/Stella",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "AntiUserbotsBot",
+          "handle": "antiuserbotsbot",
+          "desc": "Bot para impedir la entrada de userbots en grupos // Bot to avoid userbots in groups. By @GoRhY",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Event RSVP  Group Events",
+          "handle": "eventrsvpprobot",
+          "desc": "Event cards for groups: /event fri 19:00 dinner, members tap Going, Maybe or Can't. More bots: addthisbot.com",
           "tags": [
             "Group",
             "Verified"
@@ -2339,6 +2384,51 @@
           "name": "cnc_muzik_bot",
           "handle": "cnc_muzik_bot",
           "desc": "If you have Telegram, you can contact @cnc_muzik_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "entabot",
+          "handle": "entabot",
+          "desc": "If you have Telegram, you can contact @entabot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "pastethisbot",
+          "handle": "pastethisbot",
+          "desc": "If you have Telegram, you can contact @pastethisbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Quran Bot",
+          "handle": "islamicquranbot",
+          "desc": "منصة القران على التليقرام ( اشمل مكتبة قرانية صوتية )\nQuran Bot on Telegram (  The Most Comprehensive Quranic Libs )",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "heydocbot",
+          "handle": "heydocbot",
+          "desc": "If you have Telegram, you can contact @heydocbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Verbot",
+          "handle": "vbotvbot",
+          "desc": "Get to know a project new version release!",
           "tags": [
             "Productivity",
             "Verified"

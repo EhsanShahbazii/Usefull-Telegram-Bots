@@ -1,16 +1,17 @@
 # 📊 Telegram Bots Health Report
 
-*Generated on: 2026-10-31 04:21:57 UTC*
+*Generated on: 2026-11-01 04:41:09 UTC*
 
 ## 📈 Summary
-- **Total Checked**: 314
-- **🟢 Active Bots**: 309 (98.4%)
-- **⚠️ Channels/Users**: 5 (1.6%)
+- **Total Checked**: 324
+- **🟢 Active Bots**: 318 (98.1%)
+- **⚠️ Channels/Users**: 6 (1.9%)
 - **🔴 Dead / Unavailable**: 0 (0.0%)
 
 ## ⚠️ Handles Changed to Channel/User
 | Handle | Title | Status |
 | --- | --- | --- |
+| `@Wiki` | N/A | user_or_other |
 | `@Gif` | N/A | user_or_other |
 | `@Bing` | N/A | user_or_other |
 | `@Pic` | N/A | user_or_other |
