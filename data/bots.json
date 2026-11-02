@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 324,
+    "total_bots": 213,
     "total_categories": 18,
-    "updated_at": "Auto-Discovered & Verified",
+    "updated_at": "October 2026",
     "version": "2.0.0"
   },
   "categories": [
@@ -159,69 +159,6 @@
             "Converter",
             "PNG",
             "WEBP"
-          ]
-        },
-        {
-          "name": "Fine OCR Bot",
-          "handle": "fineocrbot",
-          "desc": "OCR photo or pdf",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Rgb To Hex",
-          "handle": "rgbtohexbot",
-          "desc": "I'm a bot that converts rgb values to hex.",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Convert text to file",
-          "handle": "texttofilebot",
-          "desc": "You can contact @texttofilebot right away.",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Video Trimmer Bot",
-          "handle": "video_trimmer_cbot",
-          "desc": "If not working then Try\n@AudioConverter2Bot\n@VideoConverter2Bot\n\nFor Help join @TheNiceBots\nGroup @Helps_Group",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Convert",
-          "handle": "amortmbot",
-          "desc": "@Hama_Refaat",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "dp_watermarkbot",
-          "handle": "dp_watermarkbot",
-          "desc": "If you have Telegram, you can contact @dp_watermarkbot right away.",
-          "tags": [
-            "File",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Image Converter",
-          "handle": "imageconverterrobot",
-          "desc": "You can contact @imageconverterrobot right away.",
-          "tags": [
-            "File",
-            "Verified"
           ]
         }
       ]
@@ -515,78 +452,6 @@
             "Analytics",
             "Reviews"
           ]
-        },
-        {
-          "name": "YoutubeDL",
-          "handle": "remoteyoutubedl_bot",
-          "desc": "Youtube does not work anymore. Other sites may work. Good luck.\\t\\tSee here for more information: @remoteyoutubedl_botinfo",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Video Downloader  TikTok Instagram Twitter",
-          "handle": "tiktapsavebot",
-          "desc": "Send a link, get the video back in seconds.",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Degoo Uploader Bot",
-          "handle": "degoouploaderbot",
-          "desc": "Degoo Uploader Bot\nCreated by @I_A_M_S_D_R",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "GitHub Repo Uploader amp GitHub Repo Downloader Bot",
-          "handle": "githubmnager_bot",
-          "desc": "A Github Uploader And Downloader Bot To DL The Public & Private Repo File Or Folder. I Can UP Puplic & Private Repo Too",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Apk-DL",
-          "handle": "apkfiledownloaderbot",
-          "desc": "App Downloader v9.3.1 (beta)\n- Compatible with Android versions.\n- Minor Bug Fixes.",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Mega Uploader X",
-          "handle": "mega_uploaderxbot",
-          "desc": "This Bot Can Upload Mega Files & Video To Telegram \nPlease! Join Our Channel & Watch Anime 👇\n@AnimeListUp",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Google Drive Uploader",
-          "handle": "gdriveup_cbot",
-          "desc": "You can contact @gdriveup_cbot right away.",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Reddit Bot",
-          "handle": "hotredditbot",
-          "desc": "You can contact @hotredditbot right away.",
-          "tags": [
-            "Media",
-            "Verified"
-          ]
         }
       ]
     },
@@ -843,42 +708,6 @@
             "Archive",
             "Audio"
           ]
-        },
-        {
-          "name": "Netd Music Bot",
-          "handle": "netdmusicbot",
-          "desc": "👾 SESLİ SOHBET MÜZİK ROBOTU 👾\n\nDestek Grubumuz : @Netddestek\nGerçek Asistan : @NetdMusicAsistan 🎶",
-          "tags": [
-            "Music",
-            "Verified"
-          ]
-        },
-        {
-          "name": "audiofromvk_bot",
-          "handle": "audiofromvk_bot",
-          "desc": "If you have Telegram, you can contact @audiofromvk_bot right away.",
-          "tags": [
-            "Music",
-            "Verified"
-          ]
-        },
-        {
-          "name": "VK Music Bot",
-          "handle": "vkmsaverbot",
-          "desc": "Реклама/Advertisement — @TTMediaAdsBot\nAdmin — @ttmediagrupi\n\nBot channel — t.me/ttsaveboti",
-          "tags": [
-            "Music",
-            "Verified"
-          ]
-        },
-        {
-          "name": "yeageristmusic_bot",
-          "handle": "yeageristmusic_bot",
-          "desc": "If you have Telegram, you can contact @yeageristmusic_bot right away.",
-          "tags": [
-            "Music",
-            "Verified"
-          ]
         }
       ]
     },
@@ -1046,15 +875,6 @@
             "Web Links",
             "Files"
           ]
-        },
-        {
-          "name": "gdriveit_bot",
-          "handle": "gdriveit_bot",
-          "desc": "If you have Telegram, you can contact @gdriveit_bot right away.",
-          "tags": [
-            "Cloud",
-            "Verified"
-          ]
         }
       ]
     },
@@ -1125,6 +945,17 @@
           ]
         },
         {
+          "name": "TempMail Hub",
+          "handle": "tempmail_hub_bot",
+          "desc": "Free disposable email inbox inside Telegram with selectable lifetime (10 min to 7 days) for OTPs and sign-up confirmations, no account needed.",
+          "tags": [
+            "Temp Mail",
+            "Privacy",
+            "Disposable",
+            "OTP"
+          ]
+        },
+        {
           "name": "Truecaller",
           "handle": "TrueCaller_Bot",
           "desc": "Look up unknown phone numbers to identify caller identity, carrier details, and spam ratings.",
@@ -1132,15 +963,6 @@
             "Caller ID",
             "Spam Protection",
             "Lookup"
-          ]
-        },
-        {
-          "name": "coronavirusinforobot",
-          "handle": "coronavirusinforobot",
-          "desc": "If you have Telegram, you can contact @coronavirusinforobot right away.",
-          "tags": [
-            "Privacy",
-            "Verified"
           ]
         }
       ]
@@ -1151,6 +973,19 @@
       "emoji": "👥",
       "description": "Essential administration bots for managing communities, fighting spambots, verifying newcomers, and automating rules.",
       "bots": [
+        {
+          "name": "Group Copilot",
+          "handle": "mookry_bot",
+          "desc": "Group Copilot is an all-in-one workspace for Telegram admins to manage groups and channels more efficiently. Keep everything organized through a single interface without jumping between chats.",
+          "tags": [
+            "Admin",
+            "Anti-Link",
+            "Scheduler",
+            "Analytics",
+            "Community",
+            "Moderation"
+          ]
+        },
         {
           "name": "Rose",
           "handle": "MissRose_bot",
@@ -1246,69 +1081,6 @@
           ]
         },
         {
-          "name": "AntiInlineBot",
-          "handle": "antiinlinebot",
-          "desc": "I remove messages with inline content in groups and supergroups.",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "SkittBot",
-          "handle": "skittles9823bot",
-          "desc": "Fork of @BanhammerMarie_bot with extra features and memes. Join @SkittBotAnnouncements for news on new features.",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "DeleteEvents Bot",
-          "handle": "deleteeventsbot",
-          "desc": "I delete event messages (aka action messages) on supergroups :P",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Mention All Members",
-          "handle": "mentionallmembers_bot",
-          "desc": "You can contact @mentionallmembers_bot right away.",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Urban",
-          "handle": "urbanbot",
-          "desc": "You can contact @urbanbot right away.",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "AutoKick",
-          "handle": "autowelcomekickbot",
-          "desc": "You can contact @autowelcomekickbot right away.",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "ChatKeeperBot",
-          "handle": "chatkeeperbot",
-          "desc": "Just do my work ✅\tMore than 500,000 Admins trust me with their groups",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
           "name": "Join Approve Pro",
           "handle": "JoinApproveProBot",
           "desc": "Approves join requests to your channel or group automatically and sends one welcome message to each new member. Free, Pro optional.",
@@ -1356,33 +1128,6 @@
             "Anti-Spam",
             "Link Filter",
             "Moderation"
-          ]
-        },
-        {
-          "name": "Stella",
-          "handle": "missstella_bot",
-          "desc": "Hey there!? I'm Stella, I can help you manage your groups. 😉\nGitHub repo link: https://github.com/SpookyGang/Stella",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "AntiUserbotsBot",
-          "handle": "antiuserbotsbot",
-          "desc": "Bot para impedir la entrada de userbots en grupos // Bot to avoid userbots in groups. By @GoRhY",
-          "tags": [
-            "Group",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Event RSVP  Group Events",
-          "handle": "eventrsvpprobot",
-          "desc": "Event cards for groups: /event fri 19:00 dinner, members tap Going, Maybe or Can't. More bots: addthisbot.com",
-          "tags": [
-            "Group",
-            "Verified"
           ]
         }
       ]
@@ -1526,51 +1271,6 @@
             "Previews",
             "OpenGraph",
             "Links"
-          ]
-        },
-        {
-          "name": "Upload Books",
-          "handle": "uploadbooksbot",
-          "desc": "Search Any Books Via Inline and get it as Document Form. Bot By @FutureCodes",
-          "tags": [
-            "Developers",
-            "Verified"
-          ]
-        },
-        {
-          "name": "RGBrobot",
-          "handle": "rgbrobot",
-          "desc": "[Inline Bot] Simply open any of your chants and type \"@RGBrobot <hex code>\" into the message field",
-          "tags": [
-            "Developers",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Telegram Bot API Help",
-          "handle": "tgbotapibot",
-          "desc": "Access Telegram Bot API Documentation right here from Telegram. Developer: @suhasa010. Part of @ssjprojects.",
-          "tags": [
-            "Developers",
-            "Verified"
-          ]
-        },
-        {
-          "name": "FeedinboxBot",
-          "handle": "feedinboxbot",
-          "desc": "Star new project : https://github.com/saeidb/insta_create\n \n\n@Feedinbox : Contact us\n@FeedinboxChannel : Channel",
-          "tags": [
-            "Developers",
-            "Verified"
-          ]
-        },
-        {
-          "name": "TG Info Taker",
-          "handle": "tg_infoxbot",
-          "desc": "Bot will help you to take Message Details and User Details\n\n○ Support : @CodeXBotzSupport\n○ Channel : @CodeXBotz",
-          "tags": [
-            "Developers",
-            "Verified"
           ]
         }
       ]
@@ -1812,7 +1512,7 @@
         {
           "name": "Inline Memo",
           "handle": "BNoteBot",
-          "desc": "Fast notepad for practical quick inline memos.",
+          "desc": "Fast notepad for creating quick inline memos.",
           "tags": [
             "Notes",
             "Memo"
@@ -1838,242 +1538,6 @@
           ]
         },
         {
-          "name": "Unlock2Link",
-          "handle": "unlock2link_bot",
-          "desc": "You can contact @unlock2link_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "pipy_stats",
-          "handle": "pypistatsbot",
-          "desc": "You can contact @pypistatsbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "svgo",
-          "handle": "svgo_bot",
-          "desc": "You can contact @svgo_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Recally",
-          "handle": "recally_bot",
-          "desc": "Memorization by repetitive sending back your text",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Kozalo39s Randomizer",
-          "handle": "kozrandbot",
-          "desc": "A randomizer bot made by @kozalo (@kozaloru, http://kozalo.ru).",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "httpcat_s_bot",
-          "handle": "httpcat_s_bot",
-          "desc": "If you have Telegram, you can contact @httpcat_s_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "RouteCabBot",
-          "handle": "routecabbot",
-          "desc": "Web client web.route.cab\\tUpdates @routecab\\t\\tMiniapp soon!",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Travel Advisor",
-          "handle": "besttravelbot",
-          "desc": "You can contact @besttravelbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Comedores UGR",
-          "handle": "comedoresugrbot",
-          "desc": "Con este bot puedes consultar el menú de los comedores universitarios de la UGR.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Mail bot",
-          "handle": "mailablebot",
-          "desc": "Send and receive mails in telegram.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "linuxmonitorbot",
-          "handle": "linuxmonitorbot",
-          "desc": "If you have Telegram, you can contact @linuxmonitorbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "programming_resources_bot",
-          "handle": "programming_resources_bot",
-          "desc": "If you have Telegram, you can contact @programming_resources_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "simplemusxbot",
-          "handle": "simplemusxbot",
-          "desc": "If you have Telegram, you can contact @simplemusxbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Tarchive",
-          "handle": "tarchivebot",
-          "desc": "You can contact @tarchivebot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "gplinkbot",
-          "handle": "gplinksbot",
-          "desc": "You can contact @gplinksbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Mitup  Plan Events with Friends",
-          "handle": "mitupbot",
-          "desc": "Plan trips, dinners and game nights with friends. Share one message to your group and everyone joins with a tap.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Tiny Telegram Tools",
-          "handle": "TinyTelegramToolsBot",
-          "desc": "Hub for Mini App tools: anonymous inbox, reminders, group expenses, habits, and events. Free tier; Pro is a one-time 150 Stars unlock.",
-          "tags": [
-            "Mini Apps",
-            "Reminders",
-            "Privacy",
-            "Group Tools"
-          ]
-        },
-        {
-          "name": "antimalayalambot",
-          "handle": "antimalayalambot",
-          "desc": "If you have Telegram, you can contact @antimalayalambot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "AS URL Magic  Url Shorten  Unshorten Bot",
-          "handle": "asurlbot",
-          "desc": "You can contact @asurlbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Text to Speech Bot",
-          "handle": "texttsbot",
-          "desc": "TTS Telegram Bot. Problems? <bugs(at)fearnode(dot)net>\n\nDonations? A coffee? BTC: 1A88BbD2DQxoEraGoECdNhqpKbyPc6iB2i",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Axenia",
-          "handle": "axenia_bot",
-          "desc": "You can contact @axenia_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "MY Waktu Solat",
-          "handle": "mywaktusolatbot",
-          "desc": "Bot rujukan waktu solat di Malaysia 🇲🇾\n\nSertai @BeritaMYWaktuSolat untuk maklumat terkini mengenai bot.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Custom Twig Bot",
-          "handle": "customtwigbot",
-          "desc": "You can contact @customtwigbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Inline Pixiv Bot",
-          "handle": "inlinepixivbot",
-          "desc": "A quick and easy inline bot to get images from Pixiv.net",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Simple Translator",
-          "handle": "simptransbot",
-          "desc": "You can contact @simptransbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "o3o",
-          "handle": "o3o_bot",
-          "desc": "You can contact @o3o_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
           "name": "Countdown Days",
           "handle": "CountdownDaysBot",
           "desc": "Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional.",
@@ -2081,357 +1545,6 @@
             "Countdown",
             "Reminders",
             "Groups"
-          ]
-        },
-        {
-          "name": "MemrooBot UNDER CONSTRUCTION",
-          "handle": "memroobot",
-          "desc": "UNDER CONSTRUCTION ATM. I'm here to remind you of the beautiful things happening in your life.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "notcoin",
-          "handle": "textcanvas_bot",
-          "desc": "You can view and join @textcanvas_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "getmydatebot",
-          "handle": "getmydatebot",
-          "desc": "If you have Telegram, you can contact @getmydatebot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "betsinplaybot",
-          "handle": "betsinplaybot",
-          "desc": "If you have Telegram, you can contact @betsinplaybot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Hash ID",
-          "handle": "hashidentity_bot",
-          "desc": "You can contact @hashidentity_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "tgscanrobot",
-          "handle": "tgscanrobot",
-          "desc": "If you have Telegram, you can contact @tgscanrobot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Noticias24H",
-          "handle": "noticias24hbot",
-          "desc": "You can contact @noticias24hbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Dwindle",
-          "handle": "dwindle_bot",
-          "desc": "You can contact @dwindle_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "goodquotebot",
-          "handle": "goodquotebot",
-          "desc": "If you have Telegram, you can contact @goodquotebot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "El Tiempo AEMET",
-          "handle": "aemetbot",
-          "desc": "Consulta el tiempo de tu localidad. Sólo España.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "SplitTabs  Split Bills",
-          "handle": "splittabsbot",
-          "desc": "Group bill splitter: /add 20 dinner @anna, /balance, /settle. Free 20 expenses per group.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Lock Bot",
-          "handle": "lockbot",
-          "desc": "This bot will help you to lock and unlock files that only one person should handle at one time.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "How Well Do You Know Me  Friend Quiz  Who Knows Me Best",
-          "handle": "whoknowsmebestbot",
-          "desc": "Make a 10-question quiz. Share your link and see who knows you best. Free, Pro optional.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "sкyℓєє",
-          "handle": "skylee_bot",
-          "desc": "</DED>",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Моя музыка",
-          "handle": "fbmusic_bot",
-          "desc": "Слушаем музыку в узком кругу",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Hide It Bot",
-          "handle": "hideitbot",
-          "desc": "Type @hideItBot and write a message. It’s contents will be hidden in plain sight and visible after pressing a button.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Money Bot",
-          "handle": "usdrub_bot",
-          "desc": "Переводит ₽ в $, остальное — в ₽. Это удобно в международных чатах\nНичего не собирает\n@usdrubBotSupport\n© Марат Сайтаков",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Export To Telegraph",
-          "handle": "export_telegraph_bot",
-          "desc": "Send link to the bot, and bot will reply a telegraph link with extracted article.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "alinadcruzbot",
-          "handle": "alinadcruzbot",
-          "desc": "If you have Telegram, you can contact @alinadcruzbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "RFiles Bot",
-          "handle": "rfilesbot",
-          "desc": "Bot-based file hosting.\nCreated by @error_log",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Unofficial Anilist bot",
-          "handle": "theanimebot",
-          "desc": "This bot helps you find anime in inline mode",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Markdown Dev Bot",
-          "handle": "markdowndevbot",
-          "desc": "Markdown tester for bot developers",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Make Collage",
-          "handle": "makecollage_bot",
-          "desc": "Bot doesn't work anymore.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "HK RENAME BOT",
-          "handle": "hk_rename_bot",
-          "desc": "You can contact @hk_rename_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "genpwdbot",
-          "handle": "genpwdbot",
-          "desc": "If you have Telegram, you can contact @genpwdbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "𝔾𝕠𝕠𝕘𝕝𝕖 𝔻𝕣𝕚𝕧𝕖",
-          "handle": "gdriveup_1bot",
-          "desc": "𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗿𝗶𝘃𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿\n\n𝗕𝗼𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 :  @ImSafone 🔥",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "firstlibrarybot",
-          "handle": "firstlibrarybot",
-          "desc": "If you have Telegram, you can contact @firstlibrarybot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Corona Tōkei β",
-          "handle": "tokeibot",
-          "desc": "Corona Updater Chat bot\nStay home stay safe\n \nDeveloped by NerdsLab",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "ChooChooBot",
-          "handle": "choochoobot",
-          "desc": "Current schedule of planes, trains and buses all over the world.\n\nВопросы/предложения @aszemcov",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "KioskBot",
-          "handle": "gerkioskbot",
-          "desc": "The magazines get frequently updated! 😁\n\nIf you like to contact me, please use the feedback function...",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Pomodoro Bot",
-          "handle": "pomodoro_timer_bot",
-          "desc": "Pomodoro timer. Feedback: @CaddisFly. Also, try @platon_platon_bot - text & video summarizer bot from my creator.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "freelibrarianbot",
-          "handle": "freelibrarianbot",
-          "desc": "If you have Telegram, you can contact @freelibrarianbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "The Job Bot",
-          "handle": "jobobot",
-          "desc": "The job hunter bot. Helps humans to find job offers worldwide and apply for the positions directly from the messenger.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "cnc_muzik_bot",
-          "handle": "cnc_muzik_bot",
-          "desc": "If you have Telegram, you can contact @cnc_muzik_bot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "entabot",
-          "handle": "entabot",
-          "desc": "If you have Telegram, you can contact @entabot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "pastethisbot",
-          "handle": "pastethisbot",
-          "desc": "If you have Telegram, you can contact @pastethisbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Quran Bot",
-          "handle": "islamicquranbot",
-          "desc": "منصة القران على التليقرام ( اشمل مكتبة قرانية صوتية )\nQuran Bot on Telegram (  The Most Comprehensive Quranic Libs )",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "heydocbot",
-          "handle": "heydocbot",
-          "desc": "If you have Telegram, you can contact @heydocbot right away.",
-          "tags": [
-            "Productivity",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Verbot",
-          "handle": "vbotvbot",
-          "desc": "Get to know a project new version release!",
-          "tags": [
-            "Productivity",
-            "Verified"
           ]
         }
       ]
@@ -2671,42 +1784,6 @@
             "Dictionary",
             "Persian",
             "Vocabulary"
-          ]
-        },
-        {
-          "name": "MyCookBot",
-          "handle": "mycookbot",
-          "desc": "Bot to search for recipes by name or ingredients. Developed by - dynbot.ru",
-          "tags": [
-            "Search",
-            "Verified"
-          ]
-        },
-        {
-          "name": "google search",
-          "handle": "lmgtfy_bot",
-          "desc": "Google search bot",
-          "tags": [
-            "Search",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Emojinate - GBoard Emoji Kitchen stickers",
-          "handle": "emojinatebot",
-          "desc": "The idea and images are taken from GBoard Emoji Kitchen.\n\n😎🤙 @kolyambiapictures",
-          "tags": [
-            "Search",
-            "Verified"
-          ]
-        },
-        {
-          "name": "wikipediainlinebot",
-          "handle": "wikipediainlinebot",
-          "desc": "If you have Telegram, you can contact @wikipediainlinebot right away.",
-          "tags": [
-            "Search",
-            "Verified"
           ]
         }
       ]
@@ -2958,24 +2035,6 @@
             "Video to GIF",
             "Animation"
           ]
-        },
-        {
-          "name": "Create attheme",
-          "handle": "createatthemebot",
-          "desc": "Create themes for telegram Android from a picture",
-          "tags": [
-            "Stickers",
-            "Verified"
-          ]
-        },
-        {
-          "name": "PixelatorBot",
-          "handle": "pixelatorbot",
-          "desc": "Pixelate any photo, sticker, or picture! Learn more at http://pixelatorapp.com/",
-          "tags": [
-            "Stickers",
-            "Verified"
-          ]
         }
       ]
     },
@@ -3102,33 +2161,6 @@
           ]
         },
         {
-          "name": "Group Attendance Bot",
-          "handle": "groupattendancebot",
-          "desc": "Attendance checker bot from @KeralagramChannel.\n\nSubscribe to @GroupAttendanceUpdates for updates",
-          "tags": [
-            "Telegram",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Thank You Members",
-          "handle": "thankstickerbot",
-          "desc": "Auto send Thank you \"x\" members to your group",
-          "tags": [
-            "Telegram",
-            "Verified"
-          ]
-        },
-        {
-          "name": "Post Appender 20",
-          "handle": "postappender_bot",
-          "desc": "Bot will add a certain predefined text to all posts or certain post types in the channel",
-          "tags": [
-            "Telegram",
-            "Verified"
-          ]
-        },
-        {
           "name": "Group Pulse",
           "handle": "GroupPulseProBot",
           "desc": "Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.",
@@ -3216,33 +2248,6 @@
             "Payments",
             "Demo",
             "Official"
-          ]
-        },
-        {
-          "name": "Tick My Price",
-          "handle": "TickMyPriceBot",
-          "desc": "Price alerts for crypto pairs and tokens — get pinged in Telegram when your target price is hit.",
-          "tags": [
-            "Crypto",
-            "Price Alerts"
-          ]
-        },
-        {
-          "name": "My Hold Folio",
-          "handle": "MyHoldFolioBot",
-          "desc": "Track your crypto portfolio balances and valuation directly in Telegram.",
-          "tags": [
-            "Crypto",
-            "Portfolio Tracker"
-          ]
-        },
-        {
-          "name": "Kick The Deleted",
-          "handle": "kickthedeletedbot",
-          "desc": "Donate to keep this bot alive! bitcoin: bc1qn3ag0qff0axfpmqmtjpe098em5r64y6d4dqs6l",
-          "tags": [
-            "Crypto",
-            "Verified"
           ]
         }
       ]

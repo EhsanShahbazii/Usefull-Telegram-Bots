@@ -616,6 +616,12 @@ CATALOG = [
         "emoji": "👥",
         "description": "Essential administration bots for managing communities, fighting spambots, verifying newcomers, and automating rules.",
         "bots": [
+             {
+                "name": "Group Copilot",
+                "handle": "mookry_bot",
+                "desc": "Group Copilot is an all-in-one workspace for Telegram admins to manage groups and channels more efficiently. Keep everything organized through a single interface without jumping between chats.",
+                "tags": ["Admin", "Anti-Link", "Scheduler", "Analytics", "Community", "Moderation"]
+            },
             {
                 "name": "Rose",
                 "handle": "MissRose_bot",

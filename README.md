@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-324%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-213%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -28,7 +28,7 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🧲 Cloud Storage, Torrent & Web Uploader](#cloud-storage-torrent-web-uploader) `(4)`
 - [📖 Books, Readers & Document Libraries](#books-readers-document-libraries) `(2)`
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
-- [👥 Group Moderation & Administration](#group-moderation-administration) `(14)`
+- [👥 Group Moderation & Administration](#group-moderation-administration) `(15)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
 - [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
 - [🎮 Games & Party](#games-party) `(2)`
@@ -290,6 +290,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
 ## 👥 Group Moderation & Administration
 *Essential administration bots for managing communities, fighting spambots, verifying newcomers, and automating rules.*
 
+- **[@mookry_bot](https://t.me/mookry_bot)** — **Group Copilot** &nbsp; `Admin` `Anti-Link` `Scheduler` `Analytics` `Community` `Moderation`  
+  Group Copilot is an all-in-one workspace for Telegram admins to manage groups and channels more efficiently. Keep everything organized through a single interface without jumping between chats.
 - **[@MissRose_bot](https://t.me/MissRose_bot)** — **Rose** &nbsp; `Admin` `Moderation` `Anti-Flood` `Federations` `Rules`  
   The most widely used group administration bot. Features anti-flood, federations, custom rules, warnings, filters, and welcome buttons.
 - **[@combot](https://t.me/combot)** — **Combot** &nbsp; `Anti-Spam` `Analytics` `CAS` `Community`  
