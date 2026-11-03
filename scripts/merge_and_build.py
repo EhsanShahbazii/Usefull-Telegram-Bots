@@ -807,6 +807,24 @@ CATALOG = [
                 "tags": ["Reminders", "Tasks", "Timer"]
             },
             {
+                "name": "Nudge",
+                "handle": "NudgeRemindBot",
+                "desc": "Set a reminder in the chat and it goes off in your own time zone. Free to use, with an optional upgrade paid in Telegram Stars.",
+                "tags": ["Reminders", "Time Zones", "Groups"]
+            },
+            {
+                "name": "SplitTabs",
+                "handle": "SplitTabsBot",
+                "desc": "Keeps the group's tab in the chat, so everyone sees who paid and who owes whom. Free to use, with an optional upgrade paid in Telegram Stars.",
+                "tags": ["Expenses", "Groups", "Split Bills"]
+            },
+            {
+                "name": "Focus Timer",
+                "handle": "FocusTimerProBot",
+                "desc": "A pomodoro timer in the chat that you can run alone or with the group. Free to use, with an optional upgrade paid in Telegram Stars.",
+                "tags": ["Pomodoro", "Focus", "Timer"]
+            },
+            {
                 "name": "Gmail Bot",
                 "handle": "GmailBot",
                 "desc": "Official Telegram Gmail integration: receive real-time email alerts, read messages with attachments, and reply directly from chat.",
