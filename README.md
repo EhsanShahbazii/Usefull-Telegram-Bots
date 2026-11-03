@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-213%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-217%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -31,11 +31,11 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [👥 Group Moderation & Administration](#group-moderation-administration) `(15)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
 - [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
-- [🎮 Games & Party](#games-party) `(2)`
+- [🎮 Games & Party](#games-party) `(3)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
 - [🎨 Stickers, Themes & Visual Design](#stickers-themes-visual-design) `(15)`
-- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(14)`
+- [📊 Telegram User & Channel Utilities](#telegram-user-channel-utilities) `(17)`
 - [💰 Crypto, Finance & Payments](#crypto-finance-payments) `(6)`
 - [⚽ Sports & Live Event Alerts](#sports-live-event-alerts) `(2)`
 - [⭐ Featured Daily-Drivers](#featured-daily-drivers)
@@ -422,6 +422,8 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Share your link and friends secretly choose Like, Just friends or Skip. Names are shown only when two people like each other. Free, Pro optional.
 - **[@SpyPartyProBot](https://t.me/SpyPartyProBot)** — **Spy Party** &nbsp; `Party Game` `Groups` `Social Deduction`  
   Find-the-spy party game for group chats with 3 to 12 players. Secret roles arrive by private message, then the group votes out the spy. Free, Pro optional.
+- **[@PartyPackProBot](https://t.me/PartyPackProBot)** — **Party Pack** &nbsp; `Party Game` `Truth or Dare` `Groups`  
+  Truth, dare, would you rather and never have I ever prompts for group chats, with no repeats until the whole pack has been shown. Free, Pro optional.
 
 ---
 
@@ -564,6 +566,12 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Group activity stats: shows who writes the most this week and who went quiet, keeping only message counts, never message text. Free, Pro optional.
 - **[@AnonSayProBot](https://t.me/AnonSayProBot)** — **AnonSay** &nbsp; `Anonymous` `Groups` `Messages`  
   Anonymous messages in a group: send /anon with your text and the bot reposts it without your name. Admins can ban abusers and can privately look up a sender's first name. Free for 20 posts a day per group, Pro optional.
+- **[@AnonInboxProBot](https://t.me/AnonInboxProBot)** — **Anon Inbox** &nbsp; `Anonymous` `Inbox` `Messages`  
+  A personal link where people can message you without their name showing. You can reply or block. Free, Pro optional.
+- **[@WhisperLockBot](https://t.me/WhisperLockBot)** — **WhisperLock** &nbsp; `Whisper` `Private` `Inline`  
+  Posts a locked message into any chat, even one the bot has not joined, that only the person you name can open. Free, Pro optional.
+- **[@GiveawayDrawProBot](https://t.me/GiveawayDrawProBot)** — **Giveaway Draw** &nbsp; `Giveaway` `Random Draw` `Channels`  
+  Posts a giveaway with a Join button in a channel or group and draws the winners at the deadline, with a hash anyone can check. Free, Pro optional.
 
 ---
 

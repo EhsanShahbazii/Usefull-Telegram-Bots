@@ -981,6 +981,12 @@ CATALOG = [
                 "handle": "SpyPartyProBot",
                 "desc": "Find-the-spy party game for group chats with 3 to 12 players. Secret roles arrive by private message, then the group votes out the spy. Free, Pro optional.",
                 "tags": ["Party Game", "Groups", "Social Deduction"]
+            },
+            {
+                "name": "Party Pack",
+                "handle": "PartyPackProBot",
+                "desc": "Truth, dare, would you rather and never have I ever prompts for group chats, with no repeats until the whole pack has been shown. Free, Pro optional.",
+                "tags": ["Party Game", "Truth or Dare", "Groups"]
             }
         ]
     },
@@ -1367,6 +1373,24 @@ CATALOG = [
                 "handle": "AnonSayProBot",
                 "desc": "Anonymous messages in a group: send /anon with your text and the bot reposts it without your name. Admins can ban abusers and can privately look up a sender's first name. Free for 20 posts a day per group, Pro optional.",
                 "tags": ["Anonymous", "Groups", "Messages"]
+            },
+            {
+                "name": "Anon Inbox",
+                "handle": "AnonInboxProBot",
+                "desc": "A personal link where people can message you without their name showing. You can reply or block. Free, Pro optional.",
+                "tags": ["Anonymous", "Inbox", "Messages"]
+            },
+            {
+                "name": "WhisperLock",
+                "handle": "WhisperLockBot",
+                "desc": "Posts a locked message into any chat, even one the bot has not joined, that only the person you name can open. Free, Pro optional.",
+                "tags": ["Whisper", "Private", "Inline"]
+            },
+            {
+                "name": "Giveaway Draw",
+                "handle": "GiveawayDrawProBot",
+                "desc": "Posts a giveaway with a Join button in a channel or group and draws the winners at the deadline, with a hash anyone can check. Free, Pro optional.",
+                "tags": ["Giveaway", "Random Draw", "Channels"]
             }
         ]
     },
