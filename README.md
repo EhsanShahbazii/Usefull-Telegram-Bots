@@ -2,7 +2,7 @@
 
 A curated, verified, and high-performance collection of the most useful Telegram bots to supercharge your messaging workflow.
 
-[![Bots Catalog](https://img.shields.io/badge/Bots-328%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
+[![Bots Catalog](https://img.shields.io/badge/Bots-331%2B%20Verified-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotFather)
 &nbsp;[![Status](https://img.shields.io/badge/Liveness-100%25%20Active-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](#automated-health-checker)
 &nbsp;[![Awesome](https://img.shields.io/badge/Awesome-Yes-FF69B4?style=for-the-badge&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 &nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
@@ -30,7 +30,7 @@ Welcome to the ultimate directory of Telegram bots! Every single bot in this rep
 - [🛡️ Privacy, Security & Disposable Email](#privacy-security-disposable-email) `(5)`
 - [👥 Group Moderation & Administration](#group-moderation-administration) `(14)`
 - [💻 Developers & DevOps Tools](#developers-devops-tools) `(13)`
-- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(27)`
+- [📚 Productivity, Reminders & Everyday Tools](#productivity-reminders-everyday-tools) `(30)`
 - [🎮 Games & Party](#games-party) `(3)`
 - [🔍 Search, Dictionaries & Reference](#search-dictionaries-reference) `(21)`
 - [🌐 Translation & Language Learning](#translation-language-learning) `(9)`
@@ -360,6 +360,12 @@ A hand-picked shortlist of battle-tested, high-utility bots recommended for ever
   Natural language reminder bot: schedule reminders using plain English, with snooze and recurring alerts.
 - **[@remindmebot](https://t.me/remindmebot)** — **RemindMe** &nbsp; `Reminders` `Tasks` `Timer`  
   Simple, reliable timer and reminder assistant for tasks, meetings, and deadlines.
+- **[@NudgeRemindBot](https://t.me/NudgeRemindBot)** — **Nudge** &nbsp; `Reminders` `Time Zones` `Groups`  
+  Set a reminder in the chat and it goes off in your own time zone. Free to use, with an optional upgrade paid in Telegram Stars.
+- **[@SplitTabsBot](https://t.me/SplitTabsBot)** — **SplitTabs** &nbsp; `Expenses` `Groups` `Split Bills`  
+  Keeps the group's tab in the chat, so everyone sees who paid and who owes whom. Free to use, with an optional upgrade paid in Telegram Stars.
+- **[@FocusTimerProBot](https://t.me/FocusTimerProBot)** — **Focus Timer** &nbsp; `Pomodoro` `Focus` `Timer`  
+  A pomodoro timer in the chat that you can run alone or with the group. Free to use, with an optional upgrade paid in Telegram Stars.
 - **[@GmailBot](https://t.me/GmailBot)** — **Gmail Bot** &nbsp; `Gmail` `Email` `Notifications`  
   Official Telegram Gmail integration: receive real-time email alerts, read messages with attachments, and reply directly from chat.
 - **[@IFTTT](https://t.me/IFTTT)** — **IFTTT** &nbsp; `Automation` `IFTTT` `Integrations`  
