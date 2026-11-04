@@ -4,14 +4,25 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **Google Drive Uploader** | [@gdriveup_cbot](https://t.me/gdriveup_cbot) | `media-downloaders` | You can contact @gdriveup_cbot right away. |
-| **entabot** | [@entabot](https://t.me/entabot) | `productivity-utilities` | If you have Telegram, you can contact @entabot right away. |
-| **AntiUserbotsBot** | [@antiuserbotsbot](https://t.me/antiuserbotsbot) | `group-moderation` | Bot para impedir la entrada de userbots en grupos // Bot to avoid userbots in groups. By @GoRhY |
-| **pastethisbot** | [@pastethisbot](https://t.me/pastethisbot) | `productivity-utilities` | If you have Telegram, you can contact @pastethisbot right away. |
-| **Event RSVP  Group Events** | [@eventrsvpprobot](https://t.me/eventrsvpprobot) | `group-moderation` | Event cards for groups: /event fri 19:00 dinner, members tap Going, Maybe or Can't. More bots: addthisbot.com |
-| **Reddit Bot** | [@hotredditbot](https://t.me/hotredditbot) | `media-downloaders` | You can contact @hotredditbot right away. |
-| **coronavirusinforobot** | [@coronavirusinforobot](https://t.me/coronavirusinforobot) | `privacy-security` | If you have Telegram, you can contact @coronavirusinforobot right away. |
-| **Quran Bot** | [@islamicquranbot](https://t.me/islamicquranbot) | `productivity-utilities` | منصة القران على التليقرام ( اشمل مكتبة قرانية صوتية )
-Quran Bot on Telegram (  The Most Comprehensive Quranic Libs ) |
-| **heydocbot** | [@heydocbot](https://t.me/heydocbot) | `productivity-utilities` | If you have Telegram, you can contact @heydocbot right away. |
-| **Verbot** | [@vbotvbot](https://t.me/vbotvbot) | `productivity-utilities` | Get to know a project new version release! |
+| **joinleft_bot** | [@joinleft_bot](https://t.me/joinleft_bot) | `productivity-utilities` | If you have Telegram, you can contact @joinleft_bot right away. |
+| **Protectron** | [@protectronbot](https://t.me/protectronbot) | `ai-assistants` | AI-powered security, anti-spam and analytics. Join thousands of groups with millions of members protectronbot.com |
+| **Plasma AI chatGPT  Midjourney** | [@plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) | `ai-assistants` | Plasma AI bot integrates the most exceptional features of ChatGPT and Midjourney into one seamless experience🔥 |
+| **Угадай человека по фото** | [@guesspersonbot](https://t.me/guesspersonbot) | `productivity-utilities` | You can contact @guesspersonbot right away. |
+| **RSS Bot - Chat automation** | [@rss_bot](https://t.me/rss_bot) | `productivity-utilities` | Free Telegram Chat automation System
+
+Questions? @ChannelBroS
+Channel: @BotChangelog
+Dev: @PartyGuy |
+| **Deezer Music** | [@deezersongbot](https://t.me/deezersongbot) | `music-audio` | You can contact @deezersongbot right away. |
+| **ANTI P** | [@antipbot](https://t.me/antipbot) | `productivity-utilities` | Image scanner
+
+@braindevs - other projects ↩
+↪ @dmmebot - feedback |
+| **Postimages** | [@postimages_bot](https://t.me/postimages_bot) | `productivity-utilities` | Free picture hosting and photo sharing for websites and blogs.
+
+https://postimages.org/ |
+| **Anti Language Bot** | [@antilanguage_bot](https://t.me/antilanguage_bot) | `group-moderation` | I can Restrict Special languages from your Groups
+
+○ Support : @CodeXBotzSupport
+○ Channel : @CodeXBotz |
+| **Designers Bot** | [@design_bot](https://t.me/design_bot) | `productivity-utilities` | This bot accepts UI layouts and animations intended to improve Telegram. Best contributions are published in @designers |

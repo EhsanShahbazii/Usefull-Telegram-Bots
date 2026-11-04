@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 331,
+    "total_bots": 341,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -85,6 +85,24 @@
             "Product Launch",
             "Marketing",
             "Creators"
+          ]
+        },
+        {
+          "name": "Protectron",
+          "handle": "protectronbot",
+          "desc": "AI-powered security, anti-spam and analytics. Join thousands of groups with millions of members protectronbot.com",
+          "tags": [
+            "Ai",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Plasma AI chatGPT  Midjourney",
+          "handle": "plasma_gpt_ai_bot",
+          "desc": "Plasma AI bot integrates the most exceptional features of ChatGPT and Midjourney into one seamless experience🔥",
+          "tags": [
+            "Ai",
+            "Verified"
           ]
         }
       ]
@@ -879,6 +897,15 @@
             "Music",
             "Verified"
           ]
+        },
+        {
+          "name": "Deezer Music",
+          "handle": "deezersongbot",
+          "desc": "You can contact @deezersongbot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1380,6 +1407,15 @@
           "name": "Event RSVP  Group Events",
           "handle": "eventrsvpprobot",
           "desc": "Event cards for groups: /event fri 19:00 dinner, members tap Going, Maybe or Can't. More bots: addthisbot.com",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Anti Language Bot",
+          "handle": "antilanguage_bot",
+          "desc": "I can Restrict Special languages from your Groups\n\n○ Support : @CodeXBotzSupport\n○ Channel : @CodeXBotz",
           "tags": [
             "Group",
             "Verified"
@@ -2459,6 +2495,60 @@
           "name": "Verbot",
           "handle": "vbotvbot",
           "desc": "Get to know a project new version release!",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "joinleft_bot",
+          "handle": "joinleft_bot",
+          "desc": "If you have Telegram, you can contact @joinleft_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Угадай человека по фото",
+          "handle": "guesspersonbot",
+          "desc": "You can contact @guesspersonbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "RSS Bot - Chat automation",
+          "handle": "rss_bot",
+          "desc": "Free Telegram Chat automation System\n\nQuestions? @ChannelBroS\nChannel: @BotChangelog\nDev: @PartyGuy",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "ANTI P",
+          "handle": "antipbot",
+          "desc": "Image scanner\n\n@braindevs - other projects ↩\n↪ @dmmebot - feedback",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Postimages",
+          "handle": "postimages_bot",
+          "desc": "Free picture hosting and photo sharing for websites and blogs.\n\nhttps://postimages.org/",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Designers Bot",
+          "handle": "design_bot",
+          "desc": "This bot accepts UI layouts and animations intended to improve Telegram. Best contributions are published in @designers",
           "tags": [
             "Productivity",
             "Verified"
