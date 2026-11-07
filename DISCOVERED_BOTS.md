@@ -4,25 +4,15 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **joinleft_bot** | [@joinleft_bot](https://t.me/joinleft_bot) | `productivity-utilities` | If you have Telegram, you can contact @joinleft_bot right away. |
-| **Protectron** | [@protectronbot](https://t.me/protectronbot) | `ai-assistants` | AI-powered security, anti-spam and analytics. Join thousands of groups with millions of members protectronbot.com |
-| **Plasma AI chatGPT  Midjourney** | [@plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) | `ai-assistants` | Plasma AI bot integrates the most exceptional features of ChatGPT and Midjourney into one seamless experience🔥 |
-| **Угадай человека по фото** | [@guesspersonbot](https://t.me/guesspersonbot) | `productivity-utilities` | You can contact @guesspersonbot right away. |
-| **RSS Bot - Chat automation** | [@rss_bot](https://t.me/rss_bot) | `productivity-utilities` | Free Telegram Chat automation System
-
-Questions? @ChannelBroS
-Channel: @BotChangelog
-Dev: @PartyGuy |
-| **Deezer Music** | [@deezersongbot](https://t.me/deezersongbot) | `music-audio` | You can contact @deezersongbot right away. |
-| **ANTI P** | [@antipbot](https://t.me/antipbot) | `productivity-utilities` | Image scanner
-
-@braindevs - other projects ↩
-↪ @dmmebot - feedback |
-| **Postimages** | [@postimages_bot](https://t.me/postimages_bot) | `productivity-utilities` | Free picture hosting and photo sharing for websites and blogs.
-
-https://postimages.org/ |
-| **Anti Language Bot** | [@antilanguage_bot](https://t.me/antilanguage_bot) | `group-moderation` | I can Restrict Special languages from your Groups
-
-○ Support : @CodeXBotzSupport
-○ Channel : @CodeXBotz |
-| **Designers Bot** | [@design_bot](https://t.me/design_bot) | `productivity-utilities` | This bot accepts UI layouts and animations intended to improve Telegram. Best contributions are published in @designers |
+| **MacMagazine** | [@macmagazinebot](https://t.me/macmagazinebot) | `productivity-utilities` | Desculpe, este bot não está mais sendo utilizado. Para receber novos posts do MacMagazine, assine o canal @MacMagazine |
+| **mzz2bot** | [@mzz2bot](https://t.me/mzz2bot) | `productivity-utilities` | If you have Telegram, you can contact @mzz2bot right away. |
+| **andys_tic_tac_toe_bot** | [@andys_tic_tac_toe_bot](https://t.me/andys_tic_tac_toe_bot) | `productivity-utilities` | You can view and join @andys_tic_tac_toe_bot right away. |
+| **BookmarchBotStaging** | [@bmbstagingbot](https://t.me/bmbstagingbot) | `productivity-utilities` | You can contact @bmbstagingbot right away. |
+| **Map Bot** | [@openmap_bot](https://t.me/openmap_bot) | `group-moderation` | Welcome.
+This Bot can send you maps from openstreetmap and satellite imagery.
+You can use it in inline mode! |
+| **My AnimeList Bot** | [@mal_x_bot](https://t.me/mal_x_bot) | `search-reference` | ✨ Your personal anime & manga assistant!		🎬 Powerful anime & manga search	🔥 Popular and trending seasonal hits |
+| **Rules Rules33** | [@rulesrulesbot](https://t.me/rulesrulesbot) | `group-moderation` | This bot will greet new members with a welcome message, and you can specify a rules text too. |
+| **Anime Enthusiast Bot** | [@anime_stream_bot](https://t.me/anime_stream_bot) | `movies-tv` | Know about new upcoming anime's release date and launch info, play anime quizzes, bot DOES NOT support streaming |
+| **all deprecated see description** | [@ping_allbot](https://t.me/ping_allbot) | `group-moderation` | 🐧 mention everyone in a huge group invisibly 🛎 ( bots deprecated please switch https://t.me/scraptechIC/119 ) |
+| **zlibrarybot** | [@zlibrarybot](https://t.me/zlibrarybot) | `productivity-utilities` | If you have Telegram, you can contact @zlibrarybot right away. |

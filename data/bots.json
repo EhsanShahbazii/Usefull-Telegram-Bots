@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 341,
+    "total_bots": 351,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1023,6 +1023,15 @@
             "Player",
             "No Ads"
           ]
+        },
+        {
+          "name": "Anime Enthusiast Bot",
+          "handle": "anime_stream_bot",
+          "desc": "Know about new upcoming anime's release date and launch info, play anime quizzes, bot DOES NOT support streaming",
+          "tags": [
+            "Movies",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1416,6 +1425,33 @@
           "name": "Anti Language Bot",
           "handle": "antilanguage_bot",
           "desc": "I can Restrict Special languages from your Groups\n\n○ Support : @CodeXBotzSupport\n○ Channel : @CodeXBotz",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Map Bot",
+          "handle": "openmap_bot",
+          "desc": "Welcome.\nThis Bot can send you maps from openstreetmap and satellite imagery.\nYou can use it in inline mode!",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Rules Rules33",
+          "handle": "rulesrulesbot",
+          "desc": "This bot will greet new members with a welcome message, and you can specify a rules text too.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "all deprecated see description",
+          "handle": "ping_allbot",
+          "desc": "🐧 mention everyone in a huge group invisibly 🛎 ( bots deprecated please switch https://t.me/scraptechIC/119 )",
           "tags": [
             "Group",
             "Verified"
@@ -2553,6 +2589,51 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "MacMagazine",
+          "handle": "macmagazinebot",
+          "desc": "Desculpe, este bot não está mais sendo utilizado. Para receber novos posts do MacMagazine, assine o canal @MacMagazine",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "mzz2bot",
+          "handle": "mzz2bot",
+          "desc": "If you have Telegram, you can contact @mzz2bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "andys_tic_tac_toe_bot",
+          "handle": "andys_tic_tac_toe_bot",
+          "desc": "You can view and join @andys_tic_tac_toe_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "BookmarchBotStaging",
+          "handle": "bmbstagingbot",
+          "desc": "You can contact @bmbstagingbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "zlibrarybot",
+          "handle": "zlibrarybot",
+          "desc": "If you have Telegram, you can contact @zlibrarybot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2834,6 +2915,15 @@
           "name": "wikipediainlinebot",
           "handle": "wikipediainlinebot",
           "desc": "If you have Telegram, you can contact @wikipediainlinebot right away.",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "My AnimeList Bot",
+          "handle": "mal_x_bot",
+          "desc": "✨ Your personal anime & manga assistant!\t\t🎬 Powerful anime & manga search\t🔥 Popular and trending seasonal hits",
           "tags": [
             "Search",
             "Verified"
