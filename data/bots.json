@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 351,
+    "total_bots": 361,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1456,6 +1456,15 @@
             "Group",
             "Verified"
           ]
+        },
+        {
+          "name": "OpenCryptoBot",
+          "handle": "opencryptobot",
+          "desc": "Welcome to the Swiss Army knife for crypto! https://endogen.github.io/OpenCryptoBot",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2634,6 +2643,78 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "CALCS",
+          "handle": "calcsbot",
+          "desc": "You can contact @calcsbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "koyuspace VoiceBot",
+          "handle": "kvoicebot",
+          "desc": "Telegram voice bot maintained by @Sommerlichter. Check out @yaydownbot 🙈",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Bellchain",
+          "handle": "bellchainbot",
+          "desc": "Crypto prices and charts for your group, plus alerts you test first: TP and SL after fees. bellchain.app",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Telegram Official amp Unofficial",
+          "handle": "iluvtelegrambot",
+          "desc": "Use This Bot If You Hate Whatsapp Just Like Me...",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Creation Date",
+          "handle": "creationdatebot",
+          "desc": "shows the approximate creation date for any account in telegram\n\nupd: @devctl",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Travis CI",
+          "handle": "travisci_build_bot",
+          "desc": "You can contact @travisci_build_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Knowledge Competition",
+          "handle": "rivalrybot",
+          "desc": "You can contact @rivalrybot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "CommandLine",
+          "handle": "fromcommandlinebot",
+          "desc": "You can contact @fromcommandlinebot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -3396,6 +3477,15 @@
             "Giveaway",
             "Random Draw",
             "Channels"
+          ]
+        },
+        {
+          "name": "Force Subscribe",
+          "handle": "forcesubscriberobot",
+          "desc": "I Can Force Group Members To Join A Specific Channel Before Writing In The Group.\n🌍 :  @DamienSoukara",
+          "tags": [
+            "Telegram",
+            "Verified"
           ]
         }
       ]
