@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 361,
+    "total_bots": 371,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -100,6 +100,15 @@
           "name": "Plasma AI chatGPT  Midjourney",
           "handle": "plasma_gpt_ai_bot",
           "desc": "Plasma AI bot integrates the most exceptional features of ChatGPT and Midjourney into one seamless experience🔥",
+          "tags": [
+            "Ai",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Feed Reader",
+          "handle": "feed_reader_bot",
+          "desc": "Abbonati ai tuoi siti preferiti e ricevi gli ultimi aggiornamenti direttamente su Telegram!",
           "tags": [
             "Ai",
             "Verified"
@@ -605,6 +614,15 @@
             "Media",
             "Verified"
           ]
+        },
+        {
+          "name": "Web Uploader Bot",
+          "handle": "webuploader_cbot",
+          "desc": "You can contact @webuploader_cbot right away.",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1028,6 +1046,15 @@
           "name": "Anime Enthusiast Bot",
           "handle": "anime_stream_bot",
           "desc": "Know about new upcoming anime's release date and launch info, play anime quizzes, bot DOES NOT support streaming",
+          "tags": [
+            "Movies",
+            "Verified"
+          ]
+        },
+        {
+          "name": "movievibezzfilterbot",
+          "handle": "movievibezzfilterbot",
+          "desc": "If you have Telegram, you can contact @movievibezzfilterbot right away.",
           "tags": [
             "Movies",
             "Verified"
@@ -1461,6 +1488,15 @@
           "name": "OpenCryptoBot",
           "handle": "opencryptobot",
           "desc": "Welcome to the Swiss Army knife for crypto! https://endogen.github.io/OpenCryptoBot",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Message to Link Bot",
+          "handle": "messagetolinkbot",
+          "desc": "I can get you URL (shareable public link) of messages from public channels and public supergroups.",
           "tags": [
             "Group",
             "Verified"
@@ -2711,6 +2747,60 @@
           "name": "CommandLine",
           "handle": "fromcommandlinebot",
           "desc": "You can contact @fromcommandlinebot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "shortenerbot",
+          "handle": "shortenerurlbot",
+          "desc": "You can contact @shortenerurlbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "OCR Bot - bacakubot",
+          "handle": "bacakubot",
+          "desc": "OCR Bot to extract text from image or photo and translate to any languages",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Telereads",
+          "handle": "telereadsbot",
+          "desc": "You can contact @telereadsbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Children39s Book",
+          "handle": "readingpalbot",
+          "desc": "You can contact @readingpalbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Rajoy dice bot",
+          "handle": "rajoy_dice_bot",
+          "desc": "You can contact @rajoy_dice_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Forksy",
+          "handle": "forksybot",
+          "desc": "A chatbot who helps you change unhealthy eating habits.",
           "tags": [
             "Productivity",
             "Verified"
