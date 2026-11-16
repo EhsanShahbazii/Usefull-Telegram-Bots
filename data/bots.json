@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 371,
+    "total_bots": 381,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -1205,6 +1205,15 @@
             "Privacy",
             "Verified"
           ]
+        },
+        {
+          "name": "SpamMeNotBot",
+          "handle": "spammenotbot",
+          "desc": "This bot provides a simple and fully automatic way to protect your group from spam/flood attacks.",
+          "tags": [
+            "Privacy",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1685,6 +1694,15 @@
           "name": "TG Info Taker",
           "handle": "tg_infoxbot",
           "desc": "Bot will help you to take Message Details and User Details\n\n○ Support : @CodeXBotzSupport\n○ Channel : @CodeXBotz",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
+        },
+        {
+          "name": "QR code safe scan",
+          "handle": "qrcodesafebot",
+          "desc": "Made in India with love.",
           "tags": [
             "Developers",
             "Verified"
@@ -2805,6 +2823,60 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "Truth or Dare Bot for Group Chats  Friends",
+          "handle": "truthdarefriendsbot",
+          "desc": "Truth or Dare for one friend by private message, no group needed, or spin it in a group. More bots: addthisbot.com",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Bot Offline",
+          "handle": "ajviewcounter_bot",
+          "desc": "Más Proyectos en @proyectos_aj\n\nContacto: @cogkdgkso",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Simple Calculator Bot",
+          "handle": "calcit_bot",
+          "desc": "Bot to do simple calculations\n\n@odbots",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "COVID-19 Visual",
+          "handle": "covid19_visual_bot",
+          "desc": "Get meaningful visual graphs related to COVID-19. Data is provided by Johns Hopkins CSSE.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "AntiCyrillicScriptBot",
+          "handle": "anticyrillicscriptbot",
+          "desc": "Removes messages which contain Cyrillic script.\nMore ad-free bots @GroupOwnerBots.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "AntiServiceMessageBot",
+          "handle": "antiservicemessagebot",
+          "desc": "Removes join, add and leave messages (Service Messages).\nMore ad-free bots @GroupOwnerBots.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -3577,6 +3649,15 @@
             "Telegram",
             "Verified"
           ]
+        },
+        {
+          "name": "Telegram Bot Raw",
+          "handle": "rawdatabot",
+          "desc": "ℹ️ Made by @SeanChannel",
+          "tags": [
+            "Telegram",
+            "Verified"
+          ]
         }
       ]
     },
@@ -3670,6 +3751,15 @@
           "name": "Kick The Deleted",
           "handle": "kickthedeletedbot",
           "desc": "Donate to keep this bot alive! bitcoin: bc1qn3ag0qff0axfpmqmtjpe098em5r64y6d4dqs6l",
+          "tags": [
+            "Crypto",
+            "Verified"
+          ]
+        },
+        {
+          "name": "PHP Index",
+          "handle": "phpindexbot",
+          "desc": "👤 Created by @NeleReal\n🌐 Other @NeleBots",
           "tags": [
             "Crypto",
             "Verified"
