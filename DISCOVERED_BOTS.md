@@ -4,20 +4,13 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **Telegram Bot Raw** | [@rawdatabot](https://t.me/rawdatabot) | `telegram-utils` | ℹ️ Made by @SeanChannel |
-| **Truth or Dare Bot for Group Chats  Friends** | [@truthdarefriendsbot](https://t.me/truthdarefriendsbot) | `productivity-utilities` | Truth or Dare for one friend by private message, no group needed, or spin it in a group. More bots: addthisbot.com |
-| **Bot Offline** | [@ajviewcounter_bot](https://t.me/ajviewcounter_bot) | `productivity-utilities` | Más Proyectos en @proyectos_aj
-
-Contacto: @cogkdgkso |
-| **Simple Calculator Bot** | [@calcit_bot](https://t.me/calcit_bot) | `productivity-utilities` | Bot to do simple calculations
-
-@odbots |
-| **COVID-19 Visual** | [@covid19_visual_bot](https://t.me/covid19_visual_bot) | `productivity-utilities` | Get meaningful visual graphs related to COVID-19. Data is provided by Johns Hopkins CSSE. |
-| **AntiCyrillicScriptBot** | [@anticyrillicscriptbot](https://t.me/anticyrillicscriptbot) | `productivity-utilities` | Removes messages which contain Cyrillic script.
-More ad-free bots @GroupOwnerBots. |
-| **SpamMeNotBot** | [@spammenotbot](https://t.me/spammenotbot) | `privacy-security` | This bot provides a simple and fully automatic way to protect your group from spam/flood attacks. |
-| **PHP Index** | [@phpindexbot](https://t.me/phpindexbot) | `crypto-finance` | 👤 Created by @NeleReal
-🌐 Other @NeleBots |
-| **AntiServiceMessageBot** | [@antiservicemessagebot](https://t.me/antiservicemessagebot) | `productivity-utilities` | Removes join, add and leave messages (Service Messages).
-More ad-free bots @GroupOwnerBots. |
-| **QR code safe scan** | [@qrcodesafebot](https://t.me/qrcodesafebot) | `developers-devops` | Made in India with love. |
+| **Pitaco Bot** | [@pitacobot](https://t.me/pitacobot) | `productivity-utilities` | Collective evaluation of suggestions via polls. |
+| **RemoveHiBot** | [@removehibot](https://t.me/removehibot) | `productivity-utilities` | I remove hi/hello messages. More handy bots: https://telegrambotcollection.glitch.me/ |
+| **Лора Про  ИИ Фото и видео** | [@mono_me_bot](https://t.me/mono_me_bot) | `productivity-utilities` | Создавай трендовые видео и фотосессии по идеям других людей. 		Тех. Поддержка: @maastat		Проект: Lora.pro |
+| **QuickCloneBot  No-Code File Store Bot Builder33** | [@quickclonebot](https://t.me/quickclonebot) | `developers-devops` | 🚀 Build your file store bot for FREE, no coding needed! One bot per user,  🆓 Forever, with a small ad in messages. 🎉 |
+| **GiveawaysBot** | [@giveaways_bot](https://t.me/giveaways_bot) | `productivity-utilities` | Hi, i'm GiveawaysBot and i'm here to create and manage giveaways on Telegram. |
+| **KonvBot** | [@konvbot](https://t.me/konvbot) | `productivity-utilities` | You can contact @konvbot right away. |
+| **Atomic Compressor** | [@xompressorbot](https://t.me/xompressorbot) | `file-converters` | I can compress your musics UP TO 80% |
+| **Flirt 18** | [@tsocialappbot](https://t.me/tsocialappbot) | `productivity-utilities` | The social mini app for Telegram 📱	Meet new people 💕 |
+| **بلوچت** | [@blluchatbot](https://t.me/blluchatbot) | `productivity-utilities` | You can contact @blluchatbot right away. |
+| **True Mafia** | [@truemafiabot](https://t.me/truemafiabot) | `productivity-utilities` | Бесплатный бот для игры в Мафию		 https://truemafia.online |

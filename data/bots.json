@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 381,
+    "total_bots": 391,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -246,6 +246,15 @@
           "name": "Image Converter",
           "handle": "imageconverterrobot",
           "desc": "You can contact @imageconverterrobot right away.",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Atomic Compressor",
+          "handle": "xompressorbot",
+          "desc": "I can compress your musics UP TO 80%",
           "tags": [
             "File",
             "Verified"
@@ -1707,6 +1716,15 @@
             "Developers",
             "Verified"
           ]
+        },
+        {
+          "name": "QuickCloneBot  No-Code File Store Bot Builder33",
+          "handle": "quickclonebot",
+          "desc": "🚀 Build your file store bot for FREE, no coding needed! One bot per user,  🆓 Forever, with a small ad in messages. 🎉",
+          "tags": [
+            "Developers",
+            "Verified"
+          ]
         }
       ]
     },
@@ -2873,6 +2891,78 @@
           "name": "AntiServiceMessageBot",
           "handle": "antiservicemessagebot",
           "desc": "Removes join, add and leave messages (Service Messages).\nMore ad-free bots @GroupOwnerBots.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Pitaco Bot",
+          "handle": "pitacobot",
+          "desc": "Collective evaluation of suggestions via polls.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "RemoveHiBot",
+          "handle": "removehibot",
+          "desc": "I remove hi/hello messages. More handy bots: https://telegrambotcollection.glitch.me/",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Лора Про  ИИ Фото и видео",
+          "handle": "mono_me_bot",
+          "desc": "Создавай трендовые видео и фотосессии по идеям других людей. \t\tТех. Поддержка: @maastat\t\tПроект: Lora.pro",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "GiveawaysBot",
+          "handle": "giveaways_bot",
+          "desc": "Hi, i'm GiveawaysBot and i'm here to create and manage giveaways on Telegram.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "KonvBot",
+          "handle": "konvbot",
+          "desc": "You can contact @konvbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Flirt 18",
+          "handle": "tsocialappbot",
+          "desc": "The social mini app for Telegram 📱\tMeet new people 💕",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "بلوچت",
+          "handle": "blluchatbot",
+          "desc": "You can contact @blluchatbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "True Mafia",
+          "handle": "truemafiabot",
+          "desc": "Бесплатный бот для игры в Мафию\t\t https://truemafia.online",
           "tags": [
             "Productivity",
             "Verified"
