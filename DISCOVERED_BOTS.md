@@ -4,13 +4,21 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **Pitaco Bot** | [@pitacobot](https://t.me/pitacobot) | `productivity-utilities` | Collective evaluation of suggestions via polls. |
-| **RemoveHiBot** | [@removehibot](https://t.me/removehibot) | `productivity-utilities` | I remove hi/hello messages. More handy bots: https://telegrambotcollection.glitch.me/ |
-| **Лора Про  ИИ Фото и видео** | [@mono_me_bot](https://t.me/mono_me_bot) | `productivity-utilities` | Создавай трендовые видео и фотосессии по идеям других людей. 		Тех. Поддержка: @maastat		Проект: Lora.pro |
-| **QuickCloneBot  No-Code File Store Bot Builder33** | [@quickclonebot](https://t.me/quickclonebot) | `developers-devops` | 🚀 Build your file store bot for FREE, no coding needed! One bot per user,  🆓 Forever, with a small ad in messages. 🎉 |
-| **GiveawaysBot** | [@giveaways_bot](https://t.me/giveaways_bot) | `productivity-utilities` | Hi, i'm GiveawaysBot and i'm here to create and manage giveaways on Telegram. |
-| **KonvBot** | [@konvbot](https://t.me/konvbot) | `productivity-utilities` | You can contact @konvbot right away. |
-| **Atomic Compressor** | [@xompressorbot](https://t.me/xompressorbot) | `file-converters` | I can compress your musics UP TO 80% |
-| **Flirt 18** | [@tsocialappbot](https://t.me/tsocialappbot) | `productivity-utilities` | The social mini app for Telegram 📱	Meet new people 💕 |
-| **بلوچت** | [@blluchatbot](https://t.me/blluchatbot) | `productivity-utilities` | You can contact @blluchatbot right away. |
-| **True Mafia** | [@truemafiabot](https://t.me/truemafiabot) | `productivity-utilities` | Бесплатный бот для игры в Мафию		 https://truemafia.online |
+| **deezer2drivebot** | [@deezer2drivebot](https://t.me/deezer2drivebot) | `music-audio` | If you have Telegram, you can contact @deezer2drivebot right away. |
+| **moodbot** | [@m00dbot](https://t.me/m00dbot) | `productivity-utilities` | You can contact @m00dbot right away. |
+| **Spoti Bot** | [@spoti_bot](https://t.me/spoti_bot) | `productivity-utilities` | Spoti bot 
+http://www.spoti.com.ar |
+| **Odin** | [@odinrobot](https://t.me/odinrobot) | `search-reference` | Powerful group management bot
+
+Check out the Mini App to configure your chats!
+
+Support: @TheBotsSupport
+News: @LukeBots |
+| **Multi  Purpose URL  protected  File  Bot** | [@anydlbot](https://t.me/anydlbot) | `media-downloaders` | 1️⃣ URL Uploader	2️⃣ File Renamer	3️⃣ Sticker Downloader		Daily Upload Limit: 1GB |
+| **Balance Pro** | [@balance_pro_bot](https://t.me/balance_pro_bot) | `group-moderation` | Manage account balance of group members. The admin can  manage the balance of the members. |
+| **Random Name Generator** | [@fdrandomnamegeneratorbot](https://t.me/fdrandomnamegeneratorbot) | `productivity-utilities` | A Random Name Generator Bot |
+| **archewikibot** | [@archewikibot](https://t.me/archewikibot) | `search-reference` | If you have Telegram, you can contact @archewikibot right away. |
+| **ptt_beauty_bot** | [@codingman_ptt_beauty_bot](https://t.me/codingman_ptt_beauty_bot) | `productivity-utilities` | You can contact @codingman_ptt_beauty_bot right away. |
+| **Office Converter** | [@docconverterbot](https://t.me/docconverterbot) | `file-converters` | Channel https://t.me/pdfconvchannel
+Supported files:
+🔸.doc, .docx, .odt, .txt .xls .xlsx, .ods, .csv, .ppt, .pptx |

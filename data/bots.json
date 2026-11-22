@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 391,
+    "total_bots": 401,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -255,6 +255,15 @@
           "name": "Atomic Compressor",
           "handle": "xompressorbot",
           "desc": "I can compress your musics UP TO 80%",
+          "tags": [
+            "File",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Office Converter",
+          "handle": "docconverterbot",
+          "desc": "Channel https://t.me/pdfconvchannel\nSupported files:\n🔸.doc, .docx, .odt, .txt .xls .xlsx, .ods, .csv, .ppt, .pptx",
           "tags": [
             "File",
             "Verified"
@@ -632,6 +641,15 @@
             "Media",
             "Verified"
           ]
+        },
+        {
+          "name": "Multi  Purpose URL  protected  File  Bot",
+          "handle": "anydlbot",
+          "desc": "1️⃣ URL Uploader\t2️⃣ File Renamer\t3️⃣ Sticker Downloader\t\tDaily Upload Limit: 1GB",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
         }
       ]
     },
@@ -929,6 +947,15 @@
           "name": "Deezer Music",
           "handle": "deezersongbot",
           "desc": "You can contact @deezersongbot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
+        },
+        {
+          "name": "deezer2drivebot",
+          "handle": "deezer2drivebot",
+          "desc": "If you have Telegram, you can contact @deezer2drivebot right away.",
           "tags": [
             "Music",
             "Verified"
@@ -1515,6 +1542,15 @@
           "name": "Message to Link Bot",
           "handle": "messagetolinkbot",
           "desc": "I can get you URL (shareable public link) of messages from public channels and public supergroups.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Balance Pro",
+          "handle": "balance_pro_bot",
+          "desc": "Manage account balance of group members. The admin can  manage the balance of the members.",
           "tags": [
             "Group",
             "Verified"
@@ -2967,6 +3003,42 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "moodbot",
+          "handle": "m00dbot",
+          "desc": "You can contact @m00dbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Spoti Bot",
+          "handle": "spoti_bot",
+          "desc": "Spoti bot \nhttp://www.spoti.com.ar",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Random Name Generator",
+          "handle": "fdrandomnamegeneratorbot",
+          "desc": "A Random Name Generator Bot",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "ptt_beauty_bot",
+          "handle": "codingman_ptt_beauty_bot",
+          "desc": "You can contact @codingman_ptt_beauty_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -3257,6 +3329,24 @@
           "name": "My AnimeList Bot",
           "handle": "mal_x_bot",
           "desc": "✨ Your personal anime & manga assistant!\t\t🎬 Powerful anime & manga search\t🔥 Popular and trending seasonal hits",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Odin",
+          "handle": "odinrobot",
+          "desc": "Powerful group management bot\n\nCheck out the Mini App to configure your chats!\n\nSupport: @TheBotsSupport\nNews: @LukeBots",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "archewikibot",
+          "handle": "archewikibot",
+          "desc": "If you have Telegram, you can contact @archewikibot right away.",
           "tags": [
             "Search",
             "Verified"

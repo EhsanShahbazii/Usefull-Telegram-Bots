@@ -1,10 +1,10 @@
 # 📊 Telegram Bots Health Report
 
-*Generated on: 2026-11-19 06:10:06 UTC*
+*Generated on: 2026-11-22 05:23:53 UTC*
 
 ## 📈 Summary
-- **Total Checked**: 391
-- **🟢 Active Bots**: 385 (98.5%)
+- **Total Checked**: 401
+- **🟢 Active Bots**: 395 (98.5%)
 - **⚠️ Channels/Users**: 6 (1.5%)
 - **🔴 Dead / Unavailable**: 0 (0.0%)
 
