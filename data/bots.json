@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 401,
+    "total_bots": 411,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -960,6 +960,24 @@
             "Music",
             "Verified"
           ]
+        },
+        {
+          "name": "yuihirasawamusic_bot",
+          "handle": "yuihirasawamusic_bot",
+          "desc": "If you have Telegram, you can contact @yuihirasawamusic_bot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
+        },
+        {
+          "name": "FindMusicPleaseBot",
+          "handle": "findmusicpleasebot",
+          "desc": "Bot finds music You want.\n\nContact&ads: findmusicpleasebot@gmail.com",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1551,6 +1569,15 @@
           "name": "Balance Pro",
           "handle": "balance_pro_bot",
           "desc": "Manage account balance of group members. The admin can  manage the balance of the members.",
+          "tags": [
+            "Group",
+            "Verified"
+          ]
+        },
+        {
+          "name": "mwk_autofilterbot",
+          "handle": "mwk_autofilterbot",
+          "desc": "If you have Telegram, you can contact @mwk_autofilterbot right away.",
           "tags": [
             "Group",
             "Verified"
@@ -3035,6 +3062,69 @@
           "name": "ptt_beauty_bot",
           "handle": "codingman_ptt_beauty_bot",
           "desc": "You can contact @codingman_ptt_beauty_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "prourluploadbot",
+          "handle": "prourluploadbot",
+          "desc": "If you have Telegram, you can contact @prourluploadbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "librarypoint_bot",
+          "handle": "librarypoint_bot",
+          "desc": "If you have Telegram, you can contact @librarypoint_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "grouphub",
+          "handle": "grouphub_bot",
+          "desc": "You can contact @grouphub_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "IC Proxies",
+          "handle": "icproxiesbot",
+          "desc": "Project by : @IC_Mods\nDo you want to access new proxies at once? ok join @ICProxies",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Markdown",
+          "handle": "markdownplusbot",
+          "desc": "You can contact @markdownplusbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Learn phrasal verbs",
+          "handle": "learnphrasalverbs_bot",
+          "desc": "You can contact @learnphrasalverbs_bot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Link Shortener",
+          "handle": "linkshortenerzbot",
+          "desc": "This is All in One Link Shortener Bot having multiple Site Support and Login Mode",
           "tags": [
             "Productivity",
             "Verified"

@@ -4,21 +4,16 @@
 
 | Bot Name | Handle | Category | Description |
 | --- | --- | --- | --- |
-| **deezer2drivebot** | [@deezer2drivebot](https://t.me/deezer2drivebot) | `music-audio` | If you have Telegram, you can contact @deezer2drivebot right away. |
-| **moodbot** | [@m00dbot](https://t.me/m00dbot) | `productivity-utilities` | You can contact @m00dbot right away. |
-| **Spoti Bot** | [@spoti_bot](https://t.me/spoti_bot) | `productivity-utilities` | Spoti bot 
-http://www.spoti.com.ar |
-| **Odin** | [@odinrobot](https://t.me/odinrobot) | `search-reference` | Powerful group management bot
+| **yuihirasawamusic_bot** | [@yuihirasawamusic_bot](https://t.me/yuihirasawamusic_bot) | `music-audio` | If you have Telegram, you can contact @yuihirasawamusic_bot right away. |
+| **prourluploadbot** | [@prourluploadbot](https://t.me/prourluploadbot) | `productivity-utilities` | If you have Telegram, you can contact @prourluploadbot right away. |
+| **mwk_autofilterbot** | [@mwk_autofilterbot](https://t.me/mwk_autofilterbot) | `group-moderation` | If you have Telegram, you can contact @mwk_autofilterbot right away. |
+| **librarypoint_bot** | [@librarypoint_bot](https://t.me/librarypoint_bot) | `productivity-utilities` | If you have Telegram, you can contact @librarypoint_bot right away. |
+| **grouphub** | [@grouphub_bot](https://t.me/grouphub_bot) | `productivity-utilities` | You can contact @grouphub_bot right away. |
+| **IC Proxies** | [@icproxiesbot](https://t.me/icproxiesbot) | `productivity-utilities` | Project by : @IC_Mods
+Do you want to access new proxies at once? ok join @ICProxies |
+| **Markdown** | [@markdownplusbot](https://t.me/markdownplusbot) | `productivity-utilities` | You can contact @markdownplusbot right away. |
+| **Learn phrasal verbs** | [@learnphrasalverbs_bot](https://t.me/learnphrasalverbs_bot) | `productivity-utilities` | You can contact @learnphrasalverbs_bot right away. |
+| **Link Shortener** | [@linkshortenerzbot](https://t.me/linkshortenerzbot) | `productivity-utilities` | This is All in One Link Shortener Bot having multiple Site Support and Login Mode |
+| **FindMusicPleaseBot** | [@findmusicpleasebot](https://t.me/findmusicpleasebot) | `music-audio` | Bot finds music You want.
 
-Check out the Mini App to configure your chats!
-
-Support: @TheBotsSupport
-News: @LukeBots |
-| **Multi  Purpose URL  protected  File  Bot** | [@anydlbot](https://t.me/anydlbot) | `media-downloaders` | 1️⃣ URL Uploader	2️⃣ File Renamer	3️⃣ Sticker Downloader		Daily Upload Limit: 1GB |
-| **Balance Pro** | [@balance_pro_bot](https://t.me/balance_pro_bot) | `group-moderation` | Manage account balance of group members. The admin can  manage the balance of the members. |
-| **Random Name Generator** | [@fdrandomnamegeneratorbot](https://t.me/fdrandomnamegeneratorbot) | `productivity-utilities` | A Random Name Generator Bot |
-| **archewikibot** | [@archewikibot](https://t.me/archewikibot) | `search-reference` | If you have Telegram, you can contact @archewikibot right away. |
-| **ptt_beauty_bot** | [@codingman_ptt_beauty_bot](https://t.me/codingman_ptt_beauty_bot) | `productivity-utilities` | You can contact @codingman_ptt_beauty_bot right away. |
-| **Office Converter** | [@docconverterbot](https://t.me/docconverterbot) | `file-converters` | Channel https://t.me/pdfconvchannel
-Supported files:
-🔸.doc, .docx, .odt, .txt .xls .xlsx, .ods, .csv, .ppt, .pptx |
+Contact&ads: findmusicpleasebot@gmail.com |
