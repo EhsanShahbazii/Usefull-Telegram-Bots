@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Useful Telegram Bots",
     "description": "Curated collection of the most useful, active, and verified Telegram bots.",
-    "total_bots": 411,
+    "total_bots": 421,
     "total_categories": 18,
     "updated_at": "Auto-Discovered & Verified",
     "version": "2.0.0"
@@ -650,6 +650,33 @@
             "Media",
             "Verified"
           ]
+        },
+        {
+          "name": "MaxySongBot",
+          "handle": "maxysongbot",
+          "desc": "A Bot To Download Song\nWritten by MaxySpark",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Reddit Bot",
+          "handle": "reddbot",
+          "desc": "Get Reddit Posts.\n\nAn open source project by @thedevs",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
+        },
+        {
+          "name": "YouTube downloader",
+          "handle": "utubebot_2_bot",
+          "desc": ".",
+          "tags": [
+            "Media",
+            "Verified"
+          ]
         }
       ]
     },
@@ -978,6 +1005,15 @@
             "Music",
             "Verified"
           ]
+        },
+        {
+          "name": "tube_mp3_bot",
+          "handle": "tube_mp3_bot",
+          "desc": "If you have Telegram, you can contact @tube_mp3_bot right away.",
+          "tags": [
+            "Music",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1172,6 +1208,15 @@
             "Cloud",
             "Verified"
           ]
+        },
+        {
+          "name": "YandexDisk Bot",
+          "handle": "ya_disk_bot",
+          "desc": "Work with Yandex.Disk. Currently disabled. See more - https://github.com/srgykuz/yandex-disk-telegram-bot#readme",
+          "tags": [
+            "Cloud",
+            "Verified"
+          ]
         }
       ]
     },
@@ -1264,6 +1309,15 @@
           "name": "SpamMeNotBot",
           "handle": "spammenotbot",
           "desc": "This bot provides a simple and fully automatic way to protect your group from spam/flood attacks.",
+          "tags": [
+            "Privacy",
+            "Verified"
+          ]
+        },
+        {
+          "name": "NSFW helper",
+          "handle": "nsfw_help_bot",
+          "desc": "Detects the likelihood that an image contains nudity and should be considered NSFW.",
           "tags": [
             "Privacy",
             "Verified"
@@ -3129,6 +3183,33 @@
             "Productivity",
             "Verified"
           ]
+        },
+        {
+          "name": "Expense Tracker  Budget",
+          "handle": "budgetlogbot",
+          "desc": "Personal expense tracker: send \"12.50 coffee\" to log it, auto-categorized. More bots: addthisbot.com",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Al-Quran",
+          "handle": "alquran_tamilbot",
+          "desc": "You can contact @alquran_tamilbot right away.",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Quote Bot",
+          "handle": "bookquotebot",
+          "desc": "Quote Bot sends you daily quotes from famous books 📚",
+          "tags": [
+            "Productivity",
+            "Verified"
+          ]
         }
       ]
     },
@@ -3437,6 +3518,15 @@
           "name": "archewikibot",
           "handle": "archewikibot",
           "desc": "If you have Telegram, you can contact @archewikibot right away.",
+          "tags": [
+            "Search",
+            "Verified"
+          ]
+        },
+        {
+          "name": "Comments User  Bot",
+          "handle": "commentsuserbot",
+          "desc": "Enable comments 💬 at telegram channels\n\nNews @CommentsUser\n\nManual telegra.ph/CommentsUser-en-03-20\n\nBy @denisx 🎃",
           "tags": [
             "Search",
             "Verified"
